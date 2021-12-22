@@ -1,0 +1,1703 @@
+##### INICIO REVISION FASES NE - Fecha actual: Fri Dec 10 08:05:01 CET 2021 ################################################
+---------------------------------------------------------------------------------------------------------
+[INFO] No hay argumento, se coge por defecto la fecha del dia anterior 20211209.
+[INFO] Comenzando Revision de las fases del dia: 20211209 ...
+
+[INFO] La ruta de log para revision es: /apps/NE01/logs.
+
+[INFO] ===== Fase NE010DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 791 Dec  9 02:00 /apps/NE01/logs/NE010DIA.D20211209_02:00:01.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,02:00:01   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso obtenci�n de comunicaciones caducadas
+*** TRAZA: Fin del Proceso obtenci�n de comunicaciones caducadas--> (Llevamos   5 Seg/s de ejecuci�n)
+*** TRAZA: Se dan de alta los avisos con la lista de comunicaciones obtenida--> (Llevamos   5 Seg/s de ejecuci�n)
+*** ESTAD�STICAS: 0 comunicaciones avisadas
+*** TRAZA: Fin del Proceso generaci�n de avisos para comunicaciones caducadas--> (Llevamos   5 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   5 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,02:00:07    *************
+
+
+
+
+
+[INFO] ===== Fase NE020DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 65101 Dec  9 02:30 /apps/NE01/logs/NE020DIA.D20211209_02:30:00.log
+
+[INFO] Mostrar el contenido de los logs:
+El aviso 813866-168 ha superado la fecha M�xima de Salida
+El aviso 813866-169 ha superado la fecha M�xima de Salida
+El aviso 813866-170 ha superado la fecha M�xima de Salida
+El aviso 813866-171 ha superado la fecha M�xima de Salida
+El aviso 813866-172 ha superado la fecha M�xima de Salida
+El aviso 813866-173 ha superado la fecha M�xima de Salida
+El aviso 813866-174 ha superado la fecha M�xima de Salida
+El aviso 813866-175 ha superado la fecha M�xima de Salida
+El aviso 813866-176 ha superado la fecha M�xima de Salida
+El aviso 813866-177 ha superado la fecha M�xima de Salida
+El aviso 813866-178 ha superado la fecha M�xima de Salida
+El aviso 813866-179 ha superado la fecha M�xima de Salida
+El aviso 813866-180 ha superado la fecha M�xima de Salida
+El aviso 813866-181 ha superado la fecha M�xima de Salida
+El aviso 813866-182 ha superado la fecha M�xima de Salida
+El aviso 813866-183 ha superado la fecha M�xima de Salida
+El aviso 813866-184 ha superado la fecha M�xima de Salida
+El aviso 813866-185 ha superado la fecha M�xima de Salida
+El aviso 813866-186 ha superado la fecha M�xima de Salida
+El aviso 813866-187 ha superado la fecha M�xima de Salida
+El aviso 813866-188 ha superado la fecha M�xima de Salida
+El aviso 813866-189 ha superado la fecha M�xima de Salida
+El aviso 813866-190 ha superado la fecha M�xima de Salida
+El aviso 813866-191 ha superado la fecha M�xima de Salida
+El aviso 813866-192 ha superado la fecha M�xima de Salida
+El aviso 813866-193 ha superado la fecha M�xima de Salida
+El aviso 813866-194 ha superado la fecha M�xima de Salida
+El aviso 813866-195 ha superado la fecha M�xima de Salida
+El aviso 813866-196 ha superado la fecha M�xima de Salida
+El aviso 813866-197 ha superado la fecha M�xima de Salida
+El aviso 813866-198 ha superado la fecha M�xima de Salida
+El aviso 813866-199 ha superado la fecha M�xima de Salida
+El aviso 813866-200 ha superado la fecha M�xima de Salida
+El aviso 813866-201 ha superado la fecha M�xima de Salida
+El aviso 813866-202 ha superado la fecha M�xima de Salida
+El aviso 813866-203 ha superado la fecha M�xima de Salida
+El aviso 813866-204 ha superado la fecha M�xima de Salida
+El aviso 813866-205 ha superado la fecha M�xima de Salida
+El aviso 813866-206 ha superado la fecha M�xima de Salida
+El aviso 813866-207 ha superado la fecha M�xima de Salida
+El aviso 813866-208 ha superado la fecha M�xima de Salida
+El aviso 813866-209 ha superado la fecha M�xima de Salida
+El aviso 813866-210 ha superado la fecha M�xima de Salida
+El aviso 813866-211 ha superado la fecha M�xima de Salida
+El aviso 813866-212 ha superado la fecha M�xima de Salida
+El aviso 813866-213 ha superado la fecha M�xima de Salida
+El aviso 813866-214 ha superado la fecha M�xima de Salida
+El aviso 813866-215 ha superado la fecha M�xima de Salida
+El aviso 813866-216 ha superado la fecha M�xima de Salida
+El aviso 813866-217 ha superado la fecha M�xima de Salida
+El aviso 813866-218 ha superado la fecha M�xima de Salida
+El aviso 813866-219 ha superado la fecha M�xima de Salida
+El aviso 813866-220 ha superado la fecha M�xima de Salida
+El aviso 813866-221 ha superado la fecha M�xima de Salida
+El aviso 813866-222 ha superado la fecha M�xima de Salida
+El aviso 813866-223 ha superado la fecha M�xima de Salida
+El aviso 813866-224 ha superado la fecha M�xima de Salida
+El aviso 813866-225 ha superado la fecha M�xima de Salida
+El aviso 813866-226 ha superado la fecha M�xima de Salida
+El aviso 813866-227 ha superado la fecha M�xima de Salida
+El aviso 813866-228 ha superado la fecha M�xima de Salida
+El aviso 813866-229 ha superado la fecha M�xima de Salida
+El aviso 813866-230 ha superado la fecha M�xima de Salida
+El aviso 813866-231 ha superado la fecha M�xima de Salida
+El aviso 813866-232 ha superado la fecha M�xima de Salida
+El aviso 813866-233 ha superado la fecha M�xima de Salida
+El aviso 813866-234 ha superado la fecha M�xima de Salida
+El aviso 813866-235 ha superado la fecha M�xima de Salida
+El aviso 813866-236 ha superado la fecha M�xima de Salida
+El aviso 813866-237 ha superado la fecha M�xima de Salida
+El aviso 813866-238 ha superado la fecha M�xima de Salida
+El aviso 813866-239 ha superado la fecha M�xima de Salida
+El aviso 813866-240 ha superado la fecha M�xima de Salida
+El aviso 813866-241 ha superado la fecha M�xima de Salida
+El aviso 813866-242 ha superado la fecha M�xima de Salida
+El aviso 813866-243 ha superado la fecha M�xima de Salida
+El aviso 813866-244 ha superado la fecha M�xima de Salida
+El aviso 813866-245 ha superado la fecha M�xima de Salida
+El aviso 813866-246 ha superado la fecha M�xima de Salida
+El aviso 813866-247 ha superado la fecha M�xima de Salida
+El aviso 813866-248 ha superado la fecha M�xima de Salida
+El aviso 813866-249 ha superado la fecha M�xima de Salida
+El aviso 813866-250 ha superado la fecha M�xima de Salida
+El aviso 813866-251 ha superado la fecha M�xima de Salida
+El aviso 813866-252 ha superado la fecha M�xima de Salida
+El aviso 813866-253 ha superado la fecha M�xima de Salida
+El aviso 813866-254 ha superado la fecha M�xima de Salida
+El aviso 813866-255 ha superado la fecha M�xima de Salida
+El aviso 813866-256 ha superado la fecha M�xima de Salida
+El aviso 813866-257 ha superado la fecha M�xima de Salida
+El aviso 813866-258 ha superado la fecha M�xima de Salida
+El aviso 813866-259 ha superado la fecha M�xima de Salida
+El aviso 813866-260 ha superado la fecha M�xima de Salida
+*** ESTAD�STICAS: 1127 Solicitudes de Env�o avisadas
+*** TRAZA: Fin del Proceso generaci�n de avisos para env�os con fecha l�mite superada--> (Llevamos   46 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   46 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,02:30:47    *************
+
+
+
+
+
+[INFO] ===== Fase NE040DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 586 Dec  9 03:00 /apps/NE01/logs/NE040DIA.D20211209_03:00:01.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,03:00:01   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso eliminaci�n de avisos caducados--> (Llevamos   5 Seg/s de ejecuci�n)
+*** ESTAD�STICAS: 2758 avisos eliminados
+*** TRAZA: Fin del Proceso eliminaci�n de avisos caducados--> (Llevamos   10 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   10 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,03:00:14    *************
+
+
+
+
+
+[INFO] ===== Fase NE050DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 1268 Dec  9 03:30 /apps/NE01/logs/NE050DIA.D20211209_03:30:00.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,03:30:00   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de obtenci�n de contenidos diferidos no activos
+ ** INFO: Se ha activado el Contenido select distinct NECONVMO.* FROM NECONVMO WHERE NECONVMO.ESCN_CO_ESTADO = 2 AND NECONVMO.CONV_IN_VISTOBUENO_IT_ACTIVACI = 'S' AND NECONVMO.CONV_IT_VISTOBUENOADM IS NOT NULL AND NECONVMO.CONV_IT_VISTOBUENOPROM IS NOT NULL AND NECONVMO.CONV_IT_ACTIVACION_SOLICITADA < (TO_DATE('09/12/2021', 'DD/MM/YYYY')+1) AND NECONVMO.CONV_IT_VISTOBUENOPROM IS NOT NULL ORDER BY NECONVMO.COMU_CO_COMUNICACION ASC, NECONVMO.CONT_NU_CONTENIDO ASC, NECONVMO.CONV_NU_VERSION DESC 
+*** TRAZA: Fin del Proceso de obtenci�n de contenidos diferidos no activos--> (Llevamos   5 Seg/s de ejecuci�n)
+*** TRAZA: Se dan de alta los avisos con la lista de contenidos obtenida--> (Llevamos   5 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso generaci�n de avisos para contenidos diferidos no activos--> (Llevamos   5 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   5 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,03:30:06    *************
+
+
+
+
+
+[INFO] ===== Fase NE060DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 747 Dec  9 04:30 /apps/NE01/logs/NE060DIA.D20211209_04:30:00.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,04:30:00   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de obtenci�n de contenidos a inactivar
+*** TRAZA: Fin del Proceso de obtenci�n de contenidos a inactivar--> (Llevamos   10 Seg/s de ejecuci�n)
+*** TRAZA: Se inactivan los contenidos obtenidos--> (Llevamos   10 Seg/s de ejecuci�n)
+*** ESTAD�STICAS: 0 contenidos inactivados
+*** TRAZA: Fin del Proceso de Inactivaci�n de Contenidos--> (Llevamos   10 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   10 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,04:30:11    *************
+
+
+
+
+
+[INFO] ===== Fase NE070DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 832 Dec  9 04:00 /apps/NE01/logs/NE070DIA.D20211209_04:00:00.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,04:00:00   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de obtenci�n de contenidos diferidos no activos
+*** TRAZA: Fin del Proceso de obtenci�n de contenidos diferidos no activos--> (Llevamos   5 Seg/s de ejecuci�n)
+*** TRAZA: Se dan de alta los avisos con la lista de contenidos obtenida--> (Llevamos   5 Seg/s de ejecuci�n)
+*** ESTAD�STICAS: 0 Contenidos Difderidos No Activos avisados
+*** TRAZA: Fin del Proceso generaci�n de avisos para contenidos diferidos no activos--> (Llevamos   5 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   5 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,04:00:06    *************
+
+
+
+
+
+[INFO] ===== Fase NE070PET ==============================================================================
+######################################################
+###  --> Esta fase existe varias ejecuciones <--   ###
+######################################################
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 590 Dec  9 03:03 /apps/NE01/logs/NE070PET.D20211209_03:03:12.log
+-rw-rw-rw- 1 USMNE01 aplicacion 590 Dec  9 03:07 /apps/NE01/logs/NE070PET.D20211209_03:07:00.log
+-rw-rw-rw- 1 USMNE01 aplicacion 590 Dec  9 03:11 /apps/NE01/logs/NE070PET.D20211209_03:11:00.log
+-rw-rw-rw- 1 USMNE01 aplicacion 590 Dec  9 03:15 /apps/NE01/logs/NE070PET.D20211209_03:15:01.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,03:03:12   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de validaci�n de directorios
+*** TRAZA: Comienza el Proceso de ficheros--> (Llevamos   2 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso de generaci�n de ficheros de informes--> (Llevamos   3 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** RESULTADO: **** Realizado en: --> (Llevamos   3 Seg/s de ejecuci�n)
+*** INFO: Fin de FASE
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,03:03:16    *************
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,03:07:00   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de validaci�n de directorios
+*** TRAZA: Comienza el Proceso de ficheros--> (Llevamos   1 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso de generaci�n de ficheros de informes--> (Llevamos   2 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** RESULTADO: **** Realizado en: --> (Llevamos   2 Seg/s de ejecuci�n)
+*** INFO: Fin de FASE
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,03:07:03    *************
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,03:11:00   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de validaci�n de directorios
+*** TRAZA: Comienza el Proceso de ficheros--> (Llevamos   4 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso de generaci�n de ficheros de informes--> (Llevamos   4 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** RESULTADO: **** Realizado en: --> (Llevamos   4 Seg/s de ejecuci�n)
+*** INFO: Fin de FASE
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,03:11:06    *************
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,03:15:01   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de validaci�n de directorios
+*** TRAZA: Comienza el Proceso de ficheros--> (Llevamos   5 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso de generaci�n de ficheros de informes--> (Llevamos   6 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** RESULTADO: **** Realizado en: --> (Llevamos   6 Seg/s de ejecuci�n)
+*** INFO: Fin de FASE
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,03:15:08    *************
+
+
+
+
+
+[INFO] ===== Fase NE080DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 6468574 Dec  9 01:24 /apps/NE01/logs/NE080DIA.D20211209_01:20:18.log
+
+[INFO] Mostrar el contenido de los logs:
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... Antes del next iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento... iteradorBufferSeguimiento.next()--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: ELIMINANDO del buffer... desde ID = 703211915 , Hasta ID = 703211959--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Seguimiento.... Realizado commit FINAL de 45 registros. Hasta ID -> 703211959--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** INFO: Total elementos Buffer Seguimiento (Apertura y Contestaciones): 25345
+*** INFO: Numero de eventos de envios en REINTENTO: 0
+*** INFO: Numero de eventos de mensajes ya ABIERTO: 56
+*** INFO: Se han Consolidado correctamente: 24587
+******************************************************
+*** TRAZA: FINAL Consolidacion del Buffer de Seguimiento....--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Consolidacion del Buffer de Rechazos....--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Inicio cuenta de ticks a consolidar--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Total de elementos en el buffer -> 472--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Total de ticks a leer (registrosALeer) =-1--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Se leeran todos los tickets = 472--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Total de registros a commitear = 100--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Total de registros a procesar paginados (rownumMax) Rechazados = 100--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Ejecutamos la query con un ROWNUM de = select /*+ INDEX (NERRPBAO NERRPBAO_PK) */ RRPB_CO_RECHAZO, MENS_NU_MENSAJE, ENVI_NU_ENVIO, SENV_NU_SOLIC_ENVIO, IREC_CO_CLASEMOTRECH, RRPB_NO_STATUSCODE, RRPB_IT_RECEPCION, RRPB_IN_RECH_POTEN, RRPB_DS_CLASIFICACION, RRPB_IN_INDIVIDUALIZADO, RRPB_DS_DSN, RRPB_NO_CABFROM, RRPB_NO_CABTO, RRPB_NO_CABSUBJECT from NERRPBAO WHERE ROWNUM <= 100--> (Llevamos   3 Min/s 35 Seg/s de ejecuci�n)
+*** INFO: Actualizando la fecha del primer rechazo a 08/12/2021 01:21:48
+*** TRAZA: Buffer de Rechazos... Realizamos COMMIT RECHAZADOS de = 100 registros. Hasta ID-> 312703558--> (Llevamos   3 Min/s 37 Seg/s de ejecuci�n)
+*** TRAZA: ELIMINADO del buffer de Rechazos... desde ID = 312703459 , Hasta ID ->312703558--> (Llevamos   3 Min/s 37 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Ejecutamos la query con un ROWNUM de = select /*+ INDEX (NERRPBAO NERRPBAO_PK) */ RRPB_CO_RECHAZO, MENS_NU_MENSAJE, ENVI_NU_ENVIO, SENV_NU_SOLIC_ENVIO, IREC_CO_CLASEMOTRECH, RRPB_NO_STATUSCODE, RRPB_IT_RECEPCION, RRPB_IN_RECH_POTEN, RRPB_DS_CLASIFICACION, RRPB_IN_INDIVIDUALIZADO, RRPB_DS_DSN, RRPB_NO_CABFROM, RRPB_NO_CABTO, RRPB_NO_CABSUBJECT from NERRPBAO WHERE ROWNUM <= 100--> (Llevamos   3 Min/s 37 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Realizamos COMMIT RECHAZADOS de = 100 registros. Hasta ID-> 312703658--> (Llevamos   3 Min/s 38 Seg/s de ejecuci�n)
+*** TRAZA: ELIMINADO del buffer de Rechazos... desde ID = 312703559 , Hasta ID ->312703658--> (Llevamos   3 Min/s 38 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Ejecutamos la query con un ROWNUM de = select /*+ INDEX (NERRPBAO NERRPBAO_PK) */ RRPB_CO_RECHAZO, MENS_NU_MENSAJE, ENVI_NU_ENVIO, SENV_NU_SOLIC_ENVIO, IREC_CO_CLASEMOTRECH, RRPB_NO_STATUSCODE, RRPB_IT_RECEPCION, RRPB_IN_RECH_POTEN, RRPB_DS_CLASIFICACION, RRPB_IN_INDIVIDUALIZADO, RRPB_DS_DSN, RRPB_NO_CABFROM, RRPB_NO_CABTO, RRPB_NO_CABSUBJECT from NERRPBAO WHERE ROWNUM <= 100--> (Llevamos   3 Min/s 38 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Realizamos COMMIT RECHAZADOS de = 100 registros. Hasta ID-> 312703758--> (Llevamos   3 Min/s 39 Seg/s de ejecuci�n)
+*** TRAZA: ELIMINADO del buffer de Rechazos... desde ID = 312703659 , Hasta ID ->312703758--> (Llevamos   3 Min/s 39 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Ejecutamos la query con un ROWNUM de = select /*+ INDEX (NERRPBAO NERRPBAO_PK) */ RRPB_CO_RECHAZO, MENS_NU_MENSAJE, ENVI_NU_ENVIO, SENV_NU_SOLIC_ENVIO, IREC_CO_CLASEMOTRECH, RRPB_NO_STATUSCODE, RRPB_IT_RECEPCION, RRPB_IN_RECH_POTEN, RRPB_DS_CLASIFICACION, RRPB_IN_INDIVIDUALIZADO, RRPB_DS_DSN, RRPB_NO_CABFROM, RRPB_NO_CABTO, RRPB_NO_CABSUBJECT from NERRPBAO WHERE ROWNUM <= 100--> (Llevamos   3 Min/s 39 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Realizamos COMMIT RECHAZADOS de = 100 registros. Hasta ID-> 312703858--> (Llevamos   3 Min/s 40 Seg/s de ejecuci�n)
+*** TRAZA: ELIMINADO del buffer de Rechazos... desde ID = 312703759 , Hasta ID ->312703858--> (Llevamos   3 Min/s 40 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Ejecutamos la query con un ROWNUM de = select /*+ INDEX (NERRPBAO NERRPBAO_PK) */ RRPB_CO_RECHAZO, MENS_NU_MENSAJE, ENVI_NU_ENVIO, SENV_NU_SOLIC_ENVIO, IREC_CO_CLASEMOTRECH, RRPB_NO_STATUSCODE, RRPB_IT_RECEPCION, RRPB_IN_RECH_POTEN, RRPB_DS_CLASIFICACION, RRPB_IN_INDIVIDUALIZADO, RRPB_DS_DSN, RRPB_NO_CABFROM, RRPB_NO_CABTO, RRPB_NO_CABSUBJECT from NERRPBAO WHERE ROWNUM <= 100--> (Llevamos   3 Min/s 40 Seg/s de ejecuci�n)
+*** TRAZA: ELIMINADO del buffer de Rechazos... desde ID = 312703859 , Hasta ID ->312703930--> (Llevamos   3 Min/s 41 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos... Salimos del bucle y procesamos los ultimos 72 registros.--> (Llevamos   3 Min/s 41 Seg/s de ejecuci�n)
+*** TRAZA: Buffer de Rechazos.... Realizado commit FINAL de 72 registros. Hasta -> 312703930--> (Llevamos   3 Min/s 41 Seg/s de ejecuci�n)
+*** INFO: Se han Consolidado 472 elementos de la tabla Buffer Rechazos (Rechazos y Rechazos Potenciales)
+*** INFO: Num. de Ticks de Rechazo a procesar pertenecientes a envios en estado REINTENTO: 0
+*** INFO: Se han Consolidado correctamente 472 elementos de la tabla Buffer Rechazos (Rechazos y Rechazos Potenciales)
+*** TRAZA: FINAL consolidacion del Buffer de Rechazos....--> (Llevamos   3 Min/s 41 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso de Consolidaci�n--> (Llevamos   3 Min/s 41 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   3 Min/s 41 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:24:00    *************
+
+
+
+
+
+[INFO] ===== Fase NE085DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 14586 Dec  9 02:07 /apps/NE01/logs/NE085DIA.D20211209_02:07:08.log
+
+[INFO] Mostrar el contenido de los logs:
+*** INFO: Se va a tratar el Env�o 822738-6
+*** INFO: Se va a tratar el Env�o 822738-5
+*** INFO: Se va a tratar el Env�o 264555-58486
+*** INFO: Se va a tratar el Env�o 822738-4
+*** INFO: Se va a tratar el Env�o 642179-5827
+*** INFO: Se va a tratar el Env�o 822738-3
+*** INFO: Rechazo masivo
+*** INFO: Se va a tratar el Env�o 822751-1
+*** INFO: Se va a tratar el Env�o 822738-2
+*** INFO: Se va a tratar el Env�o 264555-58483
+*** INFO: Se va a tratar el Env�o 822738-1
+*** INFO: Rechazo masivo
+*** INFO: Se va a tratar el Env�o 264555-58480
+*** INFO: Se va a tratar el Env�o 822736-1
+*** INFO: Se va a tratar el Env�o 745925-3999
+*** INFO: Se va a tratar el Env�o 745925-3998
+*** INFO: Se va a tratar el Env�o 369377-44939
+*** INFO: Se va a tratar el Env�o 745925-3997
+*** INFO: Se va a tratar el Env�o 369377-44938
+*** INFO: Se va a tratar el Env�o 369377-44937
+*** INFO: Se va a tratar el Env�o 369377-44935
+*** INFO: Se va a tratar el Env�o 369377-44934
+*** INFO: Se va a tratar el Env�o 369377-44933
+*** INFO: Se va a tratar el Env�o 369377-44932
+*** INFO: Se va a tratar el Env�o 599942-11429
+*** INFO: Se va a tratar el Env�o 369377-44931
+*** INFO: Se va a tratar el Env�o 369377-44930
+*** INFO: Se va a tratar el Env�o 599942-11426
+*** INFO: Se va a tratar el Env�o 369379-39412
+*** INFO: Se va a tratar el Env�o 264555-58476
+*** INFO: Se va a tratar el Env�o 822717-1
+*** INFO: Se va a tratar el Env�o 822715-4
+El n�mero de envios con rechazo Masivo es 9
+*** TRAZA: Buscando Rechazos Masivos por SPAM....--> (Llevamos   9 Seg/s de ejecuci�n)
+*** INFO: minMensajes=10, porcRechazos=80.0.
+*** INFO: solicitud=113746
+*** INFO: solicitud=114642
+*** INFO: solicitud=114643
+*** INFO: solicitud=114645
+*** INFO: solicitud=114646
+*** INFO: solicitud=113615
+*** INFO: solicitud=113616
+*** INFO: solicitud=113408
+*** INFO: solicitud=113409
+*** INFO: solicitud=114771
+*** INFO: solicitud=114772
+*** INFO: solicitud=110644
+*** INFO: solicitud=110646
+*** INFO: solicitud=111832
+*** INFO: solicitud=126863
+*** INFO: solicitud=125824
+*** INFO: solicitud=190566
+*** INFO: solicitud=195840
+*** INFO: solicitud=210061
+*** INFO: solicitud=290457
+*** INFO: solicitud=303008
+*** INFO: solicitud=303010
+*** INFO: solicitud=303015
+*** INFO: solicitud=297628
+*** INFO: solicitud=297630
+*** INFO: solicitud=303025
+*** INFO: solicitud=336073
+El n�mero de solicitudes con rechazo masivo por SPAM es 27
+*** TRAZA: Insertando Avisos....--> (Llevamos   12 Seg/s de ejecuci�n)
+Ya exist�a un aviso de rechazo masivo para la solicitud 113746.
+Ya exist�a un aviso de rechazo masivo para la solicitud 114642.
+Ya exist�a un aviso de rechazo masivo para la solicitud 114643.
+Ya exist�a un aviso de rechazo masivo para la solicitud 114645.
+Ya exist�a un aviso de rechazo masivo para la solicitud 114646.
+Ya exist�a un aviso de rechazo masivo para la solicitud 113615.
+Ya exist�a un aviso de rechazo masivo para la solicitud 113616.
+Ya exist�a un aviso de rechazo masivo para la solicitud 113408.
+Ya exist�a un aviso de rechazo masivo para la solicitud 113409.
+Ya exist�a un aviso de rechazo masivo para la solicitud 114771.
+Ya exist�a un aviso de rechazo masivo para la solicitud 114772.
+Ya exist�a un aviso de rechazo masivo para la solicitud 110644.
+Ya exist�a un aviso de rechazo masivo para la solicitud 110646.
+Ya exist�a un aviso de rechazo masivo para la solicitud 111832.
+Ya exist�a un aviso de rechazo masivo para la solicitud 126863.
+Ya exist�a un aviso de rechazo masivo para la solicitud 125824.
+Ya exist�a un aviso de rechazo masivo para la solicitud 190566.
+Ya exist�a un aviso de rechazo masivo para la solicitud 195840.
+Ya exist�a un aviso de rechazo masivo para la solicitud 210061.
+Ya exist�a un aviso de rechazo masivo para la solicitud 290457.
+Ya exist�a un aviso de rechazo masivo para la solicitud 303008.
+Ya exist�a un aviso de rechazo masivo para la solicitud 303010.
+Ya exist�a un aviso de rechazo masivo para la solicitud 303015.
+Ya exist�a un aviso de rechazo masivo para la solicitud 297628.
+Ya exist�a un aviso de rechazo masivo para la solicitud 297630.
+Ya exist�a un aviso de rechazo masivo para la solicitud 303025.
+Ya exist�a un aviso de rechazo masivo para la solicitud 336073.
+*** ESTAD�STICAS: 0/27 solicitudes avisadas
+*** TRAZA: Estableciendo estadisticas de la Aplicaci�n....--> (Llevamos   13 Seg/s de ejecuci�n)
+*** TRAZA: Actualizando la hora de �ltima ejecuci�n correcta de la fase....--> (Llevamos   35 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso de Consolidaci�n--> (Llevamos   35 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   35 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,02:07:44    *************
+
+
+
+
+
+[INFO] ===== Fase NE090DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 16119 Dec  9 02:07 /apps/NE01/logs/NE090DIA.D20211209_02:00:01.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,02:00:01   *******************
+*** TRAZA: Ficheros de fase inicializados
+*** TRAZA: Beans de aplicaci�n inicializados
+*** INFO: Process...
+*** TRAZA: Guardamos los codigos para los mensajes
+*** TRAZA: ESTADOS DE MENSAJES:SO##Solicitado
+*** TRAZA: ESTADOS DE MENSAJES:EE##Enviado
+*** TRAZA: ESTADOS DE MENSAJES:ER##Excluido
+*** TRAZA: ESTADOS DE MENSAJES:AB##Abierto
+*** TRAZA: ESTADOS DE MENSAJES:CO##Contestado
+*** TRAZA: ESTADOS DE MENSAJES:Rechazado
+*** TRAZA: ESTADOS DE MENSAJES:RS##Pot. Rechazado
+***TRAZA: CODIGOS DE RECHAZO:RP##Rechazo Permanente
+***TRAZA: CODIGOS DE RECHAZO:RT##Rechazo Transitorio
+***TRAZA: CODIGOS DE RECHAZO:RN##Rechazo Generico
+***TRAZA: CODIGOS DE RECHAZO:RA##Rechazo por SPAM
+*** TRAZA: Comienza el Proceso de escritura de cabecera de fichero de salida para EN
+*** TRAZA: Comienza el Proceso de obtenci�n de mensajes a escribir--> (Llevamos   5 Seg/s de ejecuci�n)
+*** TRAZA: Mails enviados y excluidos por validacion--> (Llevamos   5 Seg/s de ejecuci�n)
+*** INICIO -----> escribeMailsEnviados() <-----
+*** TRAZA: SQL Enviados+Excluidos: SELECT  NEMENSMO.SENV_NU_SOLIC_ENVIO,NEMENSMO.ENVI_NU_ENVIO,NEMENSMO.MENS_NU_MENSAJE,     NEENVIMO.ENVI_IT_SALIDA,NEMENSMO.EMAI_NO_USUARIO_DESTINATARIO,NEMENSMO.DOMI_NO_DOMINIO_DESTINATARIO,     NECOMUMO.COMU_CO_COMUNICACION,NESENVMO.CONT_NU_CONTENIDO,NESENVMO.CONV_NU_VERSION,     NEMENSMO.VALI_NU_VALI_NO_SUPERADA, NECONVMO.CONV_IN_PERSONALIZADO, NECOMUMO.COMU_IN_ONLINE,      NECONVMO.CONV_DS_CONTENIDO, NECONVMO.CONV_NO_CONTENIDO  FROM NEMENSMO,NEENVIMO,NECOMUMO,NECONVMO,NESENVMO WHERE NEENVIMO.ENVI_IT_SALIDA >= TO_DATE('08/12/2021','DD/MM/YYYY')   AND NEENVIMO.ENVI_IT_SALIDA < (TO_DATE('08/12/2021','DD/MM/YYYY') +1)   AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO   AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO   AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO   AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO   AND NEENVIMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO   AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION   AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO   AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION   AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION   AND NECOMUMO.COMU_IN_SISTEMA = 'N'   AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1   AND NESENVMO.SENV_IN_PRUEBA = 'N'   AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N' 
+*** INICIO ejecucion query :2021-12-09 02:00:06.722
+*** FINAL ejecucion query :2021-12-09 02:00:07.063
+*** FINAL ejecucion query :2021-12-09 02:00:07.063
+*** FIN -----> escribeMailsEnviados() <-----
+*** TRAZA: Terminada escritura Mails enviados y excluidos por validacion--> (Llevamos   16 Seg/s de ejecuci�n)
+*** INICIO -----> escribeMailsOnlineExcluidos() <-----
+*** TRAZA: SQL Excluidos Online: SELECT  NEMENSMO.SENV_NU_SOLIC_ENVIO,NEMENSMO.ENVI_NU_ENVIO,NEMENSMO.MENS_NU_MENSAJE,     NEMENSMO.EMAI_NO_USUARIO_DESTINATARIO,NEMENSMO.DOMI_NO_DOMINIO_DESTINATARIO,     NECOMUMO.COMU_CO_COMUNICACION,NESENVMO.CONT_NU_CONTENIDO,NESENVMO.CONV_NU_VERSION,     NECONVMO.CONV_IN_PERSONALIZADO, NEENVIMO.ENVI_IT_PLANIFICADA,      NECONVMO.CONV_DS_CONTENIDO, NECONVMO.CONV_NO_CONTENIDO  FROM NEMENSMO,NEENVIMO,NECOMUMO,NECONVMO,NESENVMO WHERE NEENVIMO.ENVI_IT_PLANIFICADA >= TO_DATE('08/12/2021','DD/MM/YYYY')   AND NEENVIMO.ENVI_IT_PLANIFICADA < (TO_DATE('08/12/2021','DD/MM/YYYY') +1)   AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO   AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO   AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO   AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO   AND NEENVIMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO   AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION   AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO   AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION   AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION   AND NECOMUMO.COMU_IN_SISTEMA = 'N'   AND NECOMUMO.COMU_IN_ONLINE = 'S'   AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1   AND NESENVMO.SENV_IN_PRUEBA = 'N'   AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N'   AND NEMENSMO.VALI_NU_VALI_NO_SUPERADA IN (1,2) 
+*** INICIO ejecucion query :2021-12-09 02:00:18.467
+*** FINAL ejecucion query :2021-12-09 02:00:18.577
+El mensaje 670445-7919-3 no tiene fecha de env�o. Se mostrar� la fecha de planificaci�n: 2021-12-08 10:01:23.0
+*** FIN -----> escribeMailsOnlineExcluidos() <-----
+*** TRAZA: Escribir estados mails enviados--> (Llevamos   17 Seg/s de ejecuci�n)
+*** INICIO ----> escribeEstadosMailsEnviadosSeguimiento <----
+*** INFO : Obteniendo la fecha del primer seguimiento ejecutado por la fase 80 de configuracion
+*** INFO : La fecha obtenida es 08/12/2021 01:00:03
+*** TRAZA: SQL: SELECT count(*) FROM NEHISMMO,NECOMUMO,NECONVMO,NESENVMO,NEMENSMO,NEENVIMO WHERE NEHISMMO.HISM_IT_TRANSICION >= TO_DATE('08/12/2021 01:00:03','DD/MM/YYYY HH24:MI:SS') AND NEHISMMO.HISM_IT_TRANSICION < (TO_DATE('08/12/2021','DD/MM/YYYY')+1) AND NEHISMMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION AND NECOMUMO.COMU_IN_SISTEMA = 'N' AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1 AND NESENVMO.SENV_IN_PRUEBA = 'N' AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N' AND NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL IN (4,5) AND NEMENSMO.MENS_NU_MENSAJE = NEHISMMO.MENS_NU_MENSAJE AND NEMENSMO.ENVI_NU_ENVIO = NEHISMMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEHISMMO.SENV_NU_SOLIC_ENVIO AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO
+*** INICIO ejecucion query devolver numero resultados:2021-12-09 02:00:18.977
+*** FINAL ejecucion query devolver numero resultados:2021-12-09 02:00:39.597
+*** numero resultados=23531
+*** numero p�ginas: 0
+*** resto: 23531
+*** INICIO ----> escribeEstadosMailsEnviadosSeguimientosPag <----
+*** INFO : Obteniendo la fecha del primer seguimiento ejecutado por la fase 80 de configuracion
+*** INFO : La fecha obtenida es 08/12/2021 01:00:03
+*** rango de filas a procesar: [1,23531]
+*** TRAZA: SQL: select * from ( select a.*, rownum rnum from (SELECT  NEHISMMO.SENV_NU_SOLIC_ENVIO,NEHISMMO.ENVI_NU_ENVIO,NEHISMMO.MENS_NU_MENSAJE, NEHISMMO.HISM_IT_TRANSICION,NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL, NECOMUMO.COMU_CO_COMUNICACION,NESENVMO.CONT_NU_CONTENIDO, NESENVMO.CONV_NU_VERSION,NECONVMO.CONV_IN_PERSONALIZADO, NEMENSMO.EMAI_NO_USUARIO_DESTINATARIO, NEMENSMO.DOMI_NO_DOMINIO_DESTINATARIO, NEENVIMO.ENVI_IT_SALIDA, NECONVMO.CONV_DS_CONTENIDO, NECONVMO.CONV_NO_CONTENIDO FROM NEHISMMO,NECOMUMO,NECONVMO,NESENVMO,NEMENSMO,NEENVIMO WHERE NEHISMMO.HISM_IT_TRANSICION >= TO_DATE('08/12/2021 01:00:03','DD/MM/YYYY HH24:MI:SS') AND NEHISMMO.HISM_IT_TRANSICION < (TO_DATE('08/12/2021','DD/MM/YYYY')+1) AND NEHISMMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION AND NECOMUMO.COMU_IN_SISTEMA = 'N' AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1 AND NESENVMO.SENV_IN_PRUEBA = 'N' AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N' AND NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL IN (4,5)AND NEMENSMO.MENS_NU_MENSAJE = NEHISMMO.MENS_NU_MENSAJE AND NEMENSMO.ENVI_NU_ENVIO = NEHISMMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEHISMMO.SENV_NU_SOLIC_ENVIO AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO ORDER BY NEHISMMO.MENS_NU_MENSAJE, NEHISMMO.ENVI_NU_ENVIO, NEHISMMO.HISM_IT_TRANSICION, NEHISMMO.SENV_NU_SOLIC_ENVIO) a where rownum <= 23531 ) where rnum >= 1
+*** INICIO ejecucion query: 0, 2021-12-09 02:00:39.754
+*** FINAL ejecucion query: 0, 2021-12-09 02:02:24.251
+***FIN escribeEstadosMailsEnviadosSeguimientosPag
+***FIN escribeEstadosMailsEnviadosSeguimiento
+*** TRAZA: Escribir estados mails enviados. Enviado Excluido--> (Llevamos   3 Min/s 16 Seg/s de ejecuci�n)
+*** INICIO ----> escribeEstadosMailsEnviadosEnviadoExcluido <----
+*** TRAZA: SQL: SELECT count(*) FROM NEHISMMO,NECOMUMO,NECONVMO,NESENVMO,NEMENSMO,NEENVIMO WHERE NEHISMMO.HISM_IT_TRANSICION >= TO_DATE('08/12/2021','DD/MM/YYYY') AND NEHISMMO.HISM_IT_TRANSICION < (TO_DATE('08/12/2021','DD/MM/YYYY')+1) AND NEHISMMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION AND NECOMUMO.COMU_IN_SISTEMA = 'N' AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1 AND NECOMUMO.COMU_IN_ONLINE = 'S' AND NESENVMO.SENV_IN_PRUEBA = 'N' AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N' AND NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL = 2 AND NEMENSMO.MENS_NU_MENSAJE = NEHISMMO.MENS_NU_MENSAJE AND NEMENSMO.ENVI_NU_ENVIO = NEHISMMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEHISMMO.SENV_NU_SOLIC_ENVIO AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO
+*** INICIO ejecucion query devolver numero resultados:2021-12-09 02:03:17.768
+*** FINAL ejecucion query devolver numero resultados:2021-12-09 02:03:24.95
+*** numero resultados=5734
+*** numero p�ginas: 0
+*** resto: 5734
+*** INICIO ----> escribeEstadosMailsEnviadosEnviadoExcluidoPag <----
+*** rango de filas a procesar: [1,5734]
+*** TRAZA: SQL: select * from ( select a.*, rownum rnum from (SELECT  NEHISMMO.SENV_NU_SOLIC_ENVIO,NEHISMMO.ENVI_NU_ENVIO,NEHISMMO.MENS_NU_MENSAJE, NEHISMMO.HISM_IT_TRANSICION,NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL, NECOMUMO.COMU_CO_COMUNICACION,NESENVMO.CONT_NU_CONTENIDO, NESENVMO.CONV_NU_VERSION,NECONVMO.CONV_IN_PERSONALIZADO, NEMENSMO.EMAI_NO_USUARIO_DESTINATARIO, NEMENSMO.DOMI_NO_DOMINIO_DESTINATARIO, NEENVIMO.ENVI_IT_SALIDA, NECONVMO.CONV_DS_CONTENIDO, NECONVMO.CONV_NO_CONTENIDO FROM NEHISMMO,NECOMUMO,NECONVMO,NESENVMO,NEMENSMO,NEENVIMO WHERE NEHISMMO.HISM_IT_TRANSICION >= TO_DATE('08/12/2021','DD/MM/YYYY') AND NEHISMMO.HISM_IT_TRANSICION < (TO_DATE('08/12/2021','DD/MM/YYYY')+1) AND NEHISMMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION AND NECOMUMO.COMU_IN_SISTEMA = 'N' AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1 AND NECOMUMO.COMU_IN_ONLINE = 'S' AND NESENVMO.SENV_IN_PRUEBA = 'N' AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N' AND NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL = 2AND NEMENSMO.MENS_NU_MENSAJE = NEHISMMO.MENS_NU_MENSAJE AND NEMENSMO.ENVI_NU_ENVIO = NEHISMMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEHISMMO.SENV_NU_SOLIC_ENVIO AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO ORDER BY NEHISMMO.MENS_NU_MENSAJE, NEHISMMO.ENVI_NU_ENVIO, NEHISMMO.HISM_IT_TRANSICION, NEHISMMO.SENV_NU_SOLIC_ENVIO) a where rownum <= 5734 ) where rnum >= 1
+*** INICIO ejecucion query: 0, 2021-12-09 02:03:25.168
+*** FINAL ejecucion query: 0, 2021-12-09 02:04:50.186
+***FIN escribeEstadosMailsEnviadosEnviadoExcluidoPag
+***FIN escribeEstadosMailsEnviadosEnviadoExcluido
+*** TRAZA: Terminada escritura estados mails enviados seguiminetos y aperturas--> (Llevamos   5 Min/s 7 Seg/s de ejecuci�n)
+*** INICIO ----> escribeEstadosMailsEnviadosRechazos <----
+*** INFO : Obteniendo la fecha del primer rechazo ejecutado por la fase 80 de configuracion
+*** INFO : La fecha obtenida es 08/12/2021 01:21:48
+*** TRAZA: SQL: SELECT count(*) FROM NEHISMMO,NECOMUMO,NECONVMO,NESENVMO,NEMENSMO,NEENVIMO WHERE NEHISMMO.HISM_IT_TRANSICION >= TO_DATE('08/12/2021 01:21:48','DD/MM/YYYY HH24:MI:SS') AND NEHISMMO.HISM_IT_TRANSICION < (TO_DATE('08/12/2021','DD/MM/YYYY')+1) AND NEHISMMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION AND NECOMUMO.COMU_IN_SISTEMA = 'N' AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1 AND NESENVMO.SENV_IN_PRUEBA = 'N' AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N' AND NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL IN (6,7)AND NEMENSMO.MENS_NU_MENSAJE = NEHISMMO.MENS_NU_MENSAJE AND NEMENSMO.ENVI_NU_ENVIO = NEHISMMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEHISMMO.SENV_NU_SOLIC_ENVIO AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO
+*** INICIO ejecucion query devolver numero resultados:2021-12-09 02:05:08.686
+*** FINAL ejecucion query devolver numero resultados:2021-12-09 02:05:13.414
+*** numero resultados=407
+*** numero p�ginas: 0
+*** resto: 407
+*** INICIO ----> escribeEstadosMailsEnviadosRechazosPag <----
+*** INFO : Obteniendo la fecha del primer rechazo ejecutado por la fase 80 de configuracion
+*** INFO : La fecha obtenida es 08/12/2021 01:21:48
+*** rango de filas a procesar: [1,407]
+*** TRAZA: SQL: select * from ( select a.*, rownum rnum from (SELECT  NEHISMMO.SENV_NU_SOLIC_ENVIO,NEHISMMO.ENVI_NU_ENVIO,NEHISMMO.MENS_NU_MENSAJE, NEHISMMO.HISM_IT_TRANSICION,NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL, NECOMUMO.COMU_CO_COMUNICACION,NESENVMO.CONT_NU_CONTENIDO, NESENVMO.CONV_NU_VERSION,NECONVMO.CONV_IN_PERSONALIZADO, NEMENSMO.EMAI_NO_USUARIO_DESTINATARIO, NEMENSMO.DOMI_NO_DOMINIO_DESTINATARIO, NEENVIMO.ENVI_IT_SALIDA, NECONVMO.CONV_DS_CONTENIDO, NECONVMO.CONV_NO_CONTENIDO FROM NEHISMMO,NECOMUMO,NECONVMO,NESENVMO,NEMENSMO,NEENVIMO WHERE NEHISMMO.HISM_IT_TRANSICION >= TO_DATE('08/12/2021 01:21:48','DD/MM/YYYY HH24:MI:SS') AND NEHISMMO.HISM_IT_TRANSICION < (TO_DATE('08/12/2021','DD/MM/YYYY')+1) AND NEHISMMO.SENV_NU_SOLIC_ENVIO = NESENVMO.SENV_NU_SOLIC_ENVIO AND NESENVMO.COMU_CO_COMUNICACION = NECONVMO.COMU_CO_COMUNICACION AND NESENVMO.CONT_NU_CONTENIDO = NECONVMO.CONT_NU_CONTENIDO AND NESENVMO.CONV_NU_VERSION = NECONVMO.CONV_NU_VERSION AND NECONVMO.COMU_CO_COMUNICACION = NECOMUMO.COMU_CO_COMUNICACION AND NECOMUMO.COMU_IN_SISTEMA = 'N' AND NECOMUMO.TIPO_CO_TIPOLOGIA = 1 AND NESENVMO.SENV_IN_PRUEBA = 'N' AND NESENVMO.SENV_IN_PROBLEMAS_TECNICOS = 'N' AND NEHISMMO.ESTM_NU_ESTADO_MENSAJE_FINAL IN (6,7)AND NEMENSMO.MENS_NU_MENSAJE = NEHISMMO.MENS_NU_MENSAJE AND NEMENSMO.ENVI_NU_ENVIO = NEHISMMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEHISMMO.SENV_NU_SOLIC_ENVIO AND NEMENSMO.ENVI_NU_ENVIO = NEENVIMO.ENVI_NU_ENVIO AND NEMENSMO.SENV_NU_SOLIC_ENVIO = NEENVIMO.SENV_NU_SOLIC_ENVIO ORDER BY NEHISMMO.MENS_NU_MENSAJE, NEHISMMO.ENVI_NU_ENVIO, NEHISMMO.HISM_IT_TRANSICION, NEHISMMO.SENV_NU_SOLIC_ENVIO) a where rownum <= 407 ) where rnum >= 1
+*** INICIO ejecucion query: 0, 2021-12-09 02:05:13.624
+*** FINAL ejecucion query: 0, 2021-12-09 02:07:02.382
+***FIN escribeEstadosMailsEnviadosRechazosPag
+***FIN escribeEstadosMailsEnviadosRechazos
+*** TRAZA: Terminada escritura estados mails enviados rechazos--> (Llevamos   7 Min/s 1 Seg/s de ejecuci�n)
+*** TRAZA: Se escribe la cola del fichero de salida para EN--> (Llevamos   7 Min/s 1 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso generaci�n de fichero NE->EN para informaci�n de env�os y su seguimiento--> (Llevamos   7 Min/s 1 Seg/s de ejecuci�n)
+*** TRAZA: Fecha de ejecucion de la fase actualizada :09/12/2021 02:07--> (Llevamos   7 Min/s 1 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   7 Min/s 1 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,02:07:06    *************
+
+
+
+
+
+[INFO] ===== Fase NE091DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 310 Dec  9 02:07 /apps/NE01/logs/NE091DIA.D20211209.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,02:07:08   *******************
+Moviendo fichero /apps/ne01_nfs/app/datos/seg00/NE01ENDZ.dat a /apps/en01_nfs/NE01ENDZ.dat.20211209 
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,02:07:09    *************
+
+
+
+
+
+[INFO] ===== Fase NE100DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 959 Dec  9 01:52 /apps/NE01/logs/NE100DIA.D20211209_01:52:15.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,01:52:15   *******************
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de escritura de cabecera de fichero de salida para EN
+*** TRAZA: Comienza el Proceso de obtenci�n de robinsones a escribir--> (Llevamos   36 Seg/s de ejecuci�n)
+*** TRAZA: Se escribe la lista de mensajes obtenidos en el cuerpo del fichero de salida para EN--> (Llevamos   39 Seg/s de ejecuci�n)
+*** ESTAD�STICAS: 55 Robinsones comunicados a EN
+*** TRAZA: Se escribe la cola del fichero de salida para EN--> (Llevamos   39 Seg/s de ejecuci�n)
+*** TRAZA: Fin del Proceso generaci�n de fichero NE->EN para informaci�n de env�os y su seguimiento--> (Llevamos   39 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en --> (Llevamos   39 Seg/s de ejecuci�n)
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:52:55    *************
+
+
+######################################################
+###   --> Esta fase existe otra ruta de log <--    ###
+######################################################
+[INFO] La otra ruta de log es: /apps/NE01/logs/fases/ctm.
+[INFO] Listar logs encontrados del dia 20211209:
+-rw-r--r-- 1 USMNE01 aplicacion 4787 Dec  9 01:52 /apps/NE01/logs/fases/ctm/NE100DIA_sh.LOG_03zvlh_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMNE01 aplicacion 4787 Dec  9 01:52 /apps/NE01/logs/fases/ctm/NE100DIA_sh.LOG_03zvlh_00001
+
+[INFO] El contenido es ...:
++ echo 'Ejecucion terminada.'
+Ejecucion terminada.
++ echo 'Codigo de retorno = 0'
+Codigo de retorno = 0
++ echo 'Para ver posibles incidencias, vea el Fichero de log = /apps/NE01/logs/NE100DIA.D20211209_01:52:15.log'
+Para ver posibles incidencias, vea el Fichero de log = /apps/NE01/logs/NE100DIA.D20211209_01:52:15.log
++ tee -a /apps/NE01/logs/NE100DIA.D20211209_01:52:15.log
++ echo '*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:52:55' '   *************'
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:52:55    *************
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase NE101DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 311 Dec  9 01:52 /apps/NE01/logs/NE101DIA.D20211209_015257.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,01:52:57   *******************
+Copiando fichero /apps/ne01_nfs/app/datos/seg00/NE02ENAZ.dat a /apps/en01_nfs/NE02ENAZ.dat.D20211209 
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:52:57    *************
+
+
+
+
+
+[INFO] ===== Fase NE110DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 691351 Dec  9 06:38 /apps/NE01/logs/NE110DIA.D20211209_01:20:17.log
+
+[INFO] Mostrar el contenido de los logs:
+10501 Dominios validos en los que se ha actualizado la fecha....
+10601 Dominios validos en los que se ha actualizado la fecha....
+10701 Dominios validos en los que se ha actualizado la fecha....
+10801 Dominios validos en los que se ha actualizado la fecha....
+10901 Dominios validos en los que se ha actualizado la fecha....
+11001 Dominios validos en los que se ha actualizado la fecha....
+11101 Dominios validos en los que se ha actualizado la fecha....
+11201 Dominios validos en los que se ha actualizado la fecha....
+11301 Dominios validos en los que se ha actualizado la fecha....
+11401 Dominios validos en los que se ha actualizado la fecha....
+11501 Dominios validos en los que se ha actualizado la fecha....
+11601 Dominios validos en los que se ha actualizado la fecha....
+11701 Dominios validos en los que se ha actualizado la fecha....
+11801 Dominios validos en los que se ha actualizado la fecha....
+11901 Dominios validos en los que se ha actualizado la fecha....
+12001 Dominios validos en los que se ha actualizado la fecha....
+12101 Dominios validos en los que se ha actualizado la fecha....
+12201 Dominios validos en los que se ha actualizado la fecha....
+12301 Dominios validos en los que se ha actualizado la fecha....
+12401 Dominios validos en los que se ha actualizado la fecha....
+12501 Dominios validos en los que se ha actualizado la fecha....
+12601 Dominios validos en los que se ha actualizado la fecha....
+12701 Dominios validos en los que se ha actualizado la fecha....
+12801 Dominios validos en los que se ha actualizado la fecha....
+12901 Dominios validos en los que se ha actualizado la fecha....
+13001 Dominios validos en los que se ha actualizado la fecha....
+13101 Dominios validos en los que se ha actualizado la fecha....
+13201 Dominios validos en los que se ha actualizado la fecha....
+13301 Dominios validos en los que se ha actualizado la fecha....
+13401 Dominios validos en los que se ha actualizado la fecha....
+13501 Dominios validos en los que se ha actualizado la fecha....
+13601 Dominios validos en los que se ha actualizado la fecha....
+13701 Dominios validos en los que se ha actualizado la fecha....
+13801 Dominios validos en los que se ha actualizado la fecha....
+13901 Dominios validos en los que se ha actualizado la fecha....
+14001 Dominios validos en los que se ha actualizado la fecha....
+14101 Dominios validos en los que se ha actualizado la fecha....
+14201 Dominios validos en los que se ha actualizado la fecha....
+14301 Dominios validos en los que se ha actualizado la fecha....
+14401 Dominios validos en los que se ha actualizado la fecha....
+14501 Dominios validos en los que se ha actualizado la fecha....
+14601 Dominios validos en los que se ha actualizado la fecha....
+14701 Dominios validos en los que se ha actualizado la fecha....
+14801 Dominios validos en los que se ha actualizado la fecha....
+14901 Dominios validos en los que se ha actualizado la fecha....
+15001 Dominios validos en los que se ha actualizado la fecha....
+15101 Dominios validos en los que se ha actualizado la fecha....
+15201 Dominios validos en los que se ha actualizado la fecha....
+15301 Dominios validos en los que se ha actualizado la fecha....
+15401 Dominios validos en los que se ha actualizado la fecha....
+15501 Dominios validos en los que se ha actualizado la fecha....
+15601 Dominios validos en los que se ha actualizado la fecha....
+15701 Dominios validos en los que se ha actualizado la fecha....
+15801 Dominios validos en los que se ha actualizado la fecha....
+15901 Dominios validos en los que se ha actualizado la fecha....
+16001 Dominios validos en los que se ha actualizado la fecha....
+16101 Dominios validos en los que se ha actualizado la fecha....
+16201 Dominios validos en los que se ha actualizado la fecha....
+16301 Dominios validos en los que se ha actualizado la fecha....
+16401 Dominios validos en los que se ha actualizado la fecha....
+16501 Dominios validos en los que se ha actualizado la fecha....
+16601 Dominios validos en los que se ha actualizado la fecha....
+16701 Dominios validos en los que se ha actualizado la fecha....
+16801 Dominios validos en los que se ha actualizado la fecha....
+16901 Dominios validos en los que se ha actualizado la fecha....
+17001 Dominios validos en los que se ha actualizado la fecha....
+17101 Dominios validos en los que se ha actualizado la fecha....
+17201 Dominios validos en los que se ha actualizado la fecha....
+17301 Dominios validos en los que se ha actualizado la fecha....
+17401 Dominios validos en los que se ha actualizado la fecha....
+17501 Dominios validos en los que se ha actualizado la fecha....
+17601 Dominios validos en los que se ha actualizado la fecha....
+17701 Dominios validos en los que se ha actualizado la fecha....
+17801 Dominios validos en los que se ha actualizado la fecha....
+17901 Dominios validos en los que se ha actualizado la fecha....
+18001 Dominios validos en los que se ha actualizado la fecha....
+18101 Dominios validos en los que se ha actualizado la fecha....
+18201 Dominios validos en los que se ha actualizado la fecha....
+18301 Dominios validos en los que se ha actualizado la fecha....
+18401 Dominios validos en los que se ha actualizado la fecha....
+18501 Dominios validos en los que se ha actualizado la fecha....
+18601 Dominios validos en los que se ha actualizado la fecha....
+18701 Dominios validos en los que se ha actualizado la fecha....
+18801 Dominios validos en los que se ha actualizado la fecha....
+18901 Dominios validos en los que se ha actualizado la fecha....
+19001 Dominios validos en los que se ha actualizado la fecha....
+19101 Dominios validos en los que se ha actualizado la fecha....
+19201 Dominios validos en los que se ha actualizado la fecha....
+19264 Dominios validos en los que se ha actualizado la fecha....
+101 dominios eliminados de la tabla de validos y dados de alta en la de erroneos....
+201 dominios eliminados de la tabla de validos y dados de alta en la de erroneos....
+236 dominios eliminados de la tabla de validos y dados de alta en la de erroneos....
+*** TRAZA: FIN proceso Dominios Validos--> (Llevamos   5 Hora/s 18 Min/s 1 Seg/s de ejecuci�n)
+*** TRAZA: JAVA START...
+*** TRAZA: JAVA END
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en 
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,06:38:20    *************
+
+
+
+
+
+[INFO] ===== Fase NE110SEM ==============================================================================
+######################################################
+###  --> Esta fase solo se ejecuta los Lunes <--   ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-rw- 1 USMNE01 aplicacion 900 Nov 29 04:00 /apps/NE01/logs/NE110SEM.D20211129_04:00:01.log
+-rw-rw-rw- 1 USMNE01 aplicacion 900 Dec  6 04:00 /apps/NE01/logs/NE110SEM.D20211206_04:00:00.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/NE01/logs/NE110SEM*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase NE111SEM ==============================================================================
+######################################################
+###  --> Esta fase solo se ejecuta los Lunes <--   ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-rw- 1 USMNE01 aplicacion 309 Nov 29 04:00 /apps/NE01/logs/NE111SEM.D20211129_04:00:56.log
+-rw-rw-rw- 1 USMNE01 aplicacion 309 Dec  6 04:00 /apps/NE01/logs/NE111SEM.D20211206_04:00:52.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/NE01/logs/NE111SEM*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase NE115DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 44241 Dec  9 06:39 /apps/NE01/logs/NE115DIA.D20211209_06:38:21.log
+
+[INFO] Mostrar el contenido de los logs:
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822806 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822807 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822808 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822809 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822810 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822811 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822812 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822813 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822814 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822815 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+EJECUTANDO SQL... 
+	SELECT DISTINCT(DOMI_NO_DOMINIO_DESTINATARIO) 
+		FROM NEMENSMO WHERE SENV_NU_SOLIC_ENVIO = 822816 AND VALI_NU_VALI_NO_SUPERADA is null
+	MINUS 
+	(SELECT DOVA_NO_DOMINIO FROM NEDOVAAO UNION SELECT DOER_NO_DOMINIO FROM NEDOERAO) 
+N�mero de dominios: 1
+N�mero de dominios m�ximos a procesar: 7000
+DOMINIOS PROCESADOS: 1--> (Llevamos   1 Min/s 17 Seg/s de ejecuci�n)
+ULTIMA SOLICITUD DE ENVIO PROCESADA : 822816--> (Llevamos   1 Min/s 17 Seg/s de ejecuci�n)
+*** TRAZA: Total dominios no existentes en la cache de DNS obtenidos:1--> (Llevamos   1 Min/s 17 Seg/s de ejecuci�n)
+*** TRAZA: Filtrado de dominios :
+*** TRAZA: Usamos el servidor de DNS para filtrar los dominios obtenidos anteriormente:1--> (Llevamos   1 Min/s 17 Seg/s de ejecuci�n)
+Filtrado de dominios 
+OK:GEFFEN.ME--> (Llevamos   1 Min/s 18 Seg/s de ejecuci�n)
+*** TRAZA: Fin del filtrado de los dominios:--> (Llevamos   1 Min/s 18 Seg/s de ejecuci�n)
+ACTUALIZACION DE LA CACHE DE DOMINIOS VALIDOS--> (Llevamos   1 Min/s 18 Seg/s de ejecuci�n)
+ACTUALIZACION FINALIZADA--> (Llevamos   1 Min/s 18 Seg/s de ejecuci�n)
+1 dominios validos actualizados
+*** TRAZA: Dominios Validos y erroneos correctamente procesados--> (Llevamos   1 Min/s 18 Seg/s de ejecuci�n)
+*** TRAZA: Actualizando �ltima solicitud de envio tratada--> (Llevamos   1 Min/s 18 Seg/s de ejecuci�n)
+*** TRAZA: Ultima solicitud de envio tratada actualizada:822816--> (Llevamos   1 Min/s 18 Seg/s de ejecuci�n)
+*** TRAZA: JAVA END
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en 
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,06:39:40    *************
+
+
+
+
+
+[INFO] ===== Fase NE119DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 332 Dec  9 01:20 /apps/NE01/logs/NE119DIA.D20211209_012018.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,01:20:18   *******************
+Copiando ENMOVMNE.20211209002024 al directorio /apps/ne01_nfs/
+Borrando 1 ficheros /apps/ne01_nfs//ENMOVMNE.??????????????
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:20:48    *************
+
+
+
+
+
+[INFO] ===== Fase NE120DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 10371288 Dec  9 01:40 /apps/NE01/logs/NE120DIA.D20211209_01:20:49.log
+
+[INFO] Mostrar el contenido de los logs:
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ybpuente@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ybuenosanz@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yellowey@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yeniags46@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yessicapanaven@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yeyemo7@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ymenendez36@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ymp72@hotmail.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ymrguadix@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: y.nikolov@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yo@.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yofernando@terra.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yo.g.cereceda@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia IGNORADO (email incorrecto): 1**B**yoggor@                                                                         
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yola.kokito@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolan1972@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda1970rodriguez@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda-aguilera@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandabarranco@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandacotelo@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda.ferreiragil@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandagarciacruz1970@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandagarcia@cssh.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda.garcia@ctv.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandagarcia@divisared.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandajuan3@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda.@justinodelgado.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandalamela@hotmail.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda.lamy@infonegocio.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda@landonlogistics.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolandasaiz@hotmail
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolanda.sanchez@hotmail.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yoli-el@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yoligarbo@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolijavilm@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolijavi@telefonica.net
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yoli-pedro@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolydeluxe@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yolygc88@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yoromero69@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yoseba_p@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yo-sebas21@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yosebasebasti@gmai.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yosebasebasti@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yosebasuarez@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yosebaxabier@movistar.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yosebayoseba@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yo.soy.isita@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yo@to.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ypenate@aedv.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ysabel.carpintero@sofradecor.e.telefonica.net
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ysabelremolina@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ysadenar@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia IGNORADO (email incorrecto): 1**P**ysana@arrakis.es/ysana@arrakis.com                                              
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yumar85gh@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yussper@yahoo.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: yvonne.taylor@vcint.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zaca1993@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zafonante@telefonica.net
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zaidaperez.ftv@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zaida.perez@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zaira_carabi@yahoo.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zaira.carmen_30@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zairacaro_fotografia@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zaloruizjavier@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zalo.saavedra@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zamoraariel@yahoo.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zamora@armeza.e.telefonica.net
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zamora@arrakis.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zamora@asajazamora.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zarandona@zarandonasmr.e.telefonica.net
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zenaida@juandelarosa.e.telefonica.net
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zenonluisl@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zepi.666@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zipizape@picos.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zipizape@worldonline.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zipizappe@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zipytizado@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zirvilq@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zizour@santandersupernet.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: ziztu@hotmail.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zoe.fdez@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia IGNORADO (email incorrecto): 1**B**zoilo@                                                                          
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zorropardo.sk4@gmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zuk-tir@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zulayka_vera2003@yahoo.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zuleimard@hotmail.es
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zulemaluna2010@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zulema.maria@hotmail.com
+**AVISO**. Email de No Recepci�n de Correspondencia ELIMINADO: zuprimo69@hotmail.com
+------------ESTADISTICAS------------
+	Enails insertados: 117242
+	Emails eliminados: 116813
+------------------------------------
+*** TRAZA: Fin del Proceso de Generaci�n del fichero SQL-Loader para la Actualizaci�n de Solicitudes de No Recepci�n de Correspondencia--> (Llevamos   6 Min/s 4 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** RESULTADO: **** Realizado en --> (Llevamos   6 Min/s 4 Seg/s de ejecuci�n)
+NE12090 Inicio 12/09/21 01:39:47
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:40:30    *************
+
+
+
+
+
+[INFO] ===== Fase NE121DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 39619 Dec  9 01:52 /apps/NE01/logs/NE121DIA.D20211209_01:40:31.log
+
+[INFO] Mostrar el contenido de los logs:
+Record 10994820: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11043109: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11122536: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11184631: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11214352: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11250367: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11329551: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11348635: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11416702: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512448: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512449: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512450: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512451: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512452: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512453: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512454: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512455: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512456: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512457: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512458: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512459: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512460: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+Record 11512461: Rejected - Error on table "NEORA0"."NELNOPMO".
+ORA-00001: restricci�n �nica (NEORA0.NELNOPMO_PK) violada
+
+
+Table "NEORA0"."NELNOPMO":
+  11602724 Rows successfully loaded.
+  288 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 165120 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:      11603012
+Total logical records rejected:       288
+Total logical records discarded:        0
+
+Run began on Jue Dic 09 01:44:50 2021
+Run ended on Jue Dic 09 01:51:32 2021
+
+Elapsed time was:     00:06:42.29
+CPU time was:         00:01:42.72
+SQL*Loader: Ejecuci�n con avisos (EX_WARN), para m�s informaci�n vea el fichero de log = /apps/NE01/logs/NE121DIA.D20211209_01:40:31.log
+NE12150 Inicio 12/09/21 01:51:32
+*** INFO: Process...
+*** TRAZA: Comienza el Proceso de reconstrucci�n de los �ndices de la tabla de robinsones--> (Llevamos   8 Seg/s de ejecuci�n)
+*** TRAZA: Finaliza el Proceso de reconstrucci�n de los �ndices de la tabla de robinsones--> (Llevamos   40 Seg/s de ejecuci�n)
+*** INFO: Terminando...
+*** RESULTADO: **** Realizado en --> (Llevamos   40 Seg/s de ejecuci�n)
+NE12160 Inicio 12/09/21 01:52:13
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,01:52:13    *************
+
+
+
+
+
+[INFO] ===== Fase NE140DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 93 Dec  9 01:52 /apps/NE01/logs/NE140DIA.D20211209_015258.log
+
+[INFO] Mostrar el contenido de los logs:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,01:52:58   *******************
+
+
+######################################################
+###   --> Esta fase existe otra ruta de log <--    ###
+######################################################
+[INFO] La otra ruta de log es: /apps/NE01/logs/fases/ctm.
+[INFO] Listar logs encontrados del dia 20211209:
+-rw-r--r-- 1 USMNE01 aplicacion 3627 Dec  9 01:52 /apps/NE01/logs/fases/ctm/NE140DIA_sh.LOG_03zvlo_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMNE01 aplicacion 3627 Dec  9 01:52 /apps/NE01/logs/fases/ctm/NE140DIA_sh.LOG_03zvlo_00001
+
+[INFO] El contenido es ...:
++ AAT_PCAAP=/apps/NE01/ctl
++ export AAT_PCAAP
++ AAT_PLOGS=/apps/NE01/logs
++ export AAT_PLOGS
++ AAT_PTRAZ=/apps/NE01/logs
++ export AAT_PTRAZ
++ AAT_PLSQL=/apps/NE01/plsql
++ export AAT_PLSQL
++ AAT_PCOMP=/apps/ne01_nfs/
++ export AAT_PCOMP
++ AAT_NASEN=/apps/en01_nfs
++ export AAT_NASEN
++ AAT_PDAAP=/apps/ne01_nfs/app/datos/seg00
++ export AAT_PDAAP
++ AAT_PLOGS_NE5=/apps/NE01/logs
++ export AAT_PLOGS_NE5
++ DIR_SHR=/apps/ne01_nfs/
++ export DIR_SHR
++ date +%Y%m%d_%H:%M:%S
++ FECHA=20211209_01:52:58
++ export FECHA
++ DIR_SPAZIO_ENV=/apps/dataflow/NE01/env
++ export DIR_SPAZIO_ENV
++ DIR_SPAZIO_REC=/apps/dataflow/NE01/rec
++ export DIR_SPAZIO_REC
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ ORACLE_SID=PNE000
++ export ORACLE_SID
++ USUARIO=ne
++ export USUARIO
++ PASSWORD=ne
++ export PASSWORD
++ USUORA=NEORA0
++ export USUORA
++ PASSORA=NEORA0
++ export PASSORA
++ ORACLE_BASE=/products/oradb
++ export ORACLE_BASE
++ ORACLE_HOME=/products/oradb/client1210/121020
++ export ORACLE_HOME
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin
++ export PATH
++ LD_LIBRARY_PATH=/products/oradb/client1210/121020/lib:/opt/CA/SharedComponents/lib
++ export LD_LIBRARY_PATH
++ NLS_LANG=Spanish_Spain.WE8ISO8859P1
++ export NLS_LANG
++ EPC_DISABLED=true
++ export EPC_DISABLED
++ NSHOME=/var/opt/netscape/WebServer61sp3
++ export NSHOME
++ NE_HTTP=https-ne51d0
++ export NE_HTTP
++ JAVA_HOME=/apps/jdk/base/java8
++ export JAVA_HOME
++ JDBCHOME=/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar
++ export JDBCHOME
++ PATH=/apps/jdk/base/java8/bin:/usr/bin:/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin
++ export PATH
++ CLASSPATH=:.:/apps/NE01/parms:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/NE01/lib/te-ne-fases.jar:
++ export CLASSPATH
++ DESCOMPRESOR=/usr/bin/gzip
++ export DESCOMPRESOR
++ OP_DESC=-df
++ export OP_DESC
++ OP_COMP_DESC=-t
++ export OP_COMP_DESC
++ umask 0000
++ . /apps/NE01/fases/../parms//param_NE140DIA.cfg
++ date +%Y%m%d_%H%M%S
++ FECHA=20211209_015258
++ export FECHA
++ FASE=NE140DIA
++ export FASE
++ LOG=/apps/NE01/logs/NE140DIA.D20211209_015258.log
++ export LOG
++ FICH_EXE=es.te.ne.fases.nelodia3.NE140DIA
++ export FICH_EXE
++ FICHERO_ENTRADA=/apps/ne01_nfs/app/datos/seg00/MAMOVMNE.dat
++ export FICHERO_ENTRADA
++ BC=20000
++ export BC
++ date +%A,%d/%m/%Y,%T
++ tstart=jueves,09/12/2021,01:52:58
++ tee -a /apps/NE01/logs/NE140DIA.D20211209_015258.log
++ echo '*************  Fecha de Inicio del Proceso= jueves,09/12/2021,01:52:58' '  *******************'
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,01:52:58   *******************
++ PASO=NE14010
++ date '+%D %T'
++ echo 'NE14010 Inicio 12/09/21' 01:52:58
+NE14010 Inicio 12/09/21 01:52:58
++ PASO=NE14020
++ date '+%D %T'
++ echo 'NE14020 Inicio 12/09/21' 01:52:58
+NE14020 Inicio 12/09/21 01:52:58
++ [ -f /apps/ne01_nfs/app/datos/seg00/MAMOVMNE.dat ]
++ rc=0
++ echo $'El fichero de Entrada:\'/apps/ne01_nfs/app/datos/seg00/MAMOVMNE.dat\' no existe.'
+El fichero de Entrada:'/apps/ne01_nfs/app/datos/seg00/MAMOVMNE.dat' no existe.
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase NE150DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 2470256 Dec  9 03:18 /apps/NE01/logs/NE150DIA.D20211209_030001.log
+
+[INFO] Mostrar el contenido de los logs:
+contenidos/3055-408-1/index.html
+contenidos/3055-408-1/30550408001.tar
+contenidos/3055-408-1/bvsin.zip
+contenidos/3055-408-1/web.html
+contenidos/3055-409-1/
+contenidos/3055-409-1/attachment/
+contenidos/3055-409-1/web.html
+contenidos/3055-409-1/30550403001.tar
+contenidos/3055-409-1/cineCON2.zip
+contenidos/3055-409-1/index.html
+contenidos/3055-410-1/
+contenidos/3055-410-1/attachment/
+contenidos/3055-410-1/web.html
+contenidos/3055-410-1/30550403001.tar
+contenidos/3055-410-1/cineCON2.zip
+contenidos/3055-410-1/index.html
+contenidos/3055-411-1/
+contenidos/3055-411-1/attachment/
+contenidos/3055-411-1/web.html
+contenidos/3055-411-1/30550403001.tar
+contenidos/3055-411-1/cineCON2.zip
+contenidos/3055-411-1/index.html
+contenidos/3232-112-1/
+contenidos/3232-112-1/attachment/
+contenidos/3232-112-1/consulta.zip
+contenidos/3232-112-1/web.html
+contenidos/3232-112-1/index.html
+contenidos/3232-112-1/32320100001.tar
+contenidos/3055-412-1/
+contenidos/3055-412-1/attachment/
+contenidos/3055-412-1/web.html
+contenidos/3055-412-1/30550403001.tar
+contenidos/3055-412-1/cineCON2.zip
+contenidos/3055-412-1/index.html
+contenidos/3054-120-1/
+contenidos/3054-120-1/attachment/
+contenidos/3054-120-1/0117.zip
+contenidos/3054-120-1/index.html
+contenidos/3054-120-1/web.html
+contenidos/3054-120-1/30540117001.tar
+contenidos/3054-121-1/
+contenidos/3054-121-1/attachment/
+contenidos/3054-121-1/0117.zip
+contenidos/3054-121-1/index.html
+contenidos/3054-121-1/web.html
+contenidos/3054-121-1/30540117001.tar
+contenidos/3144-122-1/
+contenidos/3144-122-1/attachment/
+contenidos/3144-122-1/AV-video.zip
+contenidos/3144-122-1/index.html
+contenidos/3144-122-1/web.html
+contenidos/3144-122-1/31440108001.tar
+contenidos/3144-123-1/
+contenidos/3144-123-1/attachment/
+contenidos/3144-123-1/MV-canje-vid.zip
+contenidos/3144-123-1/index.html
+contenidos/3144-123-1/web.html
+contenidos/3144-123-1/31440109001.tar
+contenidos/3144-124-1/
+contenidos/3144-124-1/attachment/
+contenidos/3144-124-1/BV-canje-vid.zip
+contenidos/3144-124-1/index.html
+contenidos/3144-124-1/web.html
+contenidos/3144-124-1/31440110001.tar
+contenidos/3144-125-1/
+contenidos/3144-125-1/attachment/
+contenidos/3144-125-1/AV-repo-vid.zip
+contenidos/3144-125-1/index.html
+contenidos/3144-125-1/web.html
+contenidos/3144-125-1/31440111001.tar
+contenidos/3144-126-1/
+contenidos/3144-126-1/attachment/
+contenidos/3144-126-1/MV-repo-vid.zip
+contenidos/3144-126-1/index.html
+contenidos/3144-126-1/web.html
+contenidos/3144-126-1/31440112001.tar
+contenidos/3144-127-1/
+contenidos/3144-127-1/attachment/
+contenidos/3144-127-1/BV-repo-vid.zip
+contenidos/3144-127-1/index.html
+contenidos/3144-127-1/web.html
+contenidos/3144-127-1/31440113001.tar
+contenidos/2681-73-1/
+contenidos/2681-73-1/attachment/
+contenidos/2681-73-1/Camp_COE_AppEmp_Nov21_Emp.zip
+contenidos/2681-73-1/web.html
+contenidos/2681-73-1/index.html
+contenidos/2681-73-1/26810071001.tar
+contenidos/3055-413-1/
+contenidos/3055-413-1/attachment/
+contenidos/3055-413-1/web.html
+contenidos/3055-413-1/30550403001.tar
+contenidos/3055-413-1/cineCON2.zip
+contenidos/3055-413-1/index.html
+...backup generado 
+No existe el fichero /apps/NE01/datos/contenidos02122021.tar.gz para eliminar
+Hay 5 backups en el directorio
+Borrando /apps/NE01/datos/contenidos08122021.tar.gz
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,03:18:38    *************
+
+
+
+
+
+[INFO] ===== Fase NE300DIA ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 6068 Dec  9 04:00 /apps/NE01/logs/NE300DIA.D20211209_04:00:00.log
+
+[INFO] Mostrar el contenido de los logs:
+*** INFO: Process...--> (Llevamos   3 Seg/s de ejecuci�n)
+*** TRAZA: process(): Entrando--> (Llevamos   3 Seg/s de ejecuci�n)
+*** TRAZA: process(): Obteniendo parametros de BD
+*** TRAZA: process(): Vamos a obtenerRutasFSP--> (Llevamos   3 Seg/s de ejecuci�n)
+**INFO** Obtenemos las solicitudes de env�o de FSP enviadas desde el 07/12/2021 hasta hace 1 dias 
+: SELECT DISTINCT (A.SENV_NU_SOLIC_ENVIO) AS SOLICITUDES  
+FROM NESENVMO A, NECONVMO B, NEENVIMO C 
+WHERE 
+	A.COMU_CO_COMUNICACION = B.COMU_CO_COMUNICACION 
+	AND A.CONT_NU_CONTENIDO = B.CONT_NU_CONTENIDO 
+	AND B.FNAS_DS_RUTA IS NOT NULL 
+	AND B.CONV_NU_POS_PERS_PDF >= 1 
+	AND A.SENV_IN_PRUEBA = 'N' 
+	AND A.SENV_NU_SOLIC_ENVIO = C.SENV_NU_SOLIC_ENVIO 
+	AND C.ESTE_CO_ESTADO_FINAL_ENVIO = 7 
+	AND C.ENVI_IT_SALIDA >= TO_DATE(?,'DD/MM/YYYY') AND C.ENVI_IT_SALIDA <= TO_DATE(TO_CHAR(SYSDATE - ?,'DD/MM/YYYY'),'DD/MM/YYYY') 
+ 
+
+**INFO** Resultados obtenidos 2
+**INFO** Se obtienen los datos de mensajes de FSP enviadas en la solicitud 822614 
+: SELECT DISTINCT A.FNAS_DS_RUTA AS RUTA, A.CONV_NU_POS_PERS_PDF AS POSICION, C.MENS_NO_VALORCAMPO AS NOMBRE 
+FROM NECONVMO A,NESENVMO B,NEMENSMO C 
+WHERE   
+	C.MENS_NO_VALORCAMPO IS NOT NULL  
+	AND A.CONT_NU_CONTENIDO = B.CONT_NU_CONTENIDO  
+	AND A.COMU_CO_COMUNICACION = B.COMU_CO_COMUNICACION  
+	AND B.SENV_NU_SOLIC_ENVIO = C.SENV_NU_SOLIC_ENVIO 
+	AND B.SENV_NU_SOLIC_ENVIO = ?  
+	AND C.VALI_NU_VALI_NO_SUPERADA IS NULL  
+ 
+
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90LWUT0A0067.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90K7UT0A0023.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 60LARR001110.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90WEUT7A0013.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 60LARR001095.zip
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90TEUT0A0012.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 60LARR001208.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90TZUT0A0012.pdf
+*** INFO*** Fin eliminar ficheros enviados de la solicitud: 822614, num mensajes: 8
+**INFO** Se obtienen los datos de mensajes de FSP enviadas en la solicitud 822611 
+: SELECT DISTINCT A.FNAS_DS_RUTA AS RUTA, A.CONV_NU_POS_PERS_PDF AS POSICION, C.MENS_NO_VALORCAMPO AS NOMBRE 
+FROM NECONVMO A,NESENVMO B,NEMENSMO C 
+WHERE   
+	C.MENS_NO_VALORCAMPO IS NOT NULL  
+	AND A.CONT_NU_CONTENIDO = B.CONT_NU_CONTENIDO  
+	AND A.COMU_CO_COMUNICACION = B.COMU_CO_COMUNICACION  
+	AND B.SENV_NU_SOLIC_ENVIO = C.SENV_NU_SOLIC_ENVIO 
+	AND B.SENV_NU_SOLIC_ENVIO = ?  
+	AND C.VALI_NU_VALI_NO_SUPERADA IS NULL  
+ 
+
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90WIUT0A0011.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90NHUT0A0012.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90SVUT0A0014.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 90CTUT0A0012.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 60LAOC000006.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 60LARR001119.pdf
+*** TRAZA: eliminarFicheroFSP(): Eliminamos 60LAOC000007.pdf
+*** INFO*** Fin eliminar ficheros enviados de la solicitud: 822611, num mensajes: 7
+*** TRAZA: process(): Vamos a obtenerRutasFSP--> (Llevamos   10 Seg/s de ejecuci�n)
+**INFO** Obtenemos las rutas a buscar ficheros de FSP obsoletos 
+: SELECT DISTINCT (FNAS_DS_RUTA) AS RUTA FROM NECONVMO WHERE FNAS_DS_RUTA IS NOT NULL 
+ 
+
+**INFO** Obtenemos el valor de las rutas de la tipologia Fija              
+**INFO** Obtenemos el valor de las rutas de la tipologia NICE              
+**INFO** Resultados obtenidos 3
+*** TRAZA: process(): Vamos a eliminarFicherosObsoletos--> (Llevamos   10 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos(): Procedemos a eliminar mensajes mediante find de la ruta /apps/ne01_nfs/artica--> (Llevamos   10 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos(): Eliminados los ficheros de la ruta /apps/ne01_nfs/artica
+*** TRAZA: eliminarFicherosObsoletos(): Numero de ficheros de la ruta =  0
+*** TRAZA: eliminarFicherosObsoletos(): Numero de ficheros BORRADOS de la ruta =  0
+*** TRAZA: eliminarFicherosObsoletos(): Procedemos a eliminar mensajes mediante find de la ruta /apps/ne01_nfs/pdf--> (Llevamos   10 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos():  Accedido a 0 y borrados 0--> (Llevamos   11 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos():  Accedido a 5000 y borrados 0--> (Llevamos   16 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos():  Accedido a 10000 y borrados 0--> (Llevamos   18 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos():  Accedido a 15000 y borrados 0--> (Llevamos   19 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos():  Accedido a 20000 y borrados 0--> (Llevamos   23 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos():  Accedido a 25000 y borrados 0--> (Llevamos   26 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos():  Accedido a 30000 y borrados 0--> (Llevamos   29 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos(): Eliminados los ficheros de la ruta /apps/ne01_nfs/pdf
+*** TRAZA: eliminarFicherosObsoletos(): Numero de ficheros de la ruta =  34327
+*** TRAZA: eliminarFicherosObsoletos(): Numero de ficheros BORRADOS de la ruta =  0
+*** TRAZA: eliminarFicherosObsoletos(): Procedemos a eliminar mensajes mediante find de la ruta /apps/ne01_nfs/pdfnoenviado--> (Llevamos   32 Seg/s de ejecuci�n)
+*** TRAZA: eliminarFicherosObsoletos(): Eliminados los ficheros de la ruta /apps/ne01_nfs/pdfnoenviado
+*** TRAZA: eliminarFicherosObsoletos(): Numero de ficheros de la ruta =  0
+*** TRAZA: eliminarFicherosObsoletos(): Numero de ficheros BORRADOS de la ruta =  0
+*** TRAZA: process(): Saliendo--> (Llevamos   32 Seg/s de ejecuci�n)
+*** INFO: Terminando...--> (Llevamos   32 Seg/s de ejecuci�n)
+*** INFO: Fin de FASE--> (Llevamos   32 Seg/s de ejecuci�n)
+*** RESULTADO: **************************************************
+*** RESULTADO: ******* CORRECTO *** CORRECTO *** CORRECTO *******
+*** RESULTADO: **************************************************
+*** RESULTADO: **** Realizado en --> (Llevamos   32 Seg/s de ejecuci�n)
+*** RESULTADO: **************************************************
+
+
+
+
+
+[INFO] ===== Fase NE700MEN ==============================================================================
+######################################################
+###    --> Esta fase solo se ejecuta en:           ###
+###          - Jueves                              ###
+###          - Domingo                             ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-rw- 1 USMNE01 aplicacion 2319 Nov 28 06:21 /apps/NE01/logs/NE700MEN.D20211128_06:12:41.log
+-rw-rw-rw- 1 USMNE01 aplicacion 1936 Dec  2 05:02 /apps/NE01/logs/NE700MEN.D20211202_05:00:01.log
+-rw-rw-rw- 1 USMNE01 aplicacion 1939 Dec  5 06:17 /apps/NE01/logs/NE700MEN.D20211205_06:15:30.log
+-rw-rw-rw- 1 USMNE01 aplicacion 2081 Dec  9 05:04 /apps/NE01/logs/NE700MEN.D20211209_05:00:02.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+*************  Fecha de Inicio del Proceso= jueves,09/12/2021,05:00:02   *******************
+*** TRAZA: Ficheros de fase inicializados ****
+*** TRAZA: Beans de la aplicacion inicializdos ****
+*** INFO: Process...
+*** TRAZA: JAVA START...
+Inicio proceso borradoInformacionMailRechazosOPotencialesRechazosEnvio--> (Llevamos   4 Seg/s de ejecuci�n)
+Sql borradoInformacionMailRechazosOPotencialesRechazosMensajes :DELETE FROM NEDSNMMO WHERE RRPM_CO_RECHAZO IN 
+(SELECT RRPM_CO_RECHAZO FROM NERRPMMO WHERE RRPM_IT_RECEPCION < (SYSDATE - ?) OR RRPM_IT_RECEPCION is NULL) AND ROWNUM < ? + 1
+VbleSustitucion Query :120
+VbleSustitucion Query :20000
+Bloque de commit ejecutado con 20000 registros
+Bloque de commit ejecutado con 20000 registros
+Bloque de commit ejecutado con 20000 registros
+Bloque de commit ejecutado con 20000 registros
+Bloque de commit ejecutado con 9590 registros
+*** TRAZA: Registros Borrados Rechazos de Mensajes 89590--> (Llevamos   4 Min/s 21 Seg/s de ejecuci�n)
+Inicio proceso borradoInformacionMailRechazosOPotencialesRechazosEnvio--> (Llevamos   4 Min/s 21 Seg/s de ejecuci�n)
+Sql borradoInformacionMailRechazosOPotencialesRechazosEnvio :DELETE FROM NEDSNEMO WHERE RRPE_CO_RECHAZO IN 
+(SELECT RRPE_CO_RECHAZO FROM NERRPEMO WHERE RRPE_IT_RECEPCION < (SYSDATE - ?) OR RRPE_IT_RECEPCION is NULL) AND ROWNUM < ? + 1
+VbleSustitucion Query 1:120
+VbleSustitucion Query 2:20000
+*** TRAZA: Registros Borrados Rechazos de Env�os0--> (Llevamos   4 Min/s 21 Seg/s de ejecuci�n)
+Inicio proceso borradoInformacionNoRechazos--> (Llevamos   4 Min/s 21 Seg/s de ejecuci�n)
+Sql borradoInformacionNoRechazos :DELETE FROM NENOREAO WHERE (NORE_IT_RECEPCION < (SYSDATE - ?) OR NORE_IT_RECEPCION is NULL) AND ROWNUM < ? + 1
+VbleSustitucion Query 1:120
+VbleSustitucion Query 2:40000
+*** TRAZA: Registros Borrados No Rechazos0--> (Llevamos   4 Min/s 22 Seg/s de ejecuci�n)
+*** TRAZA: JAVA END
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** Realizado en 
+Ejecucion terminada.
+*************  Fecha de Finalizacion del Proceso = jueves,09/12/2021,05:04:25    *************
+
+
+
+
+
+[INFO] ===== Fase NE710SEM ==============================================================================
+######################################################
+### --> Esta fase solo se ejecuta los Domingos <-- ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-rw- 1 USMNE01 aplicacion 464073 Nov 28 06:06 /apps/NE01/logs/NE710SEM.D20211128_060001.log
+-rw-rw-rw- 1 USMNE01 aplicacion 482543 Dec  5 06:07 /apps/NE01/logs/NE710SEM.D20211205_060000.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/NE01/logs/NE710SEM*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase NE720SEM ==============================================================================
+######################################################
+### --> Esta fase solo se ejecuta los Domingos <-- ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-rw- 1 USMNE01 aplicacion 160847 Nov 28 06:12 /apps/NE01/logs/NE720SEM.D20211128_060609.log
+-rw-rw-rw- 1 USMNE01 aplicacion 178839 Dec  5 06:15 /apps/NE01/logs/NE720SEM.D20211205_060731.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/NE01/logs/NE720SEM*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase NE750SEM ==============================================================================
+######################################################
+###     --> Esta fase se ejecuta a diario <--      ###
+######################################################
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-rw-rw- 1 USMNE01 aplicacion 116329 Dec  9 05:19 /apps/NE01/logs/NE750SEM.D20211209_015215.log
+
+[INFO] Mostrar el contenido de los logs:
+SE HA CONFIRMADO LA ELIMINACION DE 2158000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2159000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2160000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2161000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2162000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2163000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2164000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2165000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2166000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2167000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2168000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2169000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2170000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2171000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2172000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2173000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2174000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2175000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2176000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2177000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2178000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2179000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2180000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2181000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2182000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2183000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2184000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2185000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2186000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2187000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2188000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2189000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2190000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2191000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2192000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2193000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2194000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2195000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2196000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2197000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2198000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2199000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2200000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2201000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2202000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2203000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2204000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2205000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2206000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2207000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2208000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2209000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2210000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2211000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2212000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2213000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2214000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2215000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2216000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2217000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2218000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2219000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2220000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2221000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2222000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2223000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2224000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2225000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2226000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2227000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2228000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2229000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2230000 MENSAJES
+SE HA CONFIRMADO LA ELIMINACION DE 2231000 MENSAJES
+FINAL DEL PROCESO DE BORRADO DE LOS MENSAJES BATCH--> (Llevamos   3 Hora/s 21 Min/s 5 Seg/s de ejecuci�n)
+INICIO DEL PROCESO DE BORRADO DE LOS MENSAJES ONLINE--> (Llevamos   3 Hora/s 21 Min/s 5 Seg/s de ejecuci�n)
+FINAL DEL PROCESO DE BORRADO DE LOS MENSAJES ONLINE--> (Llevamos   3 Hora/s 23 Min/s 19 Seg/s de ejecuci�n)
+INICIO DEL PROCESO DE BORRADO DE PARTICIONES--> (Llevamos   3 Hora/s 23 Min/s 19 Seg/s de ejecuci�n)
+***
+***
+INICIO DEL BORRADO DE PARTICIONES NO USADAS EN LA TABLA NEHISMMO
+***
+***
+SE VA A ELIMINAR LA PARTICION NEHISMMO_PT396820 POR ESTAR VACIA.
+SE VA A ELIMINAR LA PARTICION NEHISMMO_PT396816 POR ESTAR VACIA.
+***
+***
+INICIO DEL BORRADO DE PARTICIONES NO USADAS EN LA TABLA NEMENSMO
+***
+***
+SE VA A ELIMINAR LA PARTICION NEMENSMO_PT396820 POR ESTAR VACIA.
+SE VA A ELIMINAR LA PARTICION NEMENSMO_PT396816 POR ESTAR VACIA.
+FINAL DEL PROCESO DE BORRADO DE PARTICIONES--> (Llevamos   3 Hora/s 26 Min/s 57 Seg/s de ejecuci�n)
+***
+HA FINALIZADO EL PROCESO DE BORRADO DE MENSAJES ANTIGUOS
+*** INFO: Terminando...
+*** INFO: Fin de FASE
+*** RESULTADO: **** borrado realizado en --> (Llevamos   3 Hora/s 26 Min/s 57 Seg/s de ejecuci�n)
+Ejecucion terminada.
+***  Fecha de Finalizacion del Proceso = jueves,09/12/2021,05:19:13    ***
+
+
+
+
+
+[INFO] Finaliza Revision de las fases del dia 20211209.
+---------------------------------------------------------------------------------------------------------
+##### FIN REVISION FASES NE - Fecha actual: Fri Dec 10 08:05:05 CET 2021 ###################################################

@@ -1,0 +1,2966 @@
+##### INICIO REVISION FASES UE - Fecha actual: Fri Dec 10 08:05:01 CET 2021 ################################################
+---------------------------------------------------------------------------------------------------------
+[INFO] No hay argumento, se coge por defecto la fecha del dia anterior 20211209.
+[INFO] Comenzando Revision de las fases del dia: 20211209 ...
+
+[INFO] La ruta de log para revision es: /apps/UE01/logs.
+
+[INFO] ===== Fase UE200D00 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 360 Nov 27 01:01 /apps/UE01/logs/UE200D0020211127%-010002.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 360 Nov 28 01:01 /apps/UE01/logs/UE200D0020211128%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 360 Nov 29 01:01 /apps/UE01/logs/UE200D0020211129%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 361 Nov 30 01:01 /apps/UE01/logs/UE200D0020211130%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 361 Dec  3 01:02 /apps/UE01/logs/UE200D0020211203%-010002.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 360 Dec  4 01:01 /apps/UE01/logs/UE200D0020211204%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 360 Dec  5 01:01 /apps/UE01/logs/UE200D0020211205%-010002.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 359 Dec  6 01:01 /apps/UE01/logs/UE200D0020211206%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 359 Dec  7 01:02 /apps/UE01/logs/UE200D0020211207%-010003.log.gz
+-rw-rw-r-- 1 USMUE01 batch      989 Dec 10 01:01 /apps/UE01/logs/UE200D0020211210%-010002.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE200D00*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE200D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  494 Nov 27 01:41 /apps/UE01/logs/UE200D0120211127%-010558.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  494 Nov 28 01:40 /apps/UE01/logs/UE200D0120211128%-010719.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  492 Nov 29 01:39 /apps/UE01/logs/UE200D0120211129%-010546.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  492 Nov 30 01:40 /apps/UE01/logs/UE200D0120211130%-010515.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  497 Dec  3 01:39 /apps/UE01/logs/UE200D0120211203%-010604.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  496 Dec  4 01:42 /apps/UE01/logs/UE200D0120211204%-010710.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  494 Dec  5 01:37 /apps/UE01/logs/UE200D0120211205%-010645.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  494 Dec  6 01:38 /apps/UE01/logs/UE200D0120211206%-010658.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  495 Dec  7 01:39 /apps/UE01/logs/UE200D0120211207%-010607.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1322 Dec 10 01:40 /apps/UE01/logs/UE200D0120211210%-010651.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE200D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE201D00 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 321 Nov 27 01:01 /apps/UE01/logs/UE201D0020211127%-010002.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 320 Nov 28 01:00 /apps/UE01/logs/UE201D0020211128%-010004.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 29 01:00 /apps/UE01/logs/UE201D0020211129%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 30 01:01 /apps/UE01/logs/UE201D0020211130%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Dec  3 01:00 /apps/UE01/logs/UE201D0020211203%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Dec  4 01:01 /apps/UE01/logs/UE201D0020211204%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Dec  5 01:01 /apps/UE01/logs/UE201D0020211205%-010001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 319 Dec  6 01:01 /apps/UE01/logs/UE201D0020211206%-010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 323 Dec  7 01:01 /apps/UE01/logs/UE201D0020211207%-010004.log.gz
+-rw-rw-r-- 1 USMUE01 batch      869 Dec 10 01:01 /apps/UE01/logs/UE201D0020211210%-010002.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE201D00*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE201D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  493 Nov 27 01:57 /apps/UE01/logs/UE201D0120211127%-014147.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  492 Nov 28 01:56 /apps/UE01/logs/UE201D0120211128%-014050.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  491 Nov 29 01:54 /apps/UE01/logs/UE201D0120211129%-013914.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  490 Nov 30 01:57 /apps/UE01/logs/UE201D0120211130%-014053.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  493 Dec  3 01:54 /apps/UE01/logs/UE201D0120211203%-013906.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  491 Dec  4 01:58 /apps/UE01/logs/UE201D0120211204%-014204.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  493 Dec  5 01:54 /apps/UE01/logs/UE201D0120211205%-013759.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  488 Dec  6 01:52 /apps/UE01/logs/UE201D0120211206%-013826.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  493 Dec  7 01:54 /apps/UE01/logs/UE201D0120211207%-013918.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1322 Dec 10 01:56 /apps/UE01/logs/UE201D0120211210%-014021.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE201D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE202D00 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 27 01:04 /apps/UE01/logs/UE202D0020211127%-010128.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 320 Nov 28 01:06 /apps/UE01/logs/UE202D0020211128%-010135.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Nov 29 01:04 /apps/UE01/logs/UE202D0020211129%-010132.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 30 01:04 /apps/UE01/logs/UE202D0020211130%-010129.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 323 Dec  3 01:05 /apps/UE01/logs/UE202D0020211203%-010215.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Dec  4 01:05 /apps/UE01/logs/UE202D0020211204%-010123.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Dec  5 01:05 /apps/UE01/logs/UE202D0020211205%-010129.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 323 Dec  6 01:05 /apps/UE01/logs/UE202D0020211206%-010128.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Dec  7 01:05 /apps/UE01/logs/UE202D0020211207%-010226.log.gz
+-rw-rw-r-- 1 USMUE01 batch      869 Dec 10 01:05 /apps/UE01/logs/UE202D0020211210%-010132.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE202D00*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE202D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  424 Nov 27 02:59 /apps/UE01/logs/UE202D0120211127%-015742.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  425 Nov 28 02:50 /apps/UE01/logs/UE202D0120211128%-015637.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  425 Nov 29 02:50 /apps/UE01/logs/UE202D0120211129%-015446.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Nov 30 02:53 /apps/UE01/logs/UE202D0120211130%-015711.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  423 Dec  3 02:52 /apps/UE01/logs/UE202D0120211203%-015445.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  425 Dec  4 03:02 /apps/UE01/logs/UE202D0120211204%-015822.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Dec  5 02:52 /apps/UE01/logs/UE202D0120211205%-015433.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Dec  6 02:51 /apps/UE01/logs/UE202D0120211206%-015256.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  425 Dec  7 02:49 /apps/UE01/logs/UE202D0120211207%-015406.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1173 Dec 10 02:55 /apps/UE01/logs/UE202D0120211210%-015615.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE202D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE203D00 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 321 Nov 27 01:01 /apps/UE01/logs/UE203D0020211127%-010128.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 28 01:02 /apps/UE01/logs/UE203D0020211128%-010135.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Nov 29 01:02 /apps/UE01/logs/UE203D0020211129%-010132.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 323 Nov 30 01:02 /apps/UE01/logs/UE203D0020211130%-010129.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Dec  3 01:02 /apps/UE01/logs/UE203D0020211203%-010215.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 320 Dec  4 01:02 /apps/UE01/logs/UE203D0020211204%-010123.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Dec  5 01:02 /apps/UE01/logs/UE203D0020211205%-010129.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 319 Dec  6 01:01 /apps/UE01/logs/UE203D0020211206%-010128.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 319 Dec  7 01:02 /apps/UE01/logs/UE203D0020211207%-010226.log.gz
+-rw-rw-r-- 1 USMUE01 batch      869 Dec 10 01:02 /apps/UE01/logs/UE203D0020211210%-010132.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE203D00*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE203D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  423 Nov 27 03:17 /apps/UE01/logs/UE203D0120211127%-025945.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  421 Nov 28 03:07 /apps/UE01/logs/UE203D0120211128%-025021.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Nov 29 03:06 /apps/UE01/logs/UE203D0120211129%-025035.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Nov 30 03:09 /apps/UE01/logs/UE203D0120211130%-025351.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Dec  3 03:08 /apps/UE01/logs/UE203D0120211203%-025217.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  423 Dec  4 03:19 /apps/UE01/logs/UE203D0120211204%-030227.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Dec  5 03:09 /apps/UE01/logs/UE203D0120211205%-025218.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Dec  6 03:07 /apps/UE01/logs/UE203D0120211206%-025112.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Dec  7 03:06 /apps/UE01/logs/UE203D0120211207%-024909.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1173 Dec 10 03:13 /apps/UE01/logs/UE203D0120211210%-025557.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE203D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE204D00 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 27 01:05 /apps/UE01/logs/UE204D0020211127%-010424.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 28 01:07 /apps/UE01/logs/UE204D0020211128%-010623.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Nov 29 01:05 /apps/UE01/logs/UE204D0020211129%-010425.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 323 Nov 30 01:05 /apps/UE01/logs/UE204D0020211130%-010419.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Dec  3 01:06 /apps/UE01/logs/UE204D0020211203%-010511.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Dec  4 01:07 /apps/UE01/logs/UE204D0020211204%-010549.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 324 Dec  5 01:06 /apps/UE01/logs/UE204D0020211205%-010556.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 320 Dec  6 01:06 /apps/UE01/logs/UE204D0020211206%-010600.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Dec  7 01:06 /apps/UE01/logs/UE204D0020211207%-010515.log.gz
+-rw-rw-r-- 1 USMUE01 batch      868 Dec 10 01:06 /apps/UE01/logs/UE204D0020211210%-010559.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE204D00*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE204D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  428 Nov 27 03:40 /apps/UE01/logs/UE204D0120211127%-031718.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  425 Nov 28 03:29 /apps/UE01/logs/UE204D0120211128%-030727.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  423 Nov 29 03:29 /apps/UE01/logs/UE204D0120211129%-030645.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  421 Nov 30 03:33 /apps/UE01/logs/UE204D0120211130%-031003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Dec  3 03:34 /apps/UE01/logs/UE204D0120211203%-030900.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Dec  4 03:41 /apps/UE01/logs/UE204D0120211204%-031928.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Dec  5 03:30 /apps/UE01/logs/UE204D0120211205%-030918.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Dec  6 03:29 /apps/UE01/logs/UE204D0120211206%-030717.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  424 Dec  7 03:28 /apps/UE01/logs/UE204D0120211207%-030609.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1172 Dec 10 03:34 /apps/UE01/logs/UE204D0120211210%-031308.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE204D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE205D00 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 319 Nov 27 01:04 /apps/UE01/logs/UE205D0020211127%-010424.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 319 Nov 28 01:06 /apps/UE01/logs/UE205D0020211128%-010623.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 319 Nov 29 01:04 /apps/UE01/logs/UE205D0020211129%-010425.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Nov 30 01:04 /apps/UE01/logs/UE205D0020211130%-010419.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 319 Dec  3 01:05 /apps/UE01/logs/UE205D0020211203%-010511.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 322 Dec  4 01:06 /apps/UE01/logs/UE205D0020211204%-010549.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 323 Dec  5 01:06 /apps/UE01/logs/UE205D0020211205%-010556.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 319 Dec  6 01:06 /apps/UE01/logs/UE205D0020211206%-010600.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 321 Dec  7 01:05 /apps/UE01/logs/UE205D0020211207%-010515.log.gz
+-rw-rw-r-- 1 USMUE01 batch      869 Dec 10 01:06 /apps/UE01/logs/UE205D0020211210%-010559.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE205D00*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE205D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  420 Nov 27 03:53 /apps/UE01/logs/UE205D0120211127%-034008.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Nov 28 03:43 /apps/UE01/logs/UE205D0120211128%-032955.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Nov 29 03:43 /apps/UE01/logs/UE205D0120211129%-032908.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Nov 30 03:48 /apps/UE01/logs/UE205D0120211130%-033340.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Dec  3 03:49 /apps/UE01/logs/UE205D0120211203%-033425.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  425 Dec  4 03:56 /apps/UE01/logs/UE205D0120211204%-034118.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  420 Dec  5 03:45 /apps/UE01/logs/UE205D0120211205%-033031.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  422 Dec  6 03:43 /apps/UE01/logs/UE205D0120211206%-032933.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  421 Dec  7 03:43 /apps/UE01/logs/UE205D0120211207%-032844.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1171 Dec 10 03:50 /apps/UE01/logs/UE205D0120211210%-033449.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE205D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE206D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  353 Nov 27 03:53 /apps/UE01/logs/UE206D0120211127%-035348.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  354 Nov 28 03:43 /apps/UE01/logs/UE206D0120211128%-034354.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 29 03:43 /apps/UE01/logs/UE206D0120211129%-034331.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  353 Nov 30 03:48 /apps/UE01/logs/UE206D0120211130%-034826.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  3 03:49 /apps/UE01/logs/UE206D0120211203%-034947.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  4 03:56 /apps/UE01/logs/UE206D0120211204%-035602.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  5 03:45 /apps/UE01/logs/UE206D0120211205%-034507.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  6 03:43 /apps/UE01/logs/UE206D0120211206%-034318.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  7 03:43 /apps/UE01/logs/UE206D0120211207%-034335.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1073 Dec 10 03:50 /apps/UE01/logs/UE206D0120211210%-035014.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE206D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE207D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  349 Nov 27 03:53 /apps/UE01/logs/UE207D0120211127%-035351.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Nov 28 03:43 /apps/UE01/logs/UE207D0120211128%-034358.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 29 03:43 /apps/UE01/logs/UE207D0120211129%-034335.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Nov 30 03:48 /apps/UE01/logs/UE207D0120211130%-034830.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  3 03:49 /apps/UE01/logs/UE207D0120211203%-034951.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  4 03:56 /apps/UE01/logs/UE207D0120211204%-035605.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  5 03:45 /apps/UE01/logs/UE207D0120211205%-034510.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  6 03:43 /apps/UE01/logs/UE207D0120211206%-034321.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  7 03:43 /apps/UE01/logs/UE207D0120211207%-034338.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1072 Dec 10 03:50 /apps/UE01/logs/UE207D0120211210%-035018.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE207D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE208D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  353 Nov 27 03:53 /apps/UE01/logs/UE208D0120211127035353-0353.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  353 Nov 28 03:44 /apps/UE01/logs/UE208D0120211128034400-0344.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  355 Nov 29 03:43 /apps/UE01/logs/UE208D0120211129034337-0343.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 30 03:48 /apps/UE01/logs/UE208D0120211130034833-0348.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  354 Dec  3 03:49 /apps/UE01/logs/UE208D0120211203034952-0349.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  355 Dec  4 03:56 /apps/UE01/logs/UE208D0120211204035607-0356.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  354 Dec  5 03:45 /apps/UE01/logs/UE208D0120211205034514-0345.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  354 Dec  6 03:43 /apps/UE01/logs/UE208D0120211206034323-0343.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  7 03:43 /apps/UE01/logs/UE208D0120211207034341-0343.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1072 Dec 10 03:50 /apps/UE01/logs/UE208D0120211210035020-0350.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE208D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE209D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 27 03:53 /apps/UE01/logs/UE209D0120211127%-035355.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 28 03:44 /apps/UE01/logs/UE209D0120211128%-034401.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Nov 29 03:43 /apps/UE01/logs/UE209D0120211129%-034340.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 30 03:48 /apps/UE01/logs/UE209D0120211130%-034834.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  3 03:49 /apps/UE01/logs/UE209D0120211203%-034955.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  4 03:56 /apps/UE01/logs/UE209D0120211204%-035610.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  5 03:45 /apps/UE01/logs/UE209D0120211205%-034516.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  6 03:43 /apps/UE01/logs/UE209D0120211206%-034325.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  7 03:43 /apps/UE01/logs/UE209D0120211207%-034343.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1073 Dec 10 03:50 /apps/UE01/logs/UE209D0120211210%-035022.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE209D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE210D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  347 Nov 27 03:53 /apps/UE01/logs/UE210D0120211127-035357.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  348 Nov 28 03:44 /apps/UE01/logs/UE210D0120211128-034403.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  347 Nov 29 03:43 /apps/UE01/logs/UE210D0120211129-034342.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  348 Nov 30 03:48 /apps/UE01/logs/UE210D0120211130-034836.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  3 03:49 /apps/UE01/logs/UE210D0120211203-034956.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  348 Dec  4 03:56 /apps/UE01/logs/UE210D0120211204-035611.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  5 03:45 /apps/UE01/logs/UE210D0120211205-034518.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  348 Dec  6 03:43 /apps/UE01/logs/UE210D0120211206-034327.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  348 Dec  7 03:43 /apps/UE01/logs/UE210D0120211207-034345.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1072 Dec 10 03:50 /apps/UE01/logs/UE210D0120211210-035023.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE210D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE211D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 27 03:54 /apps/UE01/logs/UE211D0120211127%-035359.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Nov 28 03:44 /apps/UE01/logs/UE211D0120211128%-034404.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Nov 29 03:43 /apps/UE01/logs/UE211D0120211129%-034344.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Nov 30 03:48 /apps/UE01/logs/UE211D0120211130%-034838.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  3 03:49 /apps/UE01/logs/UE211D0120211203%-034958.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  4 03:56 /apps/UE01/logs/UE211D0120211204%-035613.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Dec  5 03:45 /apps/UE01/logs/UE211D0120211205%-034520.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  6 03:43 /apps/UE01/logs/UE211D0120211206%-034329.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Dec  7 03:43 /apps/UE01/logs/UE211D0120211207%-034347.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1073 Dec 10 03:50 /apps/UE01/logs/UE211D0120211210%-035025.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE211D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE212D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  349 Nov 27 03:54 /apps/UE01/logs/UE212D0120211127%-035401.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Nov 28 03:44 /apps/UE01/logs/UE212D0120211128%-034406.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Nov 29 03:43 /apps/UE01/logs/UE212D0120211129%-034346.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Nov 30 03:48 /apps/UE01/logs/UE212D0120211130%-034840.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  3 03:50 /apps/UE01/logs/UE212D0120211203%-035003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  4 03:56 /apps/UE01/logs/UE212D0120211204%-035616.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Dec  5 03:45 /apps/UE01/logs/UE212D0120211205%-034522.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Dec  6 03:43 /apps/UE01/logs/UE212D0120211206%-034331.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Dec  7 03:43 /apps/UE01/logs/UE212D0120211207%-034349.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1072 Dec 10 03:50 /apps/UE01/logs/UE212D0120211210%-035027.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE212D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE213D01 ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Miercoles                           ###
+###          - Jueves                              ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  351 Nov 27 03:54 /apps/UE01/logs/UE213D0120211127%-035402.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  354 Nov 28 03:44 /apps/UE01/logs/UE213D0120211128%-034409.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Nov 29 03:43 /apps/UE01/logs/UE213D0120211129%-034348.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  350 Nov 30 03:48 /apps/UE01/logs/UE213D0120211130%-034842.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  349 Dec  3 03:50 /apps/UE01/logs/UE213D0120211203%-035005.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  352 Dec  4 03:56 /apps/UE01/logs/UE213D0120211204%-035617.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  5 03:45 /apps/UE01/logs/UE213D0120211205%-034523.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  6 03:43 /apps/UE01/logs/UE213D0120211206%-034332.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  351 Dec  7 03:43 /apps/UE01/logs/UE213D0120211207%-034351.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1073 Dec 10 03:50 /apps/UE01/logs/UE213D0120211210%-035029.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE213D01*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UE1TWSEM ==============================================================================
+#######################################################
+### --> Esta fase solo se ejecuta los Miercoles <-- ###
+#######################################################
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1670 Nov 10 00:59 /apps/UE01/logs/fases/ctm/UE1TWSEM_sh.LOG_03078x_00001.gz
+-rw-r----- 1 USMUE01 batch 1669 Nov 17 01:01 /apps/UE01/logs/fases/ctm/UE1TWSEM_sh.LOG_038mrc_00001.gz
+-rw-r----- 1 USMUE01 batch 1668 Nov 24 00:58 /apps/UE01/logs/fases/ctm/UE1TWSEM_sh.LOG_03iavk_00001.gz
+-rw-r----- 1 USMUE01 batch 1670 Dec  1 01:01 /apps/UE01/logs/fases/ctm/UE1TWSEM_sh.LOG_03qbfq_00001.gz
+-rw-r----- 1 USMUE01 batch 6015 Dec  8 00:59 /apps/UE01/logs/fases/ctm/UE1TWSEM_sh.LOG_03xxs2_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase UE2TWSEM ==============================================================================
+#######################################################
+### --> Esta fase solo se ejecuta los Miercoles <-- ###
+#######################################################
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1807 Nov 10 00:59 /apps/UE01/logs/fases/ctm/UE2TWSEM_sh.LOG_03078w_00001.gz
+-rw-r----- 1 USMUE01 batch 1807 Nov 17 01:01 /apps/UE01/logs/fases/ctm/UE2TWSEM_sh.LOG_038mrb_00001.gz
+-rw-r----- 1 USMUE01 batch 1812 Nov 24 00:59 /apps/UE01/logs/fases/ctm/UE2TWSEM_sh.LOG_03iavj_00001.gz
+-rw-r----- 1 USMUE01 batch 1804 Dec  1 01:01 /apps/UE01/logs/fases/ctm/UE2TWSEM_sh.LOG_03qbfp_00001.gz
+-rw-r----- 1 USMUE01 batch 7152 Dec  8 00:59 /apps/UE01/logs/fases/ctm/UE2TWSEM_sh.LOG_03xxs1_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase UE410DFF ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Domingo                             ###
+###          - Lunes                               ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1680 Nov 25 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03itdj_00001.gz
+-rw-r----- 1 USMUE01 batch 1678 Nov 26 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03kqqt_00001.gz
+-rw-r----- 1 USMUE01 batch 1679 Nov 27 00:31 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03ls0b_00001.gz
+-rw-r----- 1 USMUE01 batch 1678 Nov 30 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03plwu_00001.gz
+-rw-r----- 1 USMUE01 batch 1678 Dec  1 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03q7d1_00001.gz
+-rw-r----- 1 USMUE01 batch 1678 Dec  2 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03sj12_00001.gz
+-rw-r----- 1 USMUE01 batch 1678 Dec  3 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03tkx8_00001.gz
+-rw-r----- 1 USMUE01 batch 1678 Dec  4 00:32 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03v3gf_00001.gz
+-rw-r----- 1 USMUE01 batch 6313 Dec  8 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_03xtu4_00001
+-rw-r----- 1 USMUE01 batch 6313 Dec 10 00:30 /apps/UE01/logs/fases/ctm/UE410DFF_sh.LOG_0422jc_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase UE420DFF ==============================================================================
+######################################################
+###    --> En esta fase NO se ejecuta los: <--     ###
+###          - Domingo                             ###
+###          - Lunes                               ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 2566 Nov 25 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03itdo_00001.gz
+-rw-r----- 1 USMUE01 batch 2562 Nov 26 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03kqqy_00001.gz
+-rw-r----- 1 USMUE01 batch 2564 Nov 27 00:31 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03ls0g_00001.gz
+-rw-r----- 1 USMUE01 batch 2561 Nov 30 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03plwz_00001.gz
+-rw-r----- 1 USMUE01 batch 2563 Dec  1 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03q7d6_00001.gz
+-rw-r----- 1 USMUE01 batch 2564 Dec  2 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03sj17_00001.gz
+-rw-r----- 1 USMUE01 batch 2564 Dec  3 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03tkxd_00001.gz
+-rw-r----- 1 USMUE01 batch 2564 Dec  4 00:32 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03v3gk_00001.gz
+-rw-r----- 1 USMUE01 batch 9645 Dec  8 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_03xtu9_00001
+-rw-r----- 1 USMUE01 batch 9645 Dec 10 00:30 /apps/UE01/logs/fases/ctm/UE420DFF_sh.LOG_0422jh_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase UE8TWSEM ==============================================================================
+######################################################
+### --> En esta fase solo se ejecuta Miercoles <-- ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 2131 Nov 10 01:49 /apps/UE01/logs/fases/ctm/UE8TWSEM_sh.LOG_03078y_00001.gz
+-rw-r----- 1 USMUE01 batch 2130 Nov 17 01:27 /apps/UE01/logs/fases/ctm/UE8TWSEM_sh.LOG_038mrd_00001.gz
+-rw-r----- 1 USMUE01 batch 2133 Nov 24 01:43 /apps/UE01/logs/fases/ctm/UE8TWSEM_sh.LOG_03iavl_00001.gz
+-rw-r----- 1 USMUE01 batch 2141 Dec  1 02:29 /apps/UE01/logs/fases/ctm/UE8TWSEM_sh.LOG_03qbfr_00001.gz
+-rw-r----- 1 USMUE01 batch 8844 Dec  8 01:21 /apps/UE01/logs/fases/ctm/UE8TWSEM_sh.LOG_03xxs3_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase UE906DAC ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1727 Dec  1 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03q7cy_00001.gz
+-rw-r----- 1 USMUE01 batch 1725 Dec  2 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03sj0z_00001.gz
+-rw-r----- 1 USMUE01 batch 1730 Dec  3 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03tkx5_00001.gz
+-rw-r----- 1 USMUE01 batch 1727 Dec  4 00:32 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03v3gc_00001.gz
+-rw-r----- 1 USMUE01 batch 1727 Dec  5 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03vh8x_00001.gz
+-rw-r----- 1 USMUE01 batch 1727 Dec  6 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03w5q9_00001.gz
+-rw-r----- 1 USMUE01 batch 1727 Dec  7 00:31 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03xfte_00001.gz
+-rw-r----- 1 USMUE01 batch 6410 Dec  8 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03xtu1_00001
+-rw-r----- 1 USMUE01 batch 6410 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03zxii_00001
+-rw-r----- 1 USMUE01 batch 6410 Dec 10 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_0422j9_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6410 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03zxii_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6410 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE906DAC_sh.LOG_03zxii_00001
+
+[INFO] El contenido es ...:
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ [ 0 -gt 1 ]
++ [ 0 -eq 1 ]
++ date +%Y%m%d
++ FICH_DATOS='DG6620S1.20211209*'
++ echo 'Fichero de entrada: DG6620S1.20211209*'
+Fichero de entrada: DG6620S1.20211209*
++ PASO=UE90610
++ date '+%D  %T'
++ echo 'UE90610 Inicio 12/09/21' 00:30:17
+UE90610 Inicio 12/09/21 00:30:17
++ [ -f /apps/dataflow/UE/rec//DG6620S1.20211209003011 ]
++ echo cp /apps/dataflow/UE/rec//DG6620S1.20211209003011 /apps/ue_nfs/UE09070.dat
+cp /apps/dataflow/UE/rec//DG6620S1.20211209003011 /apps/ue_nfs/UE09070.dat
++ cp /apps/dataflow/UE/rec//DG6620S1.20211209003011 /apps/ue_nfs/UE09070.dat
++ rc=0
++ date '+%D %T'
++ echo 'UE90610 Fin    12/09/21' 00:30:17 retorno=0
+UE90610 Fin    12/09/21 00:30:17 retorno=0
++ [ 0 '!=' 0 ]
++ PASO=UE90620
++ date '+%D %T'
++ echo 'UE90620 Inicio 12/09/21' 00:30:17
+UE90620 Inicio 12/09/21 00:30:17
++ rm -f /apps/dataflow/UE/rec//DG6620S1.20211209003011
++ rc=0
++ [ 0 '!=' 0 ]
++ date '+%D %T'
++ echo 'UE90620 Fin    12/09/21' 00:30:17 retorno=0
+UE90620 Fin    12/09/21 00:30:17 retorno=0
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UE907DAC ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1867 Dec  1 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03q7d2_00001.gz
+-rw-r----- 1 USMUE01 batch 1867 Dec  2 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03sj13_00001.gz
+-rw-r----- 1 USMUE01 batch 1868 Dec  3 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03tkx9_00001.gz
+-rw-r----- 1 USMUE01 batch 1870 Dec  4 00:32 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03v3gg_00001.gz
+-rw-r----- 1 USMUE01 batch 1867 Dec  5 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03vh91_00001.gz
+-rw-r----- 1 USMUE01 batch 1866 Dec  6 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03w5qd_00001.gz
+-rw-r----- 1 USMUE01 batch 1869 Dec  7 00:31 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03xfti_00001.gz
+-rw-r----- 1 USMUE01 batch 6651 Dec  8 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03xtu5_00001
+-rw-r----- 1 USMUE01 batch 6651 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03zxim_00001
+-rw-r----- 1 USMUE01 batch 6651 Dec 10 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_0422jd_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6651 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03zxim_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6651 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE907DAC_sh.LOG_03zxim_00001
+
+[INFO] El contenido es ...:
++ export CLASSPATH
++ NACONFIG=/apps/na/config/UE01CONFIG.PROP
++ export NACONFIG
++ HOST_SMTP=smtp.tesa
++ export HOST_SMTP
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ PASO=UE09070
++ date '+%D %T'
++ echo 'UE09070 Inicio 12/09/21' 00:30:19
+UE09070 Inicio 12/09/21 00:30:19
++ FIC_ENTRADA_NAS=/apps/ue_nfs/UE09070.dat
++ FIC_ENTRADA=/apps/UE01/datos/UE09070.dat
++ FIC_TEMP=/apps/UE01/datos/UE09070.dat_14056
++ FIC_SALIDA=/apps/UE01/datos/UE09071.dat
++ rm /apps/UE01/datos/UE09071.dat
++ 1> /dev/null 2>& 1
++ [ ! -f /apps/ue_nfs/UE09070.dat ]
++ awk $'{FS=":"\n      COD_REG="UEC1"\n      COD_PERSON="1033"\n      VALOR_PERSON="1"\n      N_CLIENTE=$1\n      T_DOCUMENTO=$2\n      N_DOCUMENTO=$3\n      OPER=$5\n      if (OPER=="A"){\n        AUX=substr(N_DOCUMENTO,7,11)\n          N_DOCUMENTO=AUX\n        printf"%4s:%8s:%1s:%11s:%4s:%1s\\n", \\\n           COD_REG,N_CLIENTE,T_DOCUMENTO,N_DOCUMENTO,COD_PERSON,VALOR_PERSON\n      }\n      }' /apps/UE01/datos/UE09070.dat
++ 1> /apps/UE01/datos/UE09071.dat
++ echo cp /apps/ue_nfs/UE09070.dat /apps/UE01/datos/UE09070.dat
+cp /apps/ue_nfs/UE09070.dat /apps/UE01/datos/UE09070.dat
++ cp /apps/ue_nfs/UE09070.dat /apps/UE01/datos/UE09070.dat
++ rc=0
++ [ 0 '!=' 0 ]
++ echo rm -f /apps/ue_nfs/UE09070.dat
+rm -f /apps/ue_nfs/UE09070.dat
++ rm -f /apps/ue_nfs/UE09070.dat
++ date '+%D %T'
++ echo 'UE09070 Fin    12/09/21' 00:30:19
+UE09070 Fin    12/09/21 00:30:19
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UE908DAC ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1739 Dec  1 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03q7d8_00001.gz
+-rw-r----- 1 USMUE01 batch 1739 Dec  2 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03sj19_00001.gz
+-rw-r----- 1 USMUE01 batch 1740 Dec  3 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03tkxf_00001.gz
+-rw-r----- 1 USMUE01 batch 1740 Dec  4 00:32 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03v3gm_00001.gz
+-rw-r----- 1 USMUE01 batch 1739 Dec  5 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03vh97_00001.gz
+-rw-r----- 1 USMUE01 batch 1741 Dec  6 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03w5qj_00001.gz
+-rw-r----- 1 USMUE01 batch 1740 Dec  7 00:31 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03xfto_00001.gz
+-rw-r----- 1 USMUE01 batch 6267 Dec  8 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03xtub_00001
+-rw-r----- 1 USMUE01 batch 6267 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03zxis_00001
+-rw-r----- 1 USMUE01 batch 6267 Dec 10 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_0422jj_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6267 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03zxis_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6267 Dec  9 00:30 /apps/UE01/logs/fases/ctm/UE908DAC_sh.LOG_03zxis_00001
+
+[INFO] El contenido es ...:
++ export CLASSPATH
++ CLASSPATH=/apps/na/v5.1/classes:/apps/UE01/apis:.:/apps/UE01/parms:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/UE01/bin:/apps/UE01/lib/classes:/apps/UE01/lib/te-ue-fases.jar:/apps/UE01/lib/ext/jndi.jar:/apps/UE01/lib/ext/ldap.jar:/apps/UE01/lib/ext/mail.jar:/apps/UE01/lib/ext/providerutil.jar:/apps/UE01/lib/ext/jce1_2_1.jar:/apps/UE01/lib/ext/sunjce_provider.jar:/apps/UE01/lib/ext/activation.jar:
++ export CLASSPATH
++ NACONFIG=/apps/na/config/UE01CONFIG.PROP
++ export NACONFIG
++ HOST_SMTP=smtp.tesa
++ export HOST_SMTP
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ [ -a /apps/UE01/datos/UE09072.dat ]
++ sort -u /apps/UE01/datos/UE09072.dat /apps/UE01/datos/UE09071.dat
++ 1> /apps/UE01/datos/UE09071.dat_tmp
++ rm /apps/UE01/datos/UE09071.dat
++ 1> /dev/null 2>& 1
++ mv /apps/UE01/datos/UE09071.dat_tmp /apps/UE01/datos/UE09071.dat
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/UE01/datos/UE09072.dat
++ PASO=UE09081
++ date '+%D %T'
++ echo 'UE09081 Inicio 12/09/21' 00:30:21
+UE09081 Inicio 12/09/21 00:30:21
++ /apps/UE01/bin/rellfavoritos -V 0 -U ue -W ue -C PUE000 -O /apps/UE01/datos/UE09073.dat -F /apps/UE01/datos/UE09071.dat -P /apps/UE01/datos/UE09072.dat
++ 1> /apps/UE01/datos/UE907DAC.log 2>& 1
++ rc=0
++ date '+%D %T'
++ echo 'UE09081 Fin    12/09/21' 00:30:21 retorno=0
+UE09081 Fin    12/09/21 00:30:21 retorno=0
++ [ 0 '!=' 0 ]
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ date +%Y%m%d
++ mv /apps/UE01/datos/UE09073.dat /apps/UE01/datos/UE0907320211209.dat
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UE9TWSEM ==============================================================================
+######################################################
+### --> En esta fase solo se ejecuta Miercoles <-- ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 12803576 Nov 24 04:01 /apps/UE01/logs/UE9TWSEM_20211124014327.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 13214161 Dec  1 04:46 /apps/UE01/logs/UE9TWSEM_20211201022922.log.gz
+-rw-rw-r-- 1 USMUE01 batch      31993982 Dec  8 01:54 /apps/UE01/logs/UE9TWSEM_20211208012100.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UE9TWSEM*20211209*log: No such file or directory
+
+
+######################################################
+###   --> Esta fase existe otra ruta de log <--    ###
+######################################################
+[INFO] La otra ruta de log es: /apps/UE01/logs/fases/ctm.
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch   6990 Nov 10 02:21 /apps/UE01/logs/fases/ctm/UE9TWSEM_sh.LOG_03078t_00001.gz
+-rw-r----- 1 USMUE01 batch   7580 Nov 17 02:11 /apps/UE01/logs/fases/ctm/UE9TWSEM_sh.LOG_038mr8_00001.gz
+-rw-r----- 1 USMUE01 batch   9091 Nov 24 04:01 /apps/UE01/logs/fases/ctm/UE9TWSEM_sh.LOG_03iavg_00001.gz
+-rw-r----- 1 USMUE01 batch  17486 Dec  1 04:46 /apps/UE01/logs/fases/ctm/UE9TWSEM_sh.LOG_03qbfm_00001.gz
+-rw-r----- 1 USMUE01 batch 120651 Dec  8 01:54 /apps/UE01/logs/fases/ctm/UE9TWSEM_sh.LOG_03xxry_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase UEBENDIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  478 Dec  1 01:00 /apps/UE01/logs/UEBENDIA_20211201010000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  476 Dec  2 01:00 /apps/UE01/logs/UEBENDIA_20211202010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  477 Dec  3 01:00 /apps/UE01/logs/UEBENDIA_20211203010001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  476 Dec  4 01:00 /apps/UE01/logs/UEBENDIA_20211204010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  475 Dec  5 01:00 /apps/UE01/logs/UEBENDIA_20211205010001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  467 Dec  6 01:00 /apps/UE01/logs/UEBENDIA_20211206010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  474 Dec  7 01:00 /apps/UE01/logs/UEBENDIA_20211207010001.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1583 Dec  8 01:00 /apps/UE01/logs/UEBENDIA_20211208010001.log
+-rw-rw-r-- 1 USMUE01 batch      1591 Dec  9 01:00 /apps/UE01/logs/UEBENDIA_20211209010001.log
+-rw-rw-r-- 1 USMUE01 batch      1591 Dec 10 01:00 /apps/UE01/logs/UEBENDIA_20211210010001.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+**DEBUG**: ue.fases.UEBENDIA_BorrarCuentasUsuarioNoCompletadas: Se han cargado la Fase a partir de los Argumentos de Entrada.
+**DEBUG**: abreConexionBD().Inicio
+**DEBUG**: abreConexionBD().Cargado driver Oracle
+**DEBUG**: abreConexionBD():--- Se intenta crear nueva conexion. Intento:1
+**DEBUG**: abreConexionBD():--- Creada nueva conexion.
+**DEBUG**: ue.fases.UEBENDIA_BorrarCuentasUsuarioNoCompletadas: Se han inicializado los Beans, Conexiones, etc... de la Fase.
+**DEBUG**: Process...--> (Llevamos   1 Seg/s de ejecucion)
+**DEBUG**: ue.fases.UEBENDIA_BorrarCuentasUsuarioNoCompletadas: valor de la fecha devuelta --> 2021-12-03 01:00:03.138
+**DEBUG**: ue.fases.UEBENDIA_BorrarCuentasUsuarioNoCompletadastiempo de confirmacion de email: 6
+**DEBUG**: ue.fases.UEBENDIA_BorrarCuentasUsuarioNoCompletadas: valor de la fecha devuelta --> 2021-12-03 01:00:03.138
+**DEBUG**: Fin de FASE--> (Llevamos   2 Seg/s de ejecucion)
+**LOG**: *** RESULTADO: **************************************************
+**LOG**: *** RESULTADO: ******* CORRECTO *** CORRECTO *** CORRECTO *******
+**LOG**: *** RESULTADO: **************************************************
+*** RESULTADO: **** Realizado en --> (Llevamos   2 Seg/s de ejecucion)
+**LOG**: *** RESULTADO: **************************************************
+**LOG**: #####################################################
+**LOG**: USUARIOS PROCESADOS CORRECTAMENTE.....  :0
+**LOG**: #####################################################
+**DEBUG**: ue.fases.UEBENDIA_BorrarCuentasUsuarioNoCompletadas: Se han cerrado los Beans, Conexiones, etc... de la Fase.
+
+
+
+
+
+[INFO] ===== Fase UECONPRO ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1920 Dec  1 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03q7dp_00001.gz
+-rw-r----- 1 USMUE01 batch 1919 Dec  2 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03sj1q_00001.gz
+-rw-r----- 1 USMUE01 batch 1916 Dec  3 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03tkxw_00001.gz
+-rw-r----- 1 USMUE01 batch 1919 Dec  4 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03v3h3_00001.gz
+-rw-r----- 1 USMUE01 batch 1920 Dec  5 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03vh9o_00001.gz
+-rw-r----- 1 USMUE01 batch 1916 Dec  6 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03w5r0_00001.gz
+-rw-r----- 1 USMUE01 batch 1918 Dec  7 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03xfu5_00001.gz
+-rw-r----- 1 USMUE01 batch 6320 Dec  8 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03xtus_00001
+-rw-r----- 1 USMUE01 batch 6320 Dec  9 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03zxj9_00001
+-rw-r----- 1 USMUE01 batch 6321 Dec 10 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_0422k0_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6320 Dec  9 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03zxj9_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6320 Dec  9 00:00 /apps/UE01/logs/fases/ctm/UECONPROD_sh.LOG_03zxj9_00001
+
+[INFO] El contenido es ...:
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ PASO=UECONPROD
++ FICHERO=/apps/UE01/datos/CONPROD.txt
++ date '+%D %T'
++ echo 'UECONPROD Inicio 12/09/21' 00:00:00
+UECONPROD Inicio 12/09/21 00:00:00
++ sqlplus ue/ue@PUE000 @/apps/UE01/bin/conprod /apps/UE01/datos/CONPROD.txt
+
+SQL*Plus: Release 12.1.0.2.0 Production on Jue Dic 9 00:00:00 2021
+
+Copyright (c) 1982, 2014, Oracle.  All rights reserved.
+
+Last Successful login time: Mi� Dic 08 2021 23:59:30 +01:00
+
+Connected to:
+Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
+
+*** CERRANDO INCIDENCIAS DUPLICADAS ***
+*** FIN DE CERRAR INCIDENCIAS ****
+*** TOTAL DOCUMENTOS PROCESADOS: 0
+
+PL/SQL procedure successfully completed.
+
+
+Commit complete.
+
+Disconnected from Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
++ rc=0
++ date '+%D %T'
++ echo 'UECONPROD Fin    12/09/21' 00:00:01 retorno=0
+UECONPROD Fin    12/09/21 00:00:01 retorno=0
++ [ 0 '!=' 0 ]
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UEEF7DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1705 Dec  1 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03q7dh_00001.gz
+-rw-r----- 1 USMUE01 batch 1705 Dec  2 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03sj1i_00001.gz
+-rw-r----- 1 USMUE01 batch 1708 Dec  3 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03tkxo_00001.gz
+-rw-r----- 1 USMUE01 batch 1705 Dec  4 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03v3gv_00001.gz
+-rw-r----- 1 USMUE01 batch 1704 Dec  5 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03vh9g_00001.gz
+-rw-r----- 1 USMUE01 batch 1705 Dec  6 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03w5qs_00001.gz
+-rw-r----- 1 USMUE01 batch 1706 Dec  7 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03xftx_00001.gz
+-rw-r----- 1 USMUE01 batch 6548 Dec  8 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03xtuk_00001
+-rw-r----- 1 USMUE01 batch 6548 Dec  9 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03zxj1_00001
+-rw-r----- 1 USMUE01 batch 6548 Dec 10 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_0422js_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6548 Dec  9 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03zxj1_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6548 Dec  9 00:05 /apps/UE01/logs/fases/ctm/UEEF7DIA_sh.LOG_03zxj1_00001
+
+[INFO] El contenido es ...:
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ PASO=UEEF7DIA01
++ date '+%D %T'
++ echo 'UEEF7DIA01 Inicio 12/09/21' 00:05:03
+UEEF7DIA01 Inicio 12/09/21 00:05:03
++ [ -f /apps/UE01/datos/UEEFA010.dat ]
++ echo cp /apps/UE01/datos/UEEFA010.dat /apps/ue_nfs/UEEFA010.dat
+cp /apps/UE01/datos/UEEFA010.dat /apps/ue_nfs/UEEFA010.dat
++ cp /apps/UE01/datos/UEEFA010.dat /apps/ue_nfs/UEEFA010.dat
++ rc=0
++ date '+%D %T'
++ echo 'UEEF7DIA01 Fin    12/09/21' 00:05:03 retorno=0
+UEEF7DIA01 Fin    12/09/21 00:05:03 retorno=0
++ [ 0 '!=' 0 ]
++ PASO=UEEF7DIA02
++ date '+%D %T'
++ echo 'UEEF7DIA02 Inicio 12/09/21' 00:05:03
+UEEF7DIA02 Inicio 12/09/21 00:05:03
++ date +%Y%m%d%H%M%S
++ cp /apps/UE01/datos/UEEFA010.dat /apps/UE01/datos/UEEFA010_20211209000503.dat
++ rc=0
++ date '+%D %T'
++ echo 'UEEF7DIA02 Fin    12/09/21' 00:05:03 retorno=0
+UEEF7DIA02 Fin    12/09/21 00:05:03 retorno=0
++ [ 0 '!=' 0 ]
++ PASO=UEEF7DIA03
++ date '+%D %T'
++ echo 'UEEF7DIA03 Inicio 12/09/21' 00:05:03
+UEEF7DIA03 Inicio 12/09/21 00:05:03
++ rm -f /apps/UE01/datos/UEEFA010.dat
++ rc=0
++ date '+%D %T'
++ echo 'UEEF7DIA03 Fin    12/09/21' 00:05:03 retorno=0
+UEEF7DIA03 Fin    12/09/21 00:05:03 retorno=0
++ [ 0 '!=' 0 ]
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UEEF8DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1660 Dec  1 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03q7di_00001.gz
+-rw-r----- 1 USMUE01 batch 1660 Dec  2 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03sj1j_00001.gz
+-rw-r----- 1 USMUE01 batch 1661 Dec  3 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03tkxp_00001.gz
+-rw-r----- 1 USMUE01 batch 1661 Dec  4 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03v3gw_00001.gz
+-rw-r----- 1 USMUE01 batch 1661 Dec  5 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03vh9h_00001.gz
+-rw-r----- 1 USMUE01 batch 1661 Dec  6 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03w5qt_00001.gz
+-rw-r----- 1 USMUE01 batch 1661 Dec  7 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03xfty_00001.gz
+-rw-r----- 1 USMUE01 batch 6319 Dec  8 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03xtul_00001
+-rw-r----- 1 USMUE01 batch 6319 Dec  9 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03zxj2_00001
+-rw-r----- 1 USMUE01 batch 6319 Dec 10 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_0422jt_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6319 Dec  9 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03zxj2_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6319 Dec  9 00:05 /apps/UE01/logs/fases/ctm/UEEF8DIA_sh.LOG_03zxj2_00001
+
+[INFO] El contenido es ...:
++ HOST_SMTP=smtp.tesa
++ export HOST_SMTP
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ PASO=UEEF8DIA01
++ date '+%D %T'
++ echo 'UEEF8DIA01 Inicio 12/09/21' 00:05:07
+UEEF8DIA01 Inicio 12/09/21 00:05:07
++ rc=0
++ echo mv -f /apps/ue_nfs/UEEFA010.dat /apps/UE01/datos/UEEFA010.dat
+mv -f /apps/ue_nfs/UEEFA010.dat /apps/UE01/datos/UEEFA010.dat
++ mv -f /apps/ue_nfs/UEEFA010.dat /apps/UE01/datos/UEEFA010.dat
++ rc=0
++ [ 0 '!=' 0 ]
++ cp /apps/UE01/datos/UEEFA010.dat /apps/UE01/datos/UEEFA010.dat.
++ mv -f /apps/UE01/datos/UEEFA010.dat /apps/dataflow/UE/env//UE/UEEF8DIA
++ rc=0
++ date '+%D %T'
++ echo 'UEEF8DIA01 Fin    12/09/21' 00:05:07 retorno=0
+UEEF8DIA01 Fin    12/09/21 00:05:07 retorno=0
++ [ 0 '!=' 0 ]
++ PASO=UEEF8DIA02
++ date '+%D %T'
++ echo 'UEEF8DIA02 Inicio 12/09/21' 00:05:07
+UEEF8DIA02 Inicio 12/09/21 00:05:07
++ rm -f /apps/UE01/datos/UEEFA010.dat.
++ rc=0
++ date '+%D %T'
++ echo 'UEEF8DIA02 Fin    12/09/21' 00:05:07 retorno=0
+UEEF8DIA02 Fin    12/09/21 00:05:07 retorno=0
++ rc=0
++ echo 'Codigo de retorno =0'
+Codigo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UEEFADIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  561 Dec  1 00:05 /apps/UE01/logs/UEEFADIA_20211201000500.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  560 Dec  2 00:05 /apps/UE01/logs/UEEFADIA_20211202000500.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  560 Dec  3 00:05 /apps/UE01/logs/UEEFADIA_20211203000500.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  562 Dec  4 00:05 /apps/UE01/logs/UEEFADIA_20211204000501.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  558 Dec  5 00:05 /apps/UE01/logs/UEEFADIA_20211205000500.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  559 Dec  6 00:05 /apps/UE01/logs/UEEFADIA_20211206000500.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  558 Dec  7 00:05 /apps/UE01/logs/UEEFADIA_20211207000500.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1522 Dec  8 00:05 /apps/UE01/logs/UEEFADIA_20211208000500.log
+-rw-rw-r-- 1 USMUE01 batch      1522 Dec  9 00:05 /apps/UE01/logs/UEEFADIA_20211209000500.log
+-rw-rw-r-- 1 USMUE01 batch      1539 Dec 10 00:05 /apps/UE01/logs/UEEFADIA_20211210000500.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+**INFO**: --------------------
+**INFO**: FASE:UEEFADIA
+**INFO**: JAVA:UEEFADIA_MovimientosEFactura
+**INFO**: LLAMADA:-V 1 -U ue -W ue -C @PUE000 -R jdbc:oracle:oci: -O /apps/UE01/datos/UEEFA010.dat -L /apps/UE01/logs/UEEFADIA_20211209000500.log 
+**INFO**: --------------------
+**INFO**: USO:java ue.fases.UEEFADIA_MovimientosEFactura -V [1-8] -U <usuOracle> -W <pwdOracle> -C <idOracle> -R <urlOracle> -O <ficheroSalida> [-M] [-L <ficheroLog>]
+**INFO**: --------------------
+**LOG**: Inicializando --> Se han cargado la Fase a partir de los Argumentos de Entrada.
+**LOG**: Inicializando --> Se han inicializado los Beans, Conexiones, etc... de la Fase.
+**INFO**: Process...--> (Llevamos   de ejecucion)
+**LOG**: realizarAlgoritmoDeGeneracionDeFichero()--> (Llevamos   de ejecucion)
+**INFO**: Terminando...--> (Llevamos   1 Seg/s de ejecucion)
+**INFO**: Fin de FASE--> (Llevamos   1 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** RESULTADO: ******* CORRECTO *** CORRECTO *** CORRECTO *******
+*** RESULTADO: **************************************************
+*** RESULTADO: **** Realizado en --> (Llevamos   1 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** ESTADISTICAS: **************************************************
+*** ESTADISTICAS: CONTADOR DE MOVIMIENTOS: ................ :223
+*** ESTADISTICAS: **************************************************
+**LOG**: Finalizando --> Se han cerrado los Beans, Conexiones, etc... de la Fase.
+
+
+
+
+
+[INFO] ===== Fase UEEMADIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 1131 Dec  1 06:01 /apps/UE01/logs/UEEMADIA_20211201060000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 1144 Dec  2 06:05 /apps/UE01/logs/UEEMADIA_20211202060004.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 1103 Dec  3 06:01 /apps/UE01/logs/UEEMADIA_20211203060001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 1136 Dec  4 06:01 /apps/UE01/logs/UEEMADIA_20211204060001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  962 Dec  5 06:00 /apps/UE01/logs/UEEMADIA_20211205060000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  950 Dec  6 06:00 /apps/UE01/logs/UEEMADIA_20211206060001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  946 Dec  7 06:00 /apps/UE01/logs/UEEMADIA_20211207060000.log.gz
+-rw-rw-r-- 1 USMUE01 batch      5107 Dec  8 06:00 /apps/UE01/logs/UEEMADIA_20211208060001.log
+-rw-rw-r-- 1 USMUE01 batch      3888 Dec  9 06:00 /apps/UE01/logs/UEEMADIA_20211209060000.log
+-rw-rw-r-- 1 USMUE01 batch      5129 Dec 10 06:00 /apps/UE01/logs/UEEMADIA_20211210060001.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+**INFO**: --------------------
+**INFO**: FASE:UEEMADIA
+**INFO**: JAVA:UEEMADIA_EnvioDeEmailsANE
+**INFO**: LLAMADA:-V 1 -U ue -W ue -C @PUE000 -R jdbc:oracle:oci: -O /apps/UE01/datos -L /apps/UE01/logs/UEEMADIA_20211209060000.log 
+**INFO**: --------------------
+**INFO**: USO:java ue.fases.UEEMADIA_EnvioDeEmailsANE -V [1-8] -U <usuOracle> -W <pwdOracle> -C <idOracle> -R <urlOracle> -O <pathSalida> [-L <ficheroLog>]
+**INFO**: --------------------
+**LOG**: Inicializando --> Se han cargado la Fase a partir de los Argumentos de Entrada.
+**LOG**: Inicializando --> Se han inicializado los Beans, Conexiones, etc... de la Fase.
+**INFO**: Process...--> (Llevamos   de ejecucion)
+**LOG**: realizarAlgoritmoDeEnvio()--> (Llevamos   de ejecucion)
+**LOG**: realizarAlgoritmoDeEnvio():: LISTACOMUNICACIONES.SIZE: 4--> (Llevamos   1 Seg/s de ejecucion)
+**LOG**: Lista de Comunicaciones a Realizar:4--> (Llevamos   1 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 303 COMU_CO_COMUNICACION: 390 CONT_NU_CONTENIDO: 3 ENEM_IT_ALTA: 2006-10-18 23:11:21.0--> (Llevamos   1 Seg/s de ejecucion)
+**LOG**: ++++Codigo Comuniciacon :303--> (Llevamos   1 Seg/s de ejecucion)
+**LOG**: ++++Lista de Usuarios a Comunicar:84--> (Llevamos   1 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR SALIDA ONLINE--> (Llevamos   1 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 10001 COMU_CO_COMUNICACION: 389 CONT_NU_CONTENIDO: 13 ENEM_IT_ALTA: 2006-10-20 10:01:46.0--> (Llevamos   43 Seg/s de ejecucion)
+**LOG**: ++++Codigo Comuniciacon :10001--> (Llevamos   43 Seg/s de ejecucion)
+**LOG**: ++++Lista de Usuarios a Comunicar:79--> (Llevamos   43 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR SALIDA ONLINE--> (Llevamos   43 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 10029 COMU_CO_COMUNICACION: 390 CONT_NU_CONTENIDO: 20 ENEM_IT_ALTA: 2010-06-09 12:53:37.0--> (Llevamos   49 Seg/s de ejecucion)
+**LOG**: ++++Codigo Comuniciacon :10029--> (Llevamos   49 Seg/s de ejecucion)
+**LOG**: ++++Lista de Usuarios a Comunicar:6--> (Llevamos   49 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR SALIDA ONLINE--> (Llevamos   49 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 10038 COMU_CO_COMUNICACION: 1554 CONT_NU_CONTENIDO: 1 ENEM_IT_ALTA: 2011-03-16 09:40:57.0--> (Llevamos   51 Seg/s de ejecucion)
+**LOG**: ++++Codigo Comuniciacon :10038--> (Llevamos   51 Seg/s de ejecucion)
+**LOG**: ++++Lista de Usuarios a Comunicar:1--> (Llevamos   51 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR SALIDA ONLINE--> (Llevamos   51 Seg/s de ejecucion)
+**LOG**: ++++Terminamos la salida de ficheros...--> (Llevamos   51 Seg/s de ejecucion)
+**INFO**: Terminando...--> (Llevamos   51 Seg/s de ejecucion)
+**INFO**: Fin de FASE--> (Llevamos   51 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** RESULTADO: ******* CORRECTO *** CORRECTO *** CORRECTO *******
+*** RESULTADO: **************************************************
+*** RESULTADO: **** Realizado en --> (Llevamos   51 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** ESTADISTICAS: **************************************************
+*** ESTADISTICAS: COMUNICACIONES REALIZADAS ...................... :4
+*** ESTADISTICAS: ---- COMUNICACIONES REALIZADAS BATCH ........... :0
+*** ESTADISTICAS: ---- COMUNICACIONES REALIZADAS ONLINE .......... :4
+*** ESTADISTICAS: EMAILS ENVIADOS A NE ........................... :170
+*** ESTADISTICAS: ---- EMAILES ENVIADOS BATCH .................... :0
+*** ESTADISTICAS: ---- EMAILES ENVIADOS ONLINE ................... :170
+*** ESTADISTICAS: ERRORES DE ENVIO ONLINE A REVISAR .............. :0
+*** ESTADISTICAS: **************************************************
+**LOG**: Finalizando --> Se han cerrado los Beans, Conexiones, etc... de la Fase.
+UEEMADIA00 Fin    12/09/21 06:00:52 retorno=0
+C�digo de retorno =0
+
+
+
+
+
+[INFO] ===== Fase UEEMBDIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  5222 Dec  1 01:31 /apps/UE01/logs/UEEMBDIA_20211201013000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  4545 Dec  2 01:31 /apps/UE01/logs/UEEMBDIA_20211202013000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  6204 Dec  3 01:31 /apps/UE01/logs/UEEMBDIA_20211203013000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  6434 Dec  4 01:31 /apps/UE01/logs/UEEMBDIA_20211204013000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  4444 Dec  5 01:30 /apps/UE01/logs/UEEMBDIA_20211205013000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  1817 Dec  6 01:30 /apps/UE01/logs/UEEMBDIA_20211206013000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  1934 Dec  7 01:30 /apps/UE01/logs/UEEMBDIA_20211207013000.log.gz
+-rw-rw-r-- 1 USMUE01 batch      20967 Dec  8 01:30 /apps/UE01/logs/UEEMBDIA_20211208013000.log
+-rw-rw-r-- 1 USMUE01 batch      36421 Dec  9 01:30 /apps/UE01/logs/UEEMBDIA_20211209013000.log
+-rw-rw-r-- 1 USMUE01 batch      33896 Dec 10 01:30 /apps/UE01/logs/UEEMBDIA_20211210013000.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (ra0c02sg) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (pi0c02t2) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (pi0c02t2) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (al0c02sk) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (al0c02sk) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (fe0c02t4) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (fe0c02t4) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (tr0c02t6) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (tr0c02t6) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (97702958) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (97702958) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (cu0c02so) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (cu0c02so) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (xx0c02sn) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (xx0c02sn) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (54739249) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (54739249) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (91248351) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (91248351) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (76035334) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (76035334) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (ma0c02ta) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (ma0c02ta) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (ar0c02tc) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (ar0c02tc) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (44221028) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (44221028) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (sa0c02sr) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (sa0c02sr) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (fi0c02td) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (fi0c02td) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (51151584) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (51151584) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (cu0c02th) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (cu0c02th) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (63616997) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (63616997) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (15730824) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (15730824) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (he0c02tk) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (he0c02tk) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (03596992) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (03596992) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (za0c02tm) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (za0c02tm) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (77748543) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (77748543) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (39977245) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (39977245) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (pa0c02tp) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (pa0c02tp) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (fe0c02tr) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (fe0c02tr) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (av0c02sv) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (av0c02sv) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (29976128) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (29976128) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (ca0c02uf) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (ca0c02uf) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (27334929) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (27334929) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (ca0c02us) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (ca0c02us) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (ga0c02un) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (ga0c02un) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (00573656) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (00573656) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (74811834) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (74811834) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (03792553) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (03792553) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (vi0c02wr) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (vi0c02wr) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (ac0c02wv) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (ac0c02wv) .....
+**LOG**: realizarEnvioPorProcedencia() - Recuperamos UID (xx0c02x1) .....
+**LOG**: realizarEnvioPorProcedencia() - Actualizamos UID (xx0c02x1) .....
+**LOG**: process --> realizarWelcomeContrato()...--> (Llevamos   27 Seg/s de ejecucion)
+**LOG**: realizarWelcomeContrato() - Start.
+**LOG**: realizarWelcomeContrato() - SQL1: SELECT U.CO_USUARIO, U.CO_LOGIN, U.CO_REFERENTE, C.CLRF_CO_CLIENTE, U.PROC_CO_PROCEDENCIA, U.CO_IDIOMA, C.CO_SEGMENTO, C.SEGM_CO_GRUPO_SEGMENTO, K.CO_SERVICIO, K.CO_CATEGORIA FROM  ue_usuario_to U, ue_cliente_to C, ue_contrato_to K  WHERE  K.co_usuario=U.co_usuario  AND U.fx_alta < sysdate  AND U.IN_WELLCOME_EMAIL <>'P'  AND K.fx_alta > ? AND K.fx_alta < ?  AND K.CONT_IN_WCONTRATO is null  AND u.co_referente=c.co_referente  AND u.CLIE_NU_VERSION=c.clie_nu_version  AND u.usua_fx_baja is null  AND c.clie_fx_baja is null
+**LOG**: realizarWelcomeContrato() - theFechaInicioRango:2021-11-28 01:30:28.984
+**LOG**: realizarWelcomeContrato() - theFechaFinRango:2021-12-09 01:30:27.984
+**LOG**: process --> actualizamos la Fecha de Actualizaci�n de Welcomes...--> (Llevamos   36 Seg/s de ejecucion)
+**INFO**: Terminando...--> (Llevamos   36 Seg/s de ejecucion)
+**INFO**: Fin de FASE--> (Llevamos   36 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** RESULTADO: ******* CORRECTO *** CORRECTO *** CORRECTO *******
+*** RESULTADO: **************************************************
+*** RESULTADO: **** Realizado en --> (Llevamos   36 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** ESTADISTICAS: **************************************************
+*** ESTADISTICAS: WELCOMES PACKS REALIZADOS ---> ................. :117
+*** ESTADISTICAS: WELCOMES MUNDO ADSL REALIZADOS ---> ............ :0
+*** ESTADISTICAS: ENVIOS POR PROCEDENCIA REALIZADOS ---> ......... :103
+*** ESTADISTICAS: WELCOMES CONTRATO  REALIZADOS ---> ............. :0
+*** ESTADISTICAS: SE HAN GENERADO UN TOTAL DE :220 EMAILS PENDIENTES DE ENVIAR AL EMAILER
+*** ESTADISTICAS: **************************************************
+**LOG**: Finalizando --> Se han cerrado los Beans, Conexiones, etc... de la Fase.
+UEEMBDIA00 Fin    12/09/21 01:30:37 retorno=0
+C�digo de retorno =0
+
+
+
+
+
+[INFO] ===== Fase UEEMPSEM ==============================================================================
+######################################################
+###    --> Esta fase se ejecuta cada Jueves <--    ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion   3599 Nov 25 10:07 /apps/UE01/logs/UEEMPSEM_20211125100000.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion   3122 Dec  2 10:12 /apps/UE01/logs/UEEMPSEM_20211202100001.log.gz
+-rw-rw-r-- 1 USMUE01 batch      115151 Dec  9 10:16 /apps/UE01/logs/UEEMPSEM_20211209100000.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016531.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016532.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016533.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016534.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016535.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 10066 COMU_CO_COMUNICACION: 1631 CONT_NU_CONTENIDO: 56 ENEM_IT_ALTA: 2011-08-03 10:01:18.0--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016536.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016537.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016538.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016539.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016530.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016531.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016532.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016533.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016534.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016535.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016536.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016537.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016538.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 10067 COMU_CO_COMUNICACION: 1631 CONT_NU_CONTENIDO: 62 ENEM_IT_ALTA: 2011-08-03 10:01:52.0--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016539.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 10068 COMU_CO_COMUNICACION: 1631 CONT_NU_CONTENIDO: 62 ENEM_IT_ALTA: 2011-08-03 10:02:23.0--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016530.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016531.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: ++++Comunicacion :ENEM_NU_ENVIO: 10069 COMU_CO_COMUNICACION: 1631 CONT_NU_CONTENIDO: 60 ENEM_IT_ALTA: 2011-08-03 11:01:50.0--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016532.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016533.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016534.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016535.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016536.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # Start # GENERAR FICHERO PET. DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: *****nombreFicheroFinal*****: /apps/UE01/datos/NE060UE_202112091016537.dat--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: # End # GENERAR FICHERO DE SALIDA A NE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**LOG**: ++++Terminamos la salida de ficheros...--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**INFO**: Terminando...--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+**INFO**: Fin de FASE--> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** RESULTADO: ******* CORRECTO *** CORRECTO *** CORRECTO *******
+*** RESULTADO: **************************************************
+*** RESULTADO: **** Realizado en --> (Llevamos   16 Min/s 52 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** ESTADISTICAS: **************************************************
+*** ESTADISTICAS: PET. DE COMUNICACIONES REALIZADAS BATCH......... :305
+*** ESTADISTICAS: PET. DE COMUNICACIONES REALIZADAS ONLINE........ :12
+*** ESTADISTICAS: **************************************************
+**LOG**: Finalizando --> Se han cerrado los Beans, Conexiones, etc... de la Fase.
+UEEMPSEM10 Fin    12/09/21 10:16:53 retorno=0
+C�digo de retorno =0
+
+
+
+
+
+[INFO] ===== Fase UEEMSSEM ==============================================================================
+######################################################
+###    --> Esta fase se ejecuta cada Sabado <--    ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 772 Nov 27 01:02 /apps/UE01/logs/UEEMSSEM_20211127010005.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 769 Dec  4 01:00 /apps/UE01/logs/UEEMSSEM_20211204010005.log.gz
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UEEMSSEM*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UEFE1DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  575 Nov 30 18:14 /apps/UE01/logs/UEFE1DIA_20211130181458.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  574 Dec  1 18:14 /apps/UE01/logs/UEFE1DIA_20211201181410.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  573 Dec  2 18:15 /apps/UE01/logs/UEFE1DIA_20211202181509.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  575 Dec  3 18:15 /apps/UE01/logs/UEFE1DIA_20211203181503.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  574 Dec  4 18:14 /apps/UE01/logs/UEFE1DIA_20211204181400.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  575 Dec  5 18:14 /apps/UE01/logs/UEFE1DIA_20211205181412.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  574 Dec  6 18:12 /apps/UE01/logs/UEFE1DIA_20211206181223.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  575 Dec  7 18:12 /apps/UE01/logs/UEFE1DIA_20211207181229.log.gz
+-rw-rw-r-- 1 USMUE01 batch      1364 Dec  8 18:12 /apps/UE01/logs/UEFE1DIA_20211208181223.log
+-rw-rw-r-- 1 USMUE01 batch      1364 Dec  9 18:12 /apps/UE01/logs/UEFE1DIA_20211209181250.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+**INFO**: --------------------
+**INFO**: FASE:UEFE1DIA
+**INFO**: JAVA:UEFE1DIA_DatosComunicacionFSP
+**INFO**: LLAMADA:-V 1 -U ue -W ue -C @PUE000 -R jdbc:oracle:oci: -O /apps/UE01/datos/UENEFSP1.dat -N /apps/UE01/datos/UENEFSP2.dat -L /apps/UE01/logs/UEFE1DIA_20211209181250.log 
+**INFO**: --------------------
+**INFO**: USO:java ue.fases.UEFE1DIA_DatosComunicacionFSP -V [1-8] -U <usuOracle> -W <pwdOracle> -C <idOracle> -R <urlOracle> -O <ficheroSalidaFSPNORMAL> -N <ficheroSalidaFSPCONPDF> 
+**INFO**: --------------------
+**LOG**: Inicializando --> Se han cargado la Fase a partir de los Argumentos de Entrada.
+**LOG**: Inicializando --> Se han inicializado los Beans, Conexiones, etc... de la Fase.
+**INFO**: Process.........--> (Llevamos   de ejecucion)
+**LOG**: process --> Recuperamos fechas...--> (Llevamos   de ejecucion)
+**LOG**: process --> Obtenemos la lista comuniciones: ENVIO_DE_E_FACTURA y ENVIO_DE_E_FACTURA_PDF--> (Llevamos   de ejecucion)
+**INFO**: Terminando......--> (Llevamos   1 Seg/s de ejecucion)
+*** ESTADISTICAS: **************************************************
+*** ESTADISTICAS: LINEAS REGISTRADAS PARA FSP NORMAL ...:320
+*** ESTADISTICAS: LINEAS REGISTRADAS PARA FSP CON PDF ..:320
+*** ESTADISTICAS: **************************************************
+**LOG**: Finalizando --> Se han cerrado los Beans, Conexiones, etc... de la Fase.
+
+
+
+
+
+[INFO] ===== Fase UEFE9DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  406 Dec  1 01:00 /apps/UE01/logs/UEFE9DIA_20211201010001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  500 Dec  2 01:00 /apps/UE01/logs/UEFE9DIA_20211202010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  545 Dec  3 01:27 /apps/UE01/logs/UEFE9DIA_20211203010001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  565 Dec  4 01:06 /apps/UE01/logs/UEFE9DIA_20211204010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  155 Dec  5 01:00 /apps/UE01/logs/UEFE9DIA_20211205010001.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  155 Dec  6 01:00 /apps/UE01/logs/UEFE9DIA_20211206010003.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  155 Dec  7 01:00 /apps/UE01/logs/UEFE9DIA_20211207010001.log.gz
+-rw-rw-r-- 1 USMUE01 batch      3607 Dec  8 01:00 /apps/UE01/logs/UEFE9DIA_20211208010001.log
+-rw-rw-r-- 1 USMUE01 batch      1837 Dec  9 01:00 /apps/UE01/logs/UEFE9DIA_20211209010001.log
+-rw-rw-r-- 1 USMUE01 batch      5454 Dec 10 01:00 /apps/UE01/logs/UEFE9DIA_20211210010001.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+--->>> PROGRAMA:UEFE9DIA_RECHAZOS; Tipo rechazo:0 
+;marcaUEENVPHO:23E00;
+1***Creo el numero de peticion para el fichero de H5(tabla UEENVPHO):114742
+--------RESULTADOS DEL PROCESO--------------------------------
+2***Se va a insertar la operaci�n rechazo vacio (tabla UEFHNLHO):387762496
+-------------------------------------------------------------- 
+*********************************************************************************************** 
+--->>> PROGRAMA:UEFE9DIA_RECHAZOS; Tipo rechazo:1 
+;marcaUEENVPHO:23E00;
+--------RESULTADOS DEL PROCESO--------------------------------
+Total de numero de registros procesados de rechazo de tipo  A: 0  
+Numero de registros totales de rechazo de tipo con error A: 0  
+-------------------------------------------------------------- 
+*********************************************************************************************** 
+--->>> PROGRAMA:UEFE9DIA_RECHAZOS; Tipo rechazo:2 
+;marcaUEENVPHO:23E00;
+--------RESULTADOS DEL PROCESO--------------------------------
+Total de numero de registros procesados de rechazo de tipo  D, E y S: 0  
+Numero de registros totales de rechazo de tipo con error D, E y S: 0  
+-------------------------------------------------------------- 
+*********************************************************************************************** 
+--->>> PROGRAMA:UEFE9DIA_CORRECTOS; marcaUEENVPHO:23E00;
+--------RESULTADOS DEL PROCESO--------------------------------
+Numero de registros en BD                  : 0
+Numero de registros Procesados Correctamete: 0
+Numero de registros Totales Actualizados   : 0
+Numero de registros Del Fichero            : 0
+Numero de registros NO Procesados Correctamete: 0
+-------------------------------------------------------------- 
+*********************************************************************************************** 
+
+
+
+
+
+[INFO] ===== Fase UELIMSEM ==============================================================================
+######################################################
+###  --> Esta fase se ejecuta cada Miercoles <--   ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  27472 Nov 24 00:32 /apps/UE01/logs/UELIMSEM_20211124003020.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  27728 Dec  1 00:32 /apps/UE01/logs/UELIMSEM_20211201003010.log.gz
+-rw-rw-r-- 1 USMUE01 batch      559898 Dec  8 00:32 /apps/UE01/logs/UELIMSEM_20211208003015.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+cat: /apps/UE01/logs/UELIMSEM*20211209*log: No such file or directory
+
+
+
+
+
+[INFO] ===== Fase UEMA1DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion 103 Dec  1 06:01 /apps/UE01/logs/UEMA1DIA_20211201060110.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 103 Dec  2 06:05 /apps/UE01/logs/UEMA1DIA_20211202060519.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 103 Dec  3 06:01 /apps/UE01/logs/UEMA1DIA_20211203060121.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 103 Dec  4 06:01 /apps/UE01/logs/UEMA1DIA_20211204060124.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 103 Dec  5 06:00 /apps/UE01/logs/UEMA1DIA_20211205060059.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 103 Dec  6 06:00 /apps/UE01/logs/UEMA1DIA_20211206060016.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion 103 Dec  7 06:00 /apps/UE01/logs/UEMA1DIA_20211207060015.log.gz
+-rw-rw-r-- 1 USMUE01 batch       78 Dec  8 06:00 /apps/UE01/logs/UEMA1DIA_20211208060031.log
+-rw-rw-r-- 1 USMUE01 batch       78 Dec  9 06:00 /apps/UE01/logs/UEMA1DIA_20211209060054.log
+-rw-rw-r-- 1 USMUE01 batch       78 Dec 10 06:00 /apps/UE01/logs/UEMA1DIA_20211210060030.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+UEMA1DIA Inicio 12/09/21 06:00:54
+UEMA1DIA Fin    12/09/21 06:00:54 retorno=0
+
+
+
+
+
+[INFO] ===== Fase UEMSSEM2 ==============================================================================
+######################################################
+###    --> Esta fase se ejecuta cada Sabado <--    ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1743 Nov 13 01:00 /apps/UE01/logs/fases/ctm/UEMSSEM2_sh.LOG_0341iy_00001.gz
+-rw-r----- 1 USMUE01 batch 1744 Nov 20 01:00 /apps/UE01/logs/fases/ctm/UEMSSEM2_sh.LOG_03c5ez_00001.gz
+-rw-r----- 1 USMUE01 batch 1745 Nov 27 01:00 /apps/UE01/logs/fases/ctm/UEMSSEM2_sh.LOG_03ls0u_00001.gz
+-rw-r----- 1 USMUE01 batch 1747 Dec  4 01:00 /apps/UE01/logs/fases/ctm/UEMSSEM2_sh.LOG_03v3gy_00001.gz
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase UEMPSEM2 ==============================================================================
+######################################################
+###    --> Esta fase se ejecuta cada Jueves <--    ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion  489 Nov 25 10:07 /apps/UE01/logs/UEMPSEM2_20211125100714.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  433 Dec  2 10:12 /apps/UE01/logs/UEMPSEM2_20211202101253.log.gz
+-rw-rw-r-- 1 USMUE01 batch      4449 Dec  9 10:16 /apps/UE01/logs/UEMPSEM2_20211209101655.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+UEMPSEM210 Inicio 12/09/21 10:16:55
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016510.dat a /apps/ne_nfs/NE060UE_202112091016510.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016511.dat a /apps/ne_nfs/NE060UE_202112091016511.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016512.dat a /apps/ne_nfs/NE060UE_202112091016512.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016513.dat a /apps/ne_nfs/NE060UE_202112091016513.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016514.dat a /apps/ne_nfs/NE060UE_202112091016514.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016515.dat a /apps/ne_nfs/NE060UE_202112091016515.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016516.dat a /apps/ne_nfs/NE060UE_202112091016516.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016517.dat a /apps/ne_nfs/NE060UE_202112091016517.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016518.dat a /apps/ne_nfs/NE060UE_202112091016518.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016519.dat a /apps/ne_nfs/NE060UE_202112091016519.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016520.dat a /apps/ne_nfs/NE060UE_202112091016520.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016521.dat a /apps/ne_nfs/NE060UE_202112091016521.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016522.dat a /apps/ne_nfs/NE060UE_202112091016522.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016523.dat a /apps/ne_nfs/NE060UE_202112091016523.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016524.dat a /apps/ne_nfs/NE060UE_202112091016524.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016525.dat a /apps/ne_nfs/NE060UE_202112091016525.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016526.dat a /apps/ne_nfs/NE060UE_202112091016526.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016527.dat a /apps/ne_nfs/NE060UE_202112091016527.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016528.dat a /apps/ne_nfs/NE060UE_202112091016528.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016529.dat a /apps/ne_nfs/NE060UE_202112091016529.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016530.dat a /apps/ne_nfs/NE060UE_202112091016530.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016531.dat a /apps/ne_nfs/NE060UE_202112091016531.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016532.dat a /apps/ne_nfs/NE060UE_202112091016532.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016533.dat a /apps/ne_nfs/NE060UE_202112091016533.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016534.dat a /apps/ne_nfs/NE060UE_202112091016534.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016535.dat a /apps/ne_nfs/NE060UE_202112091016535.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016536.dat a /apps/ne_nfs/NE060UE_202112091016536.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016537.dat a /apps/ne_nfs/NE060UE_202112091016537.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016538.dat a /apps/ne_nfs/NE060UE_202112091016538.dat
+Moviendo fichero /apps/UE01/datos/NE060UE_202112091016539.dat a /apps/ne_nfs/NE060UE_202112091016539.dat
+UEMPSEM210 Fin    12/09/21 10:16:56 retorno=0
+                                                             
+UEMPSEM220 Inicio 12/09/21 10:16:56
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000290.dat a /apps/ne_nfs/NE065UE_202112091000290.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000291.dat a /apps/ne_nfs/NE065UE_202112091000291.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000292.dat a /apps/ne_nfs/NE065UE_202112091000292.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000293.dat a /apps/ne_nfs/NE065UE_202112091000293.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000294.dat a /apps/ne_nfs/NE065UE_202112091000294.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000295.dat a /apps/ne_nfs/NE065UE_202112091000295.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000296.dat a /apps/ne_nfs/NE065UE_202112091000296.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000297.dat a /apps/ne_nfs/NE065UE_202112091000297.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000298.dat a /apps/ne_nfs/NE065UE_202112091000298.dat
+Moviendo fichero /apps/UE01/datos/NE065UE_202112091000299.dat a /apps/ne_nfs/NE065UE_202112091000299.dat
+UEMPSEM220 Fin    12/09/21 10:16:56 retorno=0
+C�digo de retorno =0
+
+
+
+
+
+[INFO] ===== Fase UETW1DIA ==============================================================================
+######################################################
+### --> Esta fase NO se ejecuta cada Miercoles <-- ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1673 Nov 29 00:11 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03oe26_00001.gz
+-rw-r----- 1 USMUE01 batch 1673 Nov 30 00:12 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03plwy_00001.gz
+-rw-r----- 1 USMUE01 batch 1673 Dec  2 00:12 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03sj16_00001.gz
+-rw-r----- 1 USMUE01 batch 1674 Dec  3 00:38 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03tkxc_00001.gz
+-rw-r----- 1 USMUE01 batch 1673 Dec  4 00:13 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03v3gj_00001.gz
+-rw-r----- 1 USMUE01 batch 1674 Dec  5 00:11 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03vh94_00001.gz
+-rw-r----- 1 USMUE01 batch 1676 Dec  6 00:14 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03w5qg_00001.gz
+-rw-r----- 1 USMUE01 batch 1679 Dec  7 00:13 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03xftl_00001.gz
+-rw-r----- 1 USMUE01 batch 6338 Dec  9 00:12 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03zxip_00001
+-rw-r----- 1 USMUE01 batch 6338 Dec 10 00:12 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_0422jg_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6338 Dec  9 00:12 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03zxip_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6338 Dec  9 00:12 /apps/UE01/logs/fases/ctm/UETW1DIA_sh.LOG_03zxip_00001
+
+[INFO] El contenido es ...:
++ HOST_SMTP=smtp.tesa
++ export HOST_SMTP
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ PASO=UETW1DIA01
++ date '+%D %T'
++ echo 'UETW1DIA01 Inicio 12/09/21' 00:12:22
+UETW1DIA01 Inicio 12/09/21 00:12:22
++ date +%Y%m%d
++ [ -f /apps/dataflow/UE/rec//UETW1DIA.20211209000710 ]
++ date +%Y%m%d
++ echo cp /apps/dataflow/UE/rec//UETW1DIA.20211209000710 /apps/ue_nfs/UETW1DIA.dat
+cp /apps/dataflow/UE/rec//UETW1DIA.20211209000710 /apps/ue_nfs/UETW1DIA.dat
++ date +%Y%m%d
++ cp /apps/dataflow/UE/rec//UETW1DIA.20211209000710 /apps/ue_nfs/UETW1DIA.dat
++ rc=0
++ date '+%D %T'
++ echo 'UETW1DIA01 Fin    12/09/21' 00:12:22 retorno=0
+UETW1DIA01 Fin    12/09/21 00:12:22 retorno=0
++ [ 0 '!=' 0 ]
++ PASO=UETW1DIA02
++ date '+%D %T'
++ echo 'UETW1DIA02 Inicio 12/09/21' 00:12:22
+UETW1DIA02 Inicio 12/09/21 00:12:22
++ date +%Y%m%d
++ rm -f /apps/dataflow/UE/rec//UETW1DIA.20211209000710
++ rc=0
++ [ 0 '!=' 0 ]
++ date '+%D %T'
++ echo 'UETW1DIA02 Fin    12/09/21' 00:12:22 retorno=0
+UETW1DIA02 Fin    12/09/21 00:12:22 retorno=0
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UETW2DIA ==============================================================================
+######################################################
+### --> Esta fase NO se ejecuta cada Miercoles <-- ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+-rw-rw-r-- 1 UG01111 aplicacion   6501 Nov 29 01:06 /apps/UE01/logs/UETW2DIA_20211129010548.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  50538 Nov 30 01:09 /apps/UE01/logs/UETW2DIA_20211130010515.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  49151 Dec  2 00:16 /apps/UE01/logs/UETW2DIA_20211202001211.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  57529 Dec  3 01:10 /apps/UE01/logs/UETW2DIA_20211203010604.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  34175 Dec  4 01:10 /apps/UE01/logs/UETW2DIA_20211204010710.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  12208 Dec  5 01:07 /apps/UE01/logs/UETW2DIA_20211205010645.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion   4464 Dec  6 01:07 /apps/UE01/logs/UETW2DIA_20211206010658.log.gz
+-rw-rw-r-- 1 UG01111 aplicacion  39294 Dec  7 01:09 /apps/UE01/logs/UETW2DIA_20211207010607.log.gz
+-rw-rw-r-- 1 USMUE01 batch       73879 Dec  9 00:12 /apps/UE01/logs/UETW2DIA_20211209001224.log
+-rw-rw-r-- 1 USMUE01 batch      662752 Dec 10 01:12 /apps/UE01/logs/UETW2DIA_20211210010651.log
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+pR::Total registros por CUC(95848553):0
+pR::Total registros por CUC(95871127):0
+pR::Total registros por CUC(95897434):1
+pR::Total registros por CUC(96060536):0
+pR::Total registros por CUC(96084551):0
+pR::Total registros por CUC(96139319):1
+pR::Total registros por CUC(96200904):0
+pR::Total registros por CUC(96225205):1
+pR::Total registros por CUC(96279250):0
+pR::Total registros por CUC(96280936):1
+pR::Total registros por CUC(96284434):1
+pR::Total registros por CUC(96379739):1
+pR::Total registros por CUC(96412329):1
+pR::Total registros por CUC(96492042):1
+pR::Total registros por CUC(96496320):0
+pR::Total registros por CUC(96505824):1
+pR::Total registros por CUC(96578802):1
+pR::Total registros por CUC(96588528):0
+pR::Total registros por CUC(96591605):1
+pR::Total registros por CUC(96671910):0
+pR::Total registros por CUC(96835838):0
+pR::Total registros por CUC(96857840):0
+pR::Total registros por CUC(96950205):0
+pR::Total registros por CUC(97014025):1
+pR::Total registros por CUC(97072952):0
+pR::Total registros por CUC(97074416):1
+pR::Total registros por CUC(97191410):1
+pR::Total registros por CUC(97204547):1
+pR::Total registros por CUC(97251209):0
+pR::Total registros por CUC(97279557):0
+pR::Total registros por CUC(97363415):1
+pR::Total registros por CUC(97402789):1
+pR::Total registros por CUC(97452109):1
+pR::Total registros por CUC(97644834):0
+pR::Total registros por CUC(97675653):0
+pR::Total registros por CUC(97689347):1
+pR::Total registros por CUC(97702958):1
+pR::Total registros por CUC(97708455):1
+pR::Total registros por CUC(97737221):1
+pR::Total registros por CUC(97820142):1
+pR::Total registros por CUC(98012921):0
+pR::Total registros por CUC(98154801):1
+pR::Total registros por CUC(98195750):0
+pR::Total registros por CUC(98226229):1
+pR::Total registros por CUC(98290635):0
+pR::Total registros por CUC(98300238):0
+pR::Total registros por CUC(98373479):0
+pR::Total registros por CUC(98441809):1
+pR::Total registros por CUC(98464324):1
+pR::Total registros por CUC(98556245):0
+pR::Total registros por CUC(98670155):0
+pR::Total registros por CUC(98672118):0
+pR::Total registros por CUC(98739602):0
+pR::Total registros por CUC(98742190):1
+pR::Total registros por CUC(98781454):1
+pR::Total registros por CUC(98981951):0
+pR::Total registros por CUC(99069096):1
+pR::Total registros por CUC(99114708):1
+pR::Total registros por CUC(99168834):1
+pR::Total registros por CUC(99175210):1
+pR::Total registros por CUC(99195856):1
+pR::Total registros por CUC(99244138):0
+pR::Total registros por CUC(99371005):1
+pR::Total registros por CUC(99423878):1
+pR::Total registros por CUC(99429539):1
+pR::Total registros por CUC(99439647):1
+pR::Total registros por CUC(99492406):0
+pR::Total registros por CUC(99505442):1
+pR::Total registros por CUC(99566621):0
+pR::Total registros por CUC(99688106):0
+pR::Total registros por CUC(99730125):1
+pR::Total registros por CUC(99810004):1
+pR::Total registros por CUC(99866816):0
+pR::Total registros por CUC(99867253):1
+pR::Total registros por CUC(99931630):1
+pR::Total registros por CUC(99937332):1
+pR::Total registros por CUC(99976917):0
+**LOG**: process() END.--> (Llevamos   28 Seg/s de ejecucion)
+**INFO**: Terminando...--> (Llevamos   28 Seg/s de ejecucion)
+**INFO**: Fin de FASE--> (Llevamos   28 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** RESULTADO: ******* CORRECTO *** CORRECTO *** CORRECTO *******
+*** RESULTADO: **************************************************
+*** RESULTADO: **** Realizado en --> (Llevamos   28 Seg/s de ejecucion)
+*** RESULTADO: **************************************************
+*** ESTADISTICAS: **************************************************
+*** ESTADISTICAS: REGISTROS PROCESADOS .............................. :1777
+*** ESTADISTICAS: .. REGISTROS CORRECTOS ............................ :1777
+*** ESTADISTICAS: ....... CLIENTES CORRECTOS UE-TW .................. :0
+*** ESTADISTICAS: ....... CLIENTES SINCRONIZADOS CON INFO DE TW ..... :977
+*** ESTADISTICAS: ....... CLIENTES NO SINCRONIZADOS POR FALLO ....... :0
+*** ESTADISTICAS: ....... CLIENTES DE TW NO ENCONTRADOS EN UE ....... :799
+*** ESTADISTICAS: ....... CLIENTES DE TW ENCONTRADOS EN UE REPETIDO . :1
+*** ESTADISTICAS: .. REGISTROS INCORRECTOS .......................... :0
+*** ESTADISTICAS TIEMPOS DEDICADOS ****************************************
+*** ESTADISTICAS: .. TIEMPO DE BUSQUEDA ............................. :8042 ms (0 min.)
+*** ESTADISTICAS: .. TIEMPO DE CARGA CLIENTE ........................ :4468 ms (0 min.)
+*** ESTADISTICAS: .. TIEMPO DE ACTUALIZACION ........................ :14958 ms (0 min.)
+*** ESTADISTICAS: .. TIEMPO DE COMPARACION .......................... :0 ms (0 min.)
+**LOG**: Finalizando --> Se han cerrado los Beans, Conexiones, etc... de la Fase.
+
+
+
+
+
+[INFO] ===== Fase UEUS1DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1643 Dec  1 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03q7cx_00001.gz
+-rw-r----- 1 USMUE01 batch 1641 Dec  2 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03sj0y_00001.gz
+-rw-r----- 1 USMUE01 batch 1643 Dec  3 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03tkx4_00001.gz
+-rw-r----- 1 USMUE01 batch 1644 Dec  4 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03v3gb_00001.gz
+-rw-r----- 1 USMUE01 batch 1642 Dec  5 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03vh8w_00001.gz
+-rw-r----- 1 USMUE01 batch 1642 Dec  6 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03w5q8_00001.gz
+-rw-r----- 1 USMUE01 batch 1644 Dec  7 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03xftd_00001.gz
+-rw-r----- 1 USMUE01 batch 5930 Dec  8 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03xtu0_00001
+-rw-r----- 1 USMUE01 batch 5930 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03zxih_00001
+-rw-r----- 1 USMUE01 batch 5930 Dec 10 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_0422j8_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 5930 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03zxih_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 5930 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUS1DIA_sh.LOG_03zxih_00001
+
+[INFO] El contenido es ...:
++ LIBPATH=/opt/CA/SharedComponents/lib:/products/oradb/client1210/121020/lib:/apps/UE01/lib:/var/opt/ldapsdk/lib:/usr/lib:/apps/na/v5.1/lib:/jre/lib/sparc:/lib/sparc
++ export LIBPATH
++ JAVA_HOME=/apps/jdk/base/jdk1.8.0_65
++ export JAVA_HOME
++ PATH=/apps/jdk/base/jdk1.8.0_65/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMUE01/.local/bin:/apps/users/USMUE01/bin:/products/oradb/client1210/121020/bin
++ export PATH
++ CLASSPATH=.:/apps/UE01/parms:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/UE01/bin:/apps/UE01/lib/classes:/apps/UE01/lib/te-ue-fases.jar:/apps/UE01/lib/ext/jndi.jar:/apps/UE01/lib/ext/ldap.jar:/apps/UE01/lib/ext/mail.jar:/apps/UE01/lib/ext/providerutil.jar:/apps/UE01/lib/ext/jce1_2_1.jar:/apps/UE01/lib/ext/sunjce_provider.jar:/apps/UE01/lib/ext/activation.jar:
++ export CLASSPATH
++ CLASSPATH=/apps/na/v5.1/classes:/apps/UE01/apis:.:/apps/UE01/parms:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/UE01/bin:/apps/UE01/lib/classes:/apps/UE01/lib/te-ue-fases.jar:/apps/UE01/lib/ext/jndi.jar:/apps/UE01/lib/ext/ldap.jar:/apps/UE01/lib/ext/mail.jar:/apps/UE01/lib/ext/providerutil.jar:/apps/UE01/lib/ext/jce1_2_1.jar:/apps/UE01/lib/ext/sunjce_provider.jar:/apps/UE01/lib/ext/activation.jar:
++ export CLASSPATH
++ NACONFIG=/apps/na/config/UE01CONFIG.PROP
++ export NACONFIG
++ HOST_SMTP=smtp.tesa
++ export HOST_SMTP
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ date +%Y%m%d
++ FECHA=20211209
++ PASO=UEUS1010
++ date '+%D %T'
++ echo 'UEUS1010 Inicio 12/09/21' 00:31:33
+UEUS1010 Inicio 12/09/21 00:31:33
++ [ -f /apps/UE01/datos/UEUSU010.dat ]
++ echo cp /apps/UE01/datos/UEUSU010.dat /apps/ue_nfs/UEUSU010.dat
+cp /apps/UE01/datos/UEUSU010.dat /apps/ue_nfs/UEUSU010.dat
++ cp /apps/UE01/datos/UEUSU010.dat /apps/ue_nfs/UEUSU010.dat
++ rc=0
++ date '+%D %T'
++ echo 'UEUS1010 Fin    12/09/21' 00:31:33 retorno=0
+UEUS1010 Fin    12/09/21 00:31:33 retorno=0
++ [ 0 '!=' 0 ]
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UEUS2DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1661 Dec  1 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03q7de_00001.gz
+-rw-r----- 1 USMUE01 batch 1661 Dec  2 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03sj1f_00001.gz
+-rw-r----- 1 USMUE01 batch 1662 Dec  3 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03tkxl_00001.gz
+-rw-r----- 1 USMUE01 batch 1662 Dec  4 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03v3gs_00001.gz
+-rw-r----- 1 USMUE01 batch 1663 Dec  5 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03vh9d_00001.gz
+-rw-r----- 1 USMUE01 batch 1663 Dec  6 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03w5qp_00001.gz
+-rw-r----- 1 USMUE01 batch 1663 Dec  7 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03xftu_00001.gz
+-rw-r----- 1 USMUE01 batch 6282 Dec  8 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03xtuh_00001
+-rw-r----- 1 USMUE01 batch 6282 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03zxiy_00001
+-rw-r----- 1 USMUE01 batch 6282 Dec 10 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_0422jp_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6282 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03zxiy_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6282 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUS2DIA_sh.LOG_03zxiy_00001
+
+[INFO] El contenido es ...:
++ export NACONFIG
++ HOST_SMTP=smtp.tesa
++ export HOST_SMTP
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ PASO=UEUS210
++ date '+%D %T'
++ echo 'UEUS210 Inicio 12/09/21' 00:31:35
+UEUS210 Inicio 12/09/21 00:31:35
++ echo mv -f /apps/ue_nfs/UEUSU010.dat /apps/UE01/datos/UEUSU010.dat
+mv -f /apps/ue_nfs/UEUSU010.dat /apps/UE01/datos/UEUSU010.dat
++ mv -f /apps/ue_nfs/UEUSU010.dat /apps/UE01/datos/UEUSU010.dat
++ rc=0
++ [ 0 '!=' 0 ]
++ cp /apps/UE01/datos/UEUSU010.dat /apps/UE01/datos/UEUSU010.dat.
++ mv -f /apps/UE01/datos/UEUSU010.dat /apps/dataflow/UE/env//UE/UEUS10S1
++ rc=0
++ date '+%D %T'
++ echo 'UEUS210 Fin    12/09/21' 00:31:35 retorno=0
+UEUS210 Fin    12/09/21 00:31:35 retorno=0
++ [ 0 '!=' 0 ]
++ PASO=UEUS220
++ date '+%D %T'
++ echo 'UEUS220 Inicio 12/09/21' 00:31:35
+UEUS220 Inicio 12/09/21 00:31:35
++ rm -f /apps/UE01/datos/UEUSU010.dat.
++ rc=0
++ date '+%D %T'
++ echo 'UEUS220 Fin    12/09/21' 00:31:35 retorno=0
+UEUS220 Fin    12/09/21 00:31:35 retorno=0
++ rc=0
++ echo 'Codigo de retorno =0'
+Codigo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UEUSUDIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch 1699 Dec  1 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03q7cz_00001.gz
+-rw-r----- 1 USMUE01 batch 1699 Dec  2 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03sj10_00001.gz
+-rw-r----- 1 USMUE01 batch 1701 Dec  3 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03tkx6_00001.gz
+-rw-r----- 1 USMUE01 batch 1700 Dec  4 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03v3gd_00001.gz
+-rw-r----- 1 USMUE01 batch 1700 Dec  5 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03vh8y_00001.gz
+-rw-r----- 1 USMUE01 batch 1699 Dec  6 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03w5qa_00001.gz
+-rw-r----- 1 USMUE01 batch 1700 Dec  7 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03xftf_00001.gz
+-rw-r----- 1 USMUE01 batch 6179 Dec  8 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03xtu2_00001
+-rw-r----- 1 USMUE01 batch 6179 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03zxij_00001
+-rw-r----- 1 USMUE01 batch 6179 Dec 10 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_0422ja_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6179 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03zxij_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6179 Dec  9 00:31 /apps/UE01/logs/fases/ctm/UEUSUDIA_sh.LOG_03zxij_00001
+
+[INFO] El contenido es ...:
++ export CLASSPATH
++ NACONFIG=/apps/na/config/UE01CONFIG.PROP
++ export NACONFIG
++ HOST_SMTP=smtp.tesa
++ export HOST_SMTP
++ PORT_SMTP=25
++ export PORT_SMTP
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat/p/nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif/p/UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif/p/id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif/p/ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ . /apps/UE01/parms/UEUSUDIA.cfg
++ FICH_SAL=/apps/UE01/datos/UEUSU010.dat
++ export FICH_SAL
++ rc=0
++ PASO=UEUSU100
++ date '+%D %T'
++ echo 'UEUSU100 Inicio 12/09/21' 00:30:00
+UEUSU100 Inicio 12/09/21 00:30:00
++ rm -f /apps/UE01/datos/UEUSU010.dat
++ date '+%D %T'
++ echo 'UEUSU100 Fin    12/09/21' 00:30:00 retorno=0
+UEUSU100 Fin    12/09/21 00:30:00 retorno=0
++ rc=0
++ PASO=UEUSU200
++ date '+%D %T'
++ echo 'UEUSU200 Inicio   12/09/21' 00:30:00
+UEUSU200 Inicio   12/09/21 00:30:00
++ /apps/UE01/bin/genfiMovUsu -v 0 -U ue -W ue -C PUE000 -S /apps/UE01/datos/UEUSU010.dat
++ 1> /apps/UE01/logs/UEUSUDIA.log 2>& 1
++ rc=0
++ [ 0 '!=' 0 ]
++ date '+%D %T'
++ echo 'UEUSU200 Fin     12/09/21' 00:31:32 retorno=0
+UEUSU200 Fin     12/09/21 00:31:32 retorno=0
++ echo 'Csdigo de retorno =0'
+Csdigo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase UEFE8DIA ==============================================================================
+[INFO] Listar todos los logs disponibles de esta fase en la ruta /apps/UE01/logs/fases/ctm:
+-rw-r----- 1 USMUE01 batch  3488 Dec  3 01:36 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03nl09_00001.gz
+-rw-r----- 1 USMUE01 batch  2208 Dec  3 20:05 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03v6yn_00001.gz
+-rw-r----- 1 USMUE01 batch 11187 Dec  7 20:03 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xxcc_00001
+-rw-r----- 1 USMUE01 batch  8280 Dec  8 00:02 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm18_00001
+-rw-r----- 1 USMUE01 batch  6362 Dec  8 09:00 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03nkzg_00001
+-rw-r----- 1 USMUE01 batch  6362 Dec  9 15:51 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm25_00001
+-rw-r----- 1 USMUE01 batch 17942 Dec  9 17:53 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm1e_00001
+-rw-r----- 1 USMUE01 batch 15976 Dec  9 20:04 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_04261k_00001
+-rw-r----- 1 USMUE01 batch 26711 Dec 10 02:01 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03vaqx_00001
+-rw-r----- 1 USMUE01 batch  8280 Dec 10 05:00 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm30_00001
+
+[INFO] Mostrar el contenido del log del dia 20211209:
+-rw-r----- 1 USMUE01 batch 6362 Dec  9 15:51 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm25_00001
+-rw-r----- 1 USMUE01 batch 17942 Dec  9 17:53 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm1e_00001
+-rw-r----- 1 USMUE01 batch 15976 Dec  9 20:04 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_04261k_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 6362 Dec  9 15:51 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm25_00001
+
+[INFO] El contenido es ...:
++ NOTIF_EFACTURA_COD_COMUNICACION=53
++ export NOTIF_EFACTURA_COD_COMUNICACION
++ NOTIF_EFACTURA_COD_CONTENIDO=1
++ export NOTIF_EFACTURA_COD_CONTENIDO
++ URL_EFACTURA=https://www.movistar.es/anagUE-055
++ export URL_EFACTURA
++ PARAMETROS_PERSONALIZACION='|~|12|~|8'
++ export PARAMETROS_PERSONALIZACION
++ CAMPOS_BD_PERSONALIZACION=EFAC_NU_FACTURA,-EFAC_FX_FACTURA
++ export CAMPOS_BD_PERSONALIZACION
++ NOTIF_MIGRACION_FAST=N
++ export NOTIF_MIGRACION_FAST
++ LC_ALL=es_ES.ISO8859-1
++ export LC_ALL
++ LC_COLLATE=es_ES.ISO8859-1
++ export LC_COLLATE
++ LC_CTYPE=es_ES.ISO8859-1
++ export LC_CTYPE
++ LC_MESSAGES=es_ES.ISO8859-1
++ export LC_MESSAGES
++ LC_MONETARY=es_ES.ISO8859-1
++ export LC_MONETARY
++ LC_NUMERIC=es_ES.ISO8859-1
++ export LC_NUMERIC
++ LC_TIME=es_ES.ISO8859-1
++ export LC_TIME
++ USUARIOGU=ue
++ export USUARIOGU
++ ENTORNOGU=10.15.245.100
++ export ENTORNOGU
++ USUARIOPU=ue
++ export USUARIOPU
++ ENTORNOPU=192.168.204.5
++ export ENTORNOPU
++ USUARIOET=et
++ export USUARIOET
++ ENTORNOET=aix12
++ export ENTORNOET
++ USUARIOOW=ow
++ export USUARIOOW
++ ENTORNOOW=''
++ export ENTORNOOW
++ USUARIONL=nl
++ export USUARIONL
++ ENTORNONL=''
++ export ENTORNONL
++ USUARIOID=id
++ export USUARIOID
++ ENTORNOID=''
++ export ENTORNOID
++ PATH_DESTINO_ET=/var/opt/aat/a/et/app/datos/llegadas
++ export PATH_DESTINO_ET
++ PATH_DESTINO_NL=/var/opt/aat//nl/datos/carga
++ export PATH_DESTINO_NL
++ PATH_ORIGEN_NL=/var/opt/aaif//UENL
++ export PATH_ORIGEN_NL
++ PATH_DESTINO_ID=/var/opt/aaif//id/datos/miga/spazio
++ export PATH_DESTINO_ID
++ PATH_ORIGEN_OW=/var/opt/aaif//ow/dat/out
++ export PATH_ORIGEN_OW
++ PATH_DESTINO_NE=/apps/ne_nfs
++ export PATH_DESTINO_NE
++ PATH_ORIGEN_NE=/apps/ne_nfs
++ export PATH_ORIGEN_NE
++ PATH_NAS_OW=''
++ export PATH_NAS_OW
++ PASO=UEFE8DIA01
++ date '+%D %T'
++ echo 'UEFE8DIA01 Inicio 12/09/21' 15:51:27
+UEFE8DIA01 Inicio 12/09/21 15:51:27
++ rc=0
++ date +%d%m%y
++ FECHA_CORTA=091221
++ [ 1 '!=' 1 ]
++ TIPO=26N91
++ date +%Y%m%d%H%M%S
++ FICH_TAR=/apps/UE01/datos/UEFE8DIA_T26N91.20211209155127.tar
++ FLAGS_TAR=cvf
++ FICHEROLOG=/apps/UE01/logs/UEFE8DIA_T26N91.091221.log
++ date '+%D %T'
++ echo 'UEFE8DIA01 Fin    12/09/21' 15:51:27 retorno=0
+UEFE8DIA01 Fin    12/09/21 15:51:27 retorno=0
++ [ 0 '!=' 0 ]
++ PASO=UEFE8DIA02
++ date '+%D %T'
++ echo 'UEFE8DIA02  12/09/21' 15:51:27
+UEFE8DIA02  12/09/21 15:51:27
++ tee -a /apps/UE01/logs/UEFE8DIA_T26N91.091221.log
++ date '+%D %T'
++ echo 'UEFE8DIA02 Inicio 12/09/21' 15:51:27
+UEFE8DIA02 Inicio 12/09/21 15:51:27
++ ls '/apps/ue_nfs/NE50UE_*'
++ 2>> /dev/null
++ tee -a /apps/UE01/logs/UEFE8DIA_T26N91.091221.log
++ date '+%D %T'
++ echo 'UEFE8DIA02 Fin    12/09/21' 15:51:27 retorno=0
+UEFE8DIA02 Fin    12/09/21 15:51:27 retorno=0
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 17942 Dec  9 17:53 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_03xm1e_00001
+
+[INFO] El contenido es ...:
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__1631_53_20211209175327200'
+Fichero copiado /apps/ue_nfs/NE50UE_es__1631_53_20211209175327200
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__1631_53_20211209175327200 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__1631_53_20211209175327200 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80188.20211209175329.tar /apps/ue_nfs/NE50UE_es__1631_53_20211209175327200
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__1631_53_20211209175327200
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__1631_56_20211209175327212
++ echo 'Fichero NE50UE_es__1631_56_20211209175327212'
+Fichero NE50UE_es__1631_56_20211209175327212
++ cp /apps/ue_nfs/NE50UE_es__1631_56_20211209175327212 /apps/ne_nfs/NE50UE_es__1631_56_20211209175327212
++ rc=0
++ [ 0 '!=' 0 ]
++ tee -a /apps/UE01/logs/UEFE8DIA_T80188.091221.log
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__1631_56_20211209175327212'
+Fichero copiado /apps/ue_nfs/NE50UE_es__1631_56_20211209175327212
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__1631_56_20211209175327212 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__1631_56_20211209175327212 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80188.20211209175329.tar /apps/ue_nfs/NE50UE_es__1631_56_20211209175327212
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__1631_56_20211209175327212
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__395_52_20211209175326881
++ echo 'Fichero NE50UE_es__395_52_20211209175326881'
+Fichero NE50UE_es__395_52_20211209175326881
++ cp /apps/ue_nfs/NE50UE_es__395_52_20211209175326881 /apps/ne_nfs/NE50UE_es__395_52_20211209175326881
++ rc=0
++ [ 0 '!=' 0 ]
++ tee -a /apps/UE01/logs/UEFE8DIA_T80188.091221.log
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__395_52_20211209175326881'
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_52_20211209175326881
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_52_20211209175326881 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_52_20211209175326881 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80188.20211209175329.tar /apps/ue_nfs/NE50UE_es__395_52_20211209175326881
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_52_20211209175326881
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__395_56_20211209175326936
++ echo 'Fichero NE50UE_es__395_56_20211209175326936'
+Fichero NE50UE_es__395_56_20211209175326936
++ cp /apps/ue_nfs/NE50UE_es__395_56_20211209175326936 /apps/ne_nfs/NE50UE_es__395_56_20211209175326936
++ rc=0
++ [ 0 '!=' 0 ]
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__395_56_20211209175326936'
++ tee -a /apps/UE01/logs/UEFE8DIA_T80188.091221.log
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_56_20211209175326936
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_56_20211209175326936 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_56_20211209175326936 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80188.20211209175329.tar /apps/ue_nfs/NE50UE_es__395_56_20211209175326936
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_56_20211209175326936
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__395_58_2021120917532734
++ echo 'Fichero NE50UE_es__395_58_2021120917532734'
+Fichero NE50UE_es__395_58_2021120917532734
++ cp /apps/ue_nfs/NE50UE_es__395_58_2021120917532734 /apps/ne_nfs/NE50UE_es__395_58_2021120917532734
++ rc=0
++ [ 0 '!=' 0 ]
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__395_58_2021120917532734'
++ tee -a /apps/UE01/logs/UEFE8DIA_T80188.091221.log
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_58_2021120917532734
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_58_2021120917532734 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_58_2021120917532734 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80188.20211209175329.tar /apps/ue_nfs/NE50UE_es__395_58_2021120917532734
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_58_2021120917532734
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ tee -a /apps/UE01/logs/UEFE8DIA_T80188.091221.log
++ date '+%D %T'
++ echo 'UEFE8DIA02 Fin    12/09/21' 17:53:30 retorno=0
+UEFE8DIA02 Fin    12/09/21 17:53:30 retorno=0
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r----- 1 USMUE01 batch 15976 Dec  9 20:04 /apps/UE01/logs/fases/ctm/UEFE8DIA_sh.LOG_04261k_00001
+
+[INFO] El contenido es ...:
++ tee -a /apps/UE01/logs/UEFE8DIA_T80001.091221.log
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_45_20211209200439857
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_45_20211209200439857 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_45_20211209200439857 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80001.20211209200441.tar /apps/ue_nfs/NE50UE_es__395_45_20211209200439857
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_45_20211209200439857
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__395_47_20211209200439924
++ echo 'Fichero NE50UE_es__395_47_20211209200439924'
+Fichero NE50UE_es__395_47_20211209200439924
++ cp /apps/ue_nfs/NE50UE_es__395_47_20211209200439924 /apps/ne_nfs/NE50UE_es__395_47_20211209200439924
++ rc=0
++ [ 0 '!=' 0 ]
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__395_47_20211209200439924'
++ tee -a /apps/UE01/logs/UEFE8DIA_T80001.091221.log
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_47_20211209200439924
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_47_20211209200439924 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_47_20211209200439924 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80001.20211209200441.tar /apps/ue_nfs/NE50UE_es__395_47_20211209200439924
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_47_20211209200439924
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__395_52_20211209200439940
++ echo 'Fichero NE50UE_es__395_52_20211209200439940'
+Fichero NE50UE_es__395_52_20211209200439940
++ cp /apps/ue_nfs/NE50UE_es__395_52_20211209200439940 /apps/ne_nfs/NE50UE_es__395_52_20211209200439940
++ rc=0
++ [ 0 '!=' 0 ]
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__395_52_20211209200439940'
++ tee -a /apps/UE01/logs/UEFE8DIA_T80001.091221.log
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_52_20211209200439940
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_52_20211209200439940 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_52_20211209200439940 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80001.20211209200441.tar /apps/ue_nfs/NE50UE_es__395_52_20211209200439940
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_52_20211209200439940
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__395_56_20211209200439962
++ echo 'Fichero NE50UE_es__395_56_20211209200439962'
+Fichero NE50UE_es__395_56_20211209200439962
++ cp /apps/ue_nfs/NE50UE_es__395_56_20211209200439962 /apps/ne_nfs/NE50UE_es__395_56_20211209200439962
++ rc=0
++ [ 0 '!=' 0 ]
++ tee -a /apps/UE01/logs/UEFE8DIA_T80001.091221.log
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__395_56_20211209200439962'
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_56_20211209200439962
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_56_20211209200439962 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_56_20211209200439962 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80001.20211209200441.tar /apps/ue_nfs/NE50UE_es__395_56_20211209200439962
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_56_20211209200439962
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ nombrefich=NE50UE_es__395_58_20211209200439978
++ echo 'Fichero NE50UE_es__395_58_20211209200439978'
+Fichero NE50UE_es__395_58_20211209200439978
++ cp /apps/ue_nfs/NE50UE_es__395_58_20211209200439978 /apps/ne_nfs/NE50UE_es__395_58_20211209200439978
++ rc=0
++ [ 0 '!=' 0 ]
++ tee -a /apps/UE01/logs/UEFE8DIA_T80001.091221.log
++ echo 'Fichero copiado /apps/ue_nfs/NE50UE_es__395_58_20211209200439978'
+Fichero copiado /apps/ue_nfs/NE50UE_es__395_58_20211209200439978
++ echo '...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_58_20211209200439978 en tar'
+...incluyendo fichero /apps/ue_nfs/NE50UE_es__395_58_20211209200439978 en tar
++ tar rvf /apps/UE01/datos/UEFE8DIA_T80001.20211209200441.tar /apps/ue_nfs/NE50UE_es__395_58_20211209200439978
++ 1> /dev/null
+tar: Eliminando la `/' inicial de los nombres
++ rc=0
++ [ 0 '!=' 0 ]
++ rm -f /apps/ue_nfs/NE50UE_es__395_58_20211209200439978
++ rc=0
++ [ 0 '!=' 0 ]
++ FLAGS_TAR=rvf
++ tee -a /apps/UE01/logs/UEFE8DIA_T80001.091221.log
++ date '+%D %T'
++ echo 'UEFE8DIA02 Fin    12/09/21' 20:04:41 retorno=0
+UEFE8DIA02 Fin    12/09/21 20:04:41 retorno=0
++ echo $'C�digo de retorno =0'
+C�digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] Finaliza Revision de las fases del dia 20211209.
+---------------------------------------------------------------------------------------------------------
+##### FIN REVISION FASES UE - Fecha actual: Fri Dec 10 08:05:06 CET 2021 ###################################################

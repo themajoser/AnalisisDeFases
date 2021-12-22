@@ -1,0 +1,4186 @@
+##### INICIO REVISION FASES SE - Fecha actual: Fri Dec 10 08:05:01 CET 2021 ################################################
+---------------------------------------------------------------------------------------------------------
+[INFO] No hay argumento, se coge por defecto la fecha del dia anterior 20211209.
+[INFO] Comenzando Revision de las fases del dia: 20211209 ...
+
+[INFO] La ruta de log para revision es: /apps/SE01/logs/fases.
+
+[INFO] ===== Fase SE041DC0 ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-r--r-- 1 USMSE01 aplicacion 692680 Dec  9 23:04 /apps/SE01/logs/fases/SE041DC0.20211209.log
+
+[INFO] Mostrar el contenido de los logs:
+* Cto: 63634760 etiquetas localizadas: 3
+(Valores: SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null)
+(idSolt: 30811026, A)
+(Valores: 30811026, SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null, null)
+> ERROR en proceso de cto 63634760: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 67, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 63709792, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 63709792, etiq: Nombre/SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL
+  # Cto: 63709792, etiq: Segundo Apellido/No aplica
+  # Cto: 63709792, etiq: Tel[e閉fono de contacto/636958183
+* Cto: 63709792 etiquetas localizadas: 3
+(Valores: SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null)
+(idSolt: 30811027, A)
+(Valores: 30811027, SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null, null)
+> ERROR en proceso de cto 63709792: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 67, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 64161402, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64161402, etiq: Nombre/AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA
+  # Cto: 64161402, etiq: Segundo Apellido/No aplica
+  # Cto: 64161402, etiq: Tel[e閉fono de contacto/941334006
+* Cto: 64161402 etiquetas localizadas: 3
+(Valores: AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA, null, No aplica, null, null)
+(idSolt: 30811028, A)
+(Valores: 30811028, AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA, null, No aplica, null, null, null)
+> ERROR en proceso de cto 64161402: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 71, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 64832673, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64832673, etiq: ID/9143212798280013421
+* Cto: 64832673 etiquetas localizadas: 1
+(CUC: null, CUE: 9143212798280013421)
+(idSolt: 30811029, R)
+(IdSolt: 30811029, CUE: 9143212798280013421, CUC: null)
+> ERROR en proceso de cto 64832673: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64886663, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64886663, etiq: ID/9143274914110001551
+* Cto: 64886663 etiquetas localizadas: 1
+(CUC: null, CUE: 9143274914110001551)
+(idSolt: 30811030, R)
+(IdSolt: 30811030, CUE: 9143274914110001551, CUC: null)
+> ERROR en proceso de cto 64886663: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64953271, pet: 0, band: 2358
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64953271, etiq: ID/d9710c5e2f85993f3c550cc4caf71429
+* Cto: 64953271 etiquetas localizadas: 1
+(CUC: null, CUE: d9710c5e2f85993f3c550cc4caf71429)
+(idSolt: 30811031, R)
+(IdSolt: 30811031, CUE: d9710c5e2f85993f3c550cc4caf71429, CUC: null)
+> ERROR en proceso de cto 64953271: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 32, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64991339, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64991339, etiq: ID/9143273781480003421
+* Cto: 64991339 etiquetas localizadas: 1
+(CUC: null, CUE: 9143273781480003421)
+(idSolt: 30811032, R)
+(IdSolt: 30811032, CUE: 9143273781480003421, CUC: null)
+> ERROR en proceso de cto 64991339: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64991342, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64991342, etiq: ID/9143402378460001551
+* Cto: 64991342 etiquetas localizadas: 1
+(CUC: null, CUE: 9143402378460001551)
+(idSolt: 30811033, R)
+(IdSolt: 30811033, CUE: 9143402378460001551, CUC: null)
+> ERROR en proceso de cto 64991342: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65024515, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65024515, etiq: ID/CCD4A1DD08E7
+  # Cto: 65024515, etiq: Nombre/RAQUEL FEIJOO
+  # Cto: 65024515, etiq: Segundo Apellido/No aplica
+  # Cto: 65024515, etiq: Tel[e閉fono de contacto/685145890
+* Cto: 65024515 etiquetas localizadas: 4
+(CUC: null, CUE: CCD4A1DD08E7)
+(idSolt: 30811034, R)
+(IdSolt: 30811034, CUE: CCD4A1DD08E7, CUC: null)
+> ERROR en proceso de cto 65024515: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 12, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65061617, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65061617, etiq: ID/9143479404450001551
+* Cto: 65061617 etiquetas localizadas: 1
+(CUC: null, CUE: 9143479404450001551)
+(idSolt: 30811035, R)
+(IdSolt: 30811035, CUE: 9143479404450001551, CUC: null)
+> ERROR en proceso de cto 65061617: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65071266, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65071266, etiq: ID/9143497049130003421
+* Cto: 65071266 etiquetas localizadas: 1
+(CUC: null, CUE: 9143497049130003421)
+(idSolt: 30811036, R)
+(IdSolt: 30811036, CUE: 9143497049130003421, CUC: null)
+> ERROR en proceso de cto 65071266: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65152644, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65152644, etiq: ID/9143618395920001551
+* Cto: 65152644 etiquetas localizadas: 1
+(CUC: null, CUE: 9143618395920001551)
+(idSolt: 30811037, R)
+(IdSolt: 30811037, CUE: 9143618395920001551, CUC: null)
+> ERROR en proceso de cto 65152644: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65282250, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65282250, etiq: ID/9143801955850001551
+* Cto: 65282250 etiquetas localizadas: 1
+(CUC: null, CUE: 9143801955850001551)
+(idSolt: 30811038, R)
+(IdSolt: 30811038, CUE: 9143801955850001551, CUC: null)
+> ERROR en proceso de cto 65282250: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65372061, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65372061, etiq: ID/9143928991140009631
+* Cto: 65372061 etiquetas localizadas: 1
+(CUC: null, CUE: 9143928991140009631)
+(idSolt: 30811039, R)
+(IdSolt: 30811039, CUE: 9143928991140009631, CUC: null)
+> ERROR en proceso de cto 65372061: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65385114, pet: 0, band: 6765
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65385114, etiq: ID/9143938378390009631
+* Cto: 65385114 etiquetas localizadas: 1
+(CUC: null, CUE: 9143938378390009631)
+(idSolt: 30811040, R)
+(IdSolt: 30811040, CUE: 9143938378390009631, CUC: null)
+> ERROR en proceso de cto 65385114: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+   Total contactos procesados: 15, errores: 15
+
+
+--------------------------------------------------------------------------------
+   Proceso de Autoarchivado. Inicio: Thu Dec 09 22:04:00 CET 2021
+--------------------------------------------------------------------------------
+Consulta:
+select cont_co_contacto, peti_co_peticion, band_co_bandeja 
+  from secontmo 
+where cont_in_sentido = 'E' 
+  and band_co_bandeja in (select band_co_bandeja from sebandmo where band_in_auto = 'S')
+  and estc_co_estado = NVL((select estc_co_estado from seestcmo where upper(estc_no_estado) = upper('nuevo')), -1)
+order by cont_fx_alta 
+
+--------------------
+* Inicio proceso cto: 63634760, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 63634760, etiq: Nombre/SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL
+  # Cto: 63634760, etiq: Segundo Apellido/No aplica
+  # Cto: 63634760, etiq: Tel[e閉fono de contacto/636958183
+* Cto: 63634760 etiquetas localizadas: 3
+(Valores: SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null)
+(idSolt: 30811119, A)
+(Valores: 30811119, SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null, null)
+> ERROR en proceso de cto 63634760: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 67, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 63709792, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 63709792, etiq: Nombre/SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL
+  # Cto: 63709792, etiq: Segundo Apellido/No aplica
+  # Cto: 63709792, etiq: Tel[e閉fono de contacto/636958183
+* Cto: 63709792 etiquetas localizadas: 3
+(Valores: SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null)
+(idSolt: 30811120, A)
+(Valores: 30811120, SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null, null)
+> ERROR en proceso de cto 63709792: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 67, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 64161402, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64161402, etiq: Nombre/AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA
+  # Cto: 64161402, etiq: Segundo Apellido/No aplica
+  # Cto: 64161402, etiq: Tel[e閉fono de contacto/941334006
+* Cto: 64161402 etiquetas localizadas: 3
+(Valores: AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA, null, No aplica, null, null)
+(idSolt: 30811121, A)
+(Valores: 30811121, AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA, null, No aplica, null, null, null)
+> ERROR en proceso de cto 64161402: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 71, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 64832673, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64832673, etiq: ID/9143212798280013421
+* Cto: 64832673 etiquetas localizadas: 1
+(CUC: null, CUE: 9143212798280013421)
+(idSolt: 30811122, R)
+(IdSolt: 30811122, CUE: 9143212798280013421, CUC: null)
+> ERROR en proceso de cto 64832673: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64886663, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64886663, etiq: ID/9143274914110001551
+* Cto: 64886663 etiquetas localizadas: 1
+(CUC: null, CUE: 9143274914110001551)
+(idSolt: 30811123, R)
+(IdSolt: 30811123, CUE: 9143274914110001551, CUC: null)
+> ERROR en proceso de cto 64886663: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64953271, pet: 0, band: 2358
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64953271, etiq: ID/d9710c5e2f85993f3c550cc4caf71429
+* Cto: 64953271 etiquetas localizadas: 1
+(CUC: null, CUE: d9710c5e2f85993f3c550cc4caf71429)
+(idSolt: 30811124, R)
+(IdSolt: 30811124, CUE: d9710c5e2f85993f3c550cc4caf71429, CUC: null)
+> ERROR en proceso de cto 64953271: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 32, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64991339, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64991339, etiq: ID/9143273781480003421
+* Cto: 64991339 etiquetas localizadas: 1
+(CUC: null, CUE: 9143273781480003421)
+(idSolt: 30811125, R)
+(IdSolt: 30811125, CUE: 9143273781480003421, CUC: null)
+> ERROR en proceso de cto 64991339: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64991342, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64991342, etiq: ID/9143402378460001551
+* Cto: 64991342 etiquetas localizadas: 1
+(CUC: null, CUE: 9143402378460001551)
+(idSolt: 30811126, R)
+(IdSolt: 30811126, CUE: 9143402378460001551, CUC: null)
+> ERROR en proceso de cto 64991342: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65024515, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65024515, etiq: ID/CCD4A1DD08E7
+  # Cto: 65024515, etiq: Nombre/RAQUEL FEIJOO
+  # Cto: 65024515, etiq: Segundo Apellido/No aplica
+  # Cto: 65024515, etiq: Tel[e閉fono de contacto/685145890
+* Cto: 65024515 etiquetas localizadas: 4
+(CUC: null, CUE: CCD4A1DD08E7)
+(idSolt: 30811127, R)
+(IdSolt: 30811127, CUE: CCD4A1DD08E7, CUC: null)
+> ERROR en proceso de cto 65024515: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 12, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65061617, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65061617, etiq: ID/9143479404450001551
+* Cto: 65061617 etiquetas localizadas: 1
+(CUC: null, CUE: 9143479404450001551)
+(idSolt: 30811128, R)
+(IdSolt: 30811128, CUE: 9143479404450001551, CUC: null)
+> ERROR en proceso de cto 65061617: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65071266, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65071266, etiq: ID/9143497049130003421
+* Cto: 65071266 etiquetas localizadas: 1
+(CUC: null, CUE: 9143497049130003421)
+(idSolt: 30811129, R)
+(IdSolt: 30811129, CUE: 9143497049130003421, CUC: null)
+> ERROR en proceso de cto 65071266: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65152644, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65152644, etiq: ID/9143618395920001551
+* Cto: 65152644 etiquetas localizadas: 1
+(CUC: null, CUE: 9143618395920001551)
+(idSolt: 30811130, R)
+(IdSolt: 30811130, CUE: 9143618395920001551, CUC: null)
+> ERROR en proceso de cto 65152644: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65282250, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65282250, etiq: ID/9143801955850001551
+* Cto: 65282250 etiquetas localizadas: 1
+(CUC: null, CUE: 9143801955850001551)
+(idSolt: 30811131, R)
+(IdSolt: 30811131, CUE: 9143801955850001551, CUC: null)
+> ERROR en proceso de cto 65282250: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65372061, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65372061, etiq: ID/9143928991140009631
+* Cto: 65372061 etiquetas localizadas: 1
+(CUC: null, CUE: 9143928991140009631)
+(idSolt: 30811132, R)
+(IdSolt: 30811132, CUE: 9143928991140009631, CUC: null)
+> ERROR en proceso de cto 65372061: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65385114, pet: 0, band: 6765
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65385114, etiq: ID/9143938378390009631
+* Cto: 65385114 etiquetas localizadas: 1
+(CUC: null, CUE: 9143938378390009631)
+(idSolt: 30811133, R)
+(IdSolt: 30811133, CUE: 9143938378390009631, CUC: null)
+> ERROR en proceso de cto 65385114: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+   Total contactos procesados: 15, errores: 15
+
+
+--------------------------------------------------------------------------------
+   Proceso de Autoarchivado. Inicio: Thu Dec 09 23:04:01 CET 2021
+--------------------------------------------------------------------------------
+Consulta:
+select cont_co_contacto, peti_co_peticion, band_co_bandeja 
+  from secontmo 
+where cont_in_sentido = 'E' 
+  and band_co_bandeja in (select band_co_bandeja from sebandmo where band_in_auto = 'S')
+  and estc_co_estado = NVL((select estc_co_estado from seestcmo where upper(estc_no_estado) = upper('nuevo')), -1)
+order by cont_fx_alta 
+
+--------------------
+* Inicio proceso cto: 63634760, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 63634760, etiq: Nombre/SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL
+  # Cto: 63634760, etiq: Segundo Apellido/No aplica
+  # Cto: 63634760, etiq: Tel[e閉fono de contacto/636958183
+* Cto: 63634760 etiquetas localizadas: 3
+(Valores: SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null)
+(idSolt: 30811172, A)
+(Valores: 30811172, SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null, null)
+> ERROR en proceso de cto 63634760: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 67, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 63709792, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 63709792, etiq: Nombre/SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL
+  # Cto: 63709792, etiq: Segundo Apellido/No aplica
+  # Cto: 63709792, etiq: Tel[e閉fono de contacto/636958183
+* Cto: 63709792 etiquetas localizadas: 3
+(Valores: SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null)
+(idSolt: 30811173, A)
+(Valores: 30811173, SERVIPOOL SERVICIOS INTEGRALES SL SERVIPOOL SERVICIOS INTEGRALES SL, null, No aplica, null, null, null)
+> ERROR en proceso de cto 63709792: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 67, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 64161402, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64161402, etiq: Nombre/AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA
+  # Cto: 64161402, etiq: Segundo Apellido/No aplica
+  # Cto: 64161402, etiq: Tel[e閉fono de contacto/941334006
+* Cto: 64161402 etiquetas localizadas: 3
+(Valores: AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA, null, No aplica, null, null)
+(idSolt: 30811174, A)
+(Valores: 30811174, AYUNTAMIENTO DE SAN VICENTE AYUNTAMIENTO DE SAN VICENTE DE LA SONSIERRA, null, No aplica, null, null, null)
+> ERROR en proceso de cto 64161402: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESONNMO"."SONN_NO_NOMBRE" (real: 71, m醲imo: 64)
+
+--------------------
+* Inicio proceso cto: 64832673, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64832673, etiq: ID/9143212798280013421
+* Cto: 64832673 etiquetas localizadas: 1
+(CUC: null, CUE: 9143212798280013421)
+(idSolt: 30811175, R)
+(IdSolt: 30811175, CUE: 9143212798280013421, CUC: null)
+> ERROR en proceso de cto 64832673: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64886663, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64886663, etiq: ID/9143274914110001551
+* Cto: 64886663 etiquetas localizadas: 1
+(CUC: null, CUE: 9143274914110001551)
+(idSolt: 30811176, R)
+(IdSolt: 30811176, CUE: 9143274914110001551, CUC: null)
+> ERROR en proceso de cto 64886663: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64953271, pet: 0, band: 2358
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64953271, etiq: ID/d9710c5e2f85993f3c550cc4caf71429
+* Cto: 64953271 etiquetas localizadas: 1
+(CUC: null, CUE: d9710c5e2f85993f3c550cc4caf71429)
+(idSolt: 30811177, R)
+(IdSolt: 30811177, CUE: d9710c5e2f85993f3c550cc4caf71429, CUC: null)
+> ERROR en proceso de cto 64953271: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 32, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64991339, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64991339, etiq: ID/9143273781480003421
+* Cto: 64991339 etiquetas localizadas: 1
+(CUC: null, CUE: 9143273781480003421)
+(idSolt: 30811178, R)
+(IdSolt: 30811178, CUE: 9143273781480003421, CUC: null)
+> ERROR en proceso de cto 64991339: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 64991342, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 64991342, etiq: ID/9143402378460001551
+* Cto: 64991342 etiquetas localizadas: 1
+(CUC: null, CUE: 9143402378460001551)
+(idSolt: 30811179, R)
+(IdSolt: 30811179, CUE: 9143402378460001551, CUC: null)
+> ERROR en proceso de cto 64991342: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65024515, pet: 0, band: 10563
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65024515, etiq: ID/CCD4A1DD08E7
+  # Cto: 65024515, etiq: Nombre/RAQUEL FEIJOO
+  # Cto: 65024515, etiq: Segundo Apellido/No aplica
+  # Cto: 65024515, etiq: Tel[e閉fono de contacto/685145890
+* Cto: 65024515 etiquetas localizadas: 4
+(CUC: null, CUE: CCD4A1DD08E7)
+(idSolt: 30811180, R)
+(IdSolt: 30811180, CUE: CCD4A1DD08E7, CUC: null)
+> ERROR en proceso de cto 65024515: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 12, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65061617, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65061617, etiq: ID/9143479404450001551
+* Cto: 65061617 etiquetas localizadas: 1
+(CUC: null, CUE: 9143479404450001551)
+(idSolt: 30811181, R)
+(IdSolt: 30811181, CUE: 9143479404450001551, CUC: null)
+> ERROR en proceso de cto 65061617: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65071266, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65071266, etiq: ID/9143497049130003421
+* Cto: 65071266 etiquetas localizadas: 1
+(CUC: null, CUE: 9143497049130003421)
+(idSolt: 30811182, R)
+(IdSolt: 30811182, CUE: 9143497049130003421, CUC: null)
+> ERROR en proceso de cto 65071266: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65152644, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65152644, etiq: ID/9143618395920001551
+* Cto: 65152644 etiquetas localizadas: 1
+(CUC: null, CUE: 9143618395920001551)
+(idSolt: 30811183, R)
+(IdSolt: 30811183, CUE: 9143618395920001551, CUC: null)
+> ERROR en proceso de cto 65152644: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65282250, pet: 0, band: 6645
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65282250, etiq: ID/9143801955850001551
+* Cto: 65282250 etiquetas localizadas: 1
+(CUC: null, CUE: 9143801955850001551)
+(idSolt: 30811184, R)
+(IdSolt: 30811184, CUE: 9143801955850001551, CUC: null)
+> ERROR en proceso de cto 65282250: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65372061, pet: 0, band: 6662
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65372061, etiq: ID/9143928991140009631
+* Cto: 65372061 etiquetas localizadas: 1
+(CUC: null, CUE: 9143928991140009631)
+(idSolt: 30811185, R)
+(IdSolt: 30811185, CUE: 9143928991140009631, CUC: null)
+> ERROR en proceso de cto 65372061: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+--------------------
+* Inicio proceso cto: 65385114, pet: 0, band: 6765
+  # Categorias a recuperar: ETIQ_QX, SUG_PETICION
+  # Cto: 65385114, etiq: ID/9143938378390009631
+* Cto: 65385114 etiquetas localizadas: 1
+(CUC: null, CUE: 9143938378390009631)
+(idSolt: 30811186, R)
+(IdSolt: 30811186, CUE: 9143938378390009631, CUC: null)
+> ERROR en proceso de cto 65385114: java.sql.SQLException: ORA-12899: el valor es demasiado grande para la columna "SEORA0"."SESOTWMO"."CLUE_CO_REFERENTE" (real: 19, m醲imo: 8)
+
+   Total contactos procesados: 15, errores: 15
+
+
+######################################################
+### --> Existe otra ruta de log para esta fase <-- ###
+######################################################
+[INFO] La otra ruta de log es: /apps/SE01/logs/fases/ctm.
+[INFO] Listar logs encontrados del dia 20211209:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 09:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00002
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 10:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00003
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 11:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00004
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 12:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00005
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 13:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00006
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 14:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00007
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 15:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00008
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 16:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00009
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 17:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00010
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 18:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00011
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 19:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00012
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 20:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00013
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 21:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00014
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 23:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00016
+-rw-r--r-- 1 USMSE01 aplicacion 0 Dec  9 06:30 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_03zwn9_00017
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 08:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00001
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 07:30 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_03zwn9_00018
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 09:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00002
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 10:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00003
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 11:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00004
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 12:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00005
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 13:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00006
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 14:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00007
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 15:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00008
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 16:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00009
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 17:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00010
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 18:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00011
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 19:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00012
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 20:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00013
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 21:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00014
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 23:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00016
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 0 Dec  9 06:30 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_03zwn9_00017
+
+[INFO] El contenido es ...:
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 08:04 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_0421o0_00001
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 3857 Dec  9 07:30 /apps/SE01/logs/fases/ctm/SE041DC0_sh.LOG_03zwn9_00018
+
+[INFO] El contenido es ...:
++ NACONFIG=/apps/na/config/SE01CONFIG.PROP
++ export NACONFIG
++ ORACLE_SID=PSE000_BATCH_SE00
++ export ORACLE_SID
++ USR=se
++ export USR
++ PASSWD=se
++ export PASSWD
++ CAD_CONEX='(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))'
++ export CAD_CONEX
++ PATH=/products/oradb/client1210/121020/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/CA/AccessControl/bin:/opt/CA/AccessControl/bin:/apps/users/USMSE01/.local/bin:/apps/users/USMSE01/bin:/apps/jdk/base/jdk1.8.0_65/bin
++ export PATH
++ CLASSPATH=:/apps/na/v5.1/classes:/products/oradb/client1210/121020/jdbc/lib/ojdbc6.jar:/apps/SE01/lib/te-se-fases.jar
++ export CLASSPATH
++ PATH_DATOS_BACKUP=/apps/SE01/dat/backup
++ export PATH_DATOS_BACKUP
++ PATH_DATOS_IN=/apps/SE01/dat/in
++ export PATH_DATOS_IN
++ PATH_DATOS=/apps/SE01/dat/out
++ export PATH_DATOS
++ PATH_DATOS2=/opt/aat/docs/estadisticas
++ export PATH_DATOS2
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE041DC0.20211209.log
++ [ -n '' ]
++ MAX_NUM=-1
++ export MAX_NUM
++ java se.fases.SeFaAutoarchivado '(DESCRIPTION=(FAILOVER=ON)(LOAD_BALANCE=off)(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=tehol05v-scan.prod.cpd.osi)(PORT=50040))(ADDRESS=(PROTOCOL=TCP)(HOST=tehol06v-scan.prod.cpd.osi)(PORT=50040)))(CONNECT_DATA=(SERVICE_NAME=PSE000_BATCH_SE00)))' se se /apps/SE01/fases/../parms/SEParamAutoarchQX.properties -1
++ 1>> /apps/SE01/logs/fases/SE041DC0.20211209.log 2>> /apps/SE01/logs/fases/SE041DC0.20211209.log
++ rc=0
++ echo $'c贸digo de retorno =0'
+c贸digo de retorno =0
++ exit 0
+
+
+
+
+
+
+[INFO] ===== Fase SE043DC0 ==============================================================================
+[INFO] Listar logs de la fecha de revision: 20211209:
+-rw-r--r-- 1 USMSE01 aplicacion 5808 Dec  9 23:34 /apps/SE01/logs/fases/SE043DC0.20211209.log
+
+[INFO] Mostrar el contenido de los logs:
+SE043DC010 Inicio 12/09/21 11:34:00
+SE043DC010 12/09/21 11:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 12:04:01
+SE043DC010 12/09/21 12:04:01 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 12:34:00
+SE043DC010 12/09/21 12:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 13:04:00
+SE043DC010 12/09/21 13:04:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 13:34:00
+SE043DC010 12/09/21 13:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 14:04:01
+SE043DC010 12/09/21 14:04:01 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 14:34:00
+SE043DC010 12/09/21 14:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 15:04:00
+SE043DC010 12/09/21 15:04:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 15:34:00
+SE043DC010 12/09/21 15:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 16:04:01
+SE043DC010 12/09/21 16:04:01 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 16:34:00
+SE043DC010 12/09/21 16:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 17:04:00
+SE043DC010 12/09/21 17:04:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 17:34:00
+SE043DC010 12/09/21 17:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 18:04:00
+SE043DC010 12/09/21 18:04:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 18:34:00
+SE043DC010 12/09/21 18:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 19:04:00
+SE043DC010 12/09/21 19:04:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 19:34:00
+SE043DC010 12/09/21 19:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 20:04:01
+SE043DC010 12/09/21 20:04:01 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 20:34:00
+SE043DC010 12/09/21 20:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 21:04:00
+SE043DC010 12/09/21 21:04:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 21:34:00
+SE043DC010 12/09/21 21:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 22:04:00
+SE043DC010 12/09/21 22:04:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 22:34:00
+SE043DC010 12/09/21 22:34:00 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 23:04:01
+SE043DC010 12/09/21 23:04:01 No hay ningun fichero de entrada que procesar retorno=2
+SE043DC010 Inicio 12/09/21 23:34:00
+SE043DC010 12/09/21 23:34:00 No hay ningun fichero de entrada que procesar retorno=2
+
+
+######################################################
+### --> Existe otra ruta de log para esta fase <-- ###
+######################################################
+[INFO] La otra ruta de log es: /apps/SE01/logs/fases/ctm.
+[INFO] Listar logs encontrados del dia 20211209:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 08:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00002
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 09:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00003
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 09:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00004
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 10:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00005
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 10:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00006
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 11:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00007
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 11:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00008
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 12:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00009
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 12:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00010
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 13:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00011
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 13:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00012
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 14:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00013
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 14:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00014
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 15:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00015
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 15:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00016
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 16:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00017
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 16:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00018
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 17:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00019
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 17:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00020
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 18:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00021
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 18:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00022
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 19:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00023
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 19:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00024
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 20:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00025
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 20:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00026
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 21:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00027
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 21:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00028
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 22:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00029
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 22:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00030
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 23:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00031
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 23:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00032
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 00:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00033
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 00:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00034
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 01:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00035
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 01:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00036
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 02:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00037
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 02:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00038
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 03:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00039
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 03:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00040
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 04:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00041
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 04:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00042
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 05:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00043
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 05:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00044
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 06:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00045
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 06:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00046
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 07:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00047
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 07:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00048
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 08:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00001
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 08:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00002
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 08:34:00
+SE043DC010 Inicio 12/09/21 08:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 08:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '08:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 08:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '08:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 09:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00003
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 09:04:00
+SE043DC010 Inicio 12/09/21 09:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 09:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '09:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 09:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '09:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 09:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00004
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 09:34:00
+SE043DC010 Inicio 12/09/21 09:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 09:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '09:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 09:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '09:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 10:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00005
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 10:04:00
+SE043DC010 Inicio 12/09/21 10:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 10:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '10:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 10:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '10:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 10:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00006
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 10:34:00
+SE043DC010 Inicio 12/09/21 10:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 10:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '10:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 10:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '10:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 11:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00007
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 11:04:00
+SE043DC010 Inicio 12/09/21 11:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 11:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '11:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 11:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '11:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 11:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00008
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 11:34:00
+SE043DC010 Inicio 12/09/21 11:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 11:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '11:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 11:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '11:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 12:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00009
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 12:04:01
+SE043DC010 Inicio 12/09/21 12:04:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 12:04:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '12:04:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 12:04:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '12:04:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 12:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00010
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 12:34:00
+SE043DC010 Inicio 12/09/21 12:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 12:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '12:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 12:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '12:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 13:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00011
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 13:04:00
+SE043DC010 Inicio 12/09/21 13:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 13:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '13:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 13:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '13:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 13:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00012
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 13:34:00
+SE043DC010 Inicio 12/09/21 13:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 13:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '13:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 13:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '13:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 14:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00013
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 14:04:01
+SE043DC010 Inicio 12/09/21 14:04:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 14:04:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '14:04:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 14:04:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '14:04:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 14:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00014
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 14:34:00
+SE043DC010 Inicio 12/09/21 14:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 14:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '14:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 14:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '14:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 15:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00015
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 15:04:00
+SE043DC010 Inicio 12/09/21 15:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 15:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '15:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 15:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '15:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 15:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00016
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 15:34:00
+SE043DC010 Inicio 12/09/21 15:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 15:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '15:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 15:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '15:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 16:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00017
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 16:04:01
+SE043DC010 Inicio 12/09/21 16:04:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 16:04:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '16:04:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 16:04:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '16:04:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 16:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00018
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 16:34:00
+SE043DC010 Inicio 12/09/21 16:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 16:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '16:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 16:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '16:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 17:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00019
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 17:04:00
+SE043DC010 Inicio 12/09/21 17:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 17:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '17:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 17:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '17:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 17:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00020
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 17:34:00
+SE043DC010 Inicio 12/09/21 17:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 17:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '17:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 17:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '17:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 18:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00021
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 18:04:00
+SE043DC010 Inicio 12/09/21 18:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 18:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '18:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 18:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '18:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 18:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00022
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 18:34:00
+SE043DC010 Inicio 12/09/21 18:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 18:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '18:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 18:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '18:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 19:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00023
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 19:04:00
+SE043DC010 Inicio 12/09/21 19:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 19:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '19:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 19:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '19:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 19:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00024
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 19:34:00
+SE043DC010 Inicio 12/09/21 19:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 19:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '19:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 19:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '19:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 20:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00025
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 20:04:01
+SE043DC010 Inicio 12/09/21 20:04:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 20:04:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '20:04:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 20:04:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '20:04:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 20:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00026
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 20:34:00
+SE043DC010 Inicio 12/09/21 20:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 20:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '20:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 20:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '20:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 21:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00027
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 21:04:00
+SE043DC010 Inicio 12/09/21 21:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 21:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '21:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 21:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '21:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 21:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00028
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 21:34:00
+SE043DC010 Inicio 12/09/21 21:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 21:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '21:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 21:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '21:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 22:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00029
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 22:04:00
+SE043DC010 Inicio 12/09/21 22:04:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 22:04:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '22:04:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 22:04:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '22:04:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 22:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00030
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 22:34:00
+SE043DC010 Inicio 12/09/21 22:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 22:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '22:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 22:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '22:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 23:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00031
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 23:04:01
+SE043DC010 Inicio 12/09/21 23:04:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 23:04:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '23:04:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 23:04:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '23:04:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 23:34 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00032
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 23:34:00
+SE043DC010 Inicio 12/09/21 23:34:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 23:34:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '23:34:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 23:34:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '23:34:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 00:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00033
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 00:03:01
+SE043DC010 Inicio 12/09/21 00:03:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 00:03:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '00:03:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 00:03:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '00:03:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 00:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00034
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 00:33:00
+SE043DC010 Inicio 12/09/21 00:33:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 00:33:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '00:33:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 00:33:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '00:33:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 01:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00035
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 01:03:00
+SE043DC010 Inicio 12/09/21 01:03:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 01:03:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '01:03:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 01:03:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '01:03:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 01:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00036
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 01:33:00
+SE043DC010 Inicio 12/09/21 01:33:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 01:33:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '01:33:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 01:33:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '01:33:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 02:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00037
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 02:03:01
+SE043DC010 Inicio 12/09/21 02:03:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 02:03:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '02:03:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 02:03:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '02:03:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 02:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00038
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 02:33:01
+SE043DC010 Inicio 12/09/21 02:33:01
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 02:33:01
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '02:33:01 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 02:33:01 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '02:33:01 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 03:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00039
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 03:03:00
+SE043DC010 Inicio 12/09/21 03:03:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 03:03:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '03:03:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 03:03:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '03:03:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 03:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00040
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 03:33:00
+SE043DC010 Inicio 12/09/21 03:33:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 03:33:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '03:33:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 03:33:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '03:33:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 04:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00041
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 04:03:00
+SE043DC010 Inicio 12/09/21 04:03:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 04:03:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '04:03:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 04:03:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '04:03:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 04:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00042
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 04:33:00
+SE043DC010 Inicio 12/09/21 04:33:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 04:33:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '04:33:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 04:33:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '04:33:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 05:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00043
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 05:03:00
+SE043DC010 Inicio 12/09/21 05:03:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 05:03:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '05:03:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 05:03:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '05:03:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 05:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00044
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 05:33:00
+SE043DC010 Inicio 12/09/21 05:33:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 05:33:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '05:33:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 05:33:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '05:33:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 06:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00045
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 06:03:00
+SE043DC010 Inicio 12/09/21 06:03:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 06:03:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '06:03:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 06:03:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '06:03:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 06:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00046
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 06:33:00
+SE043DC010 Inicio 12/09/21 06:33:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 06:33:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '06:33:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 06:33:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '06:33:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 07:03 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00047
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 07:03:00
+SE043DC010 Inicio 12/09/21 07:03:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 07:03:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '07:03:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 07:03:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '07:03:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 07:33 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_03zwn8_00048
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 07:33:00
+SE043DC010 Inicio 12/09/21 07:33:00
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 07:33:00
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '07:33:00 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 07:33:00 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '07:33:00 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+[INFO] Mostrar el contenido del fichero:
+-rw-r--r-- 1 USMSE01 aplicacion 4262 Dec  9 08:04 /apps/SE01/logs/fases/ctm/SE043DC0_sh.LOG_0421nz_00001
+
+[INFO] El contenido es ...:
++ PATH_FICH_LOG=/apps/SE01/logs/fases
++ export PATH_FICH_LOG
++ PATH_CFG=/apps/SE01/parms
++ export PATH_CFG
++ PATH_SQL=/apps/SE01/plsql
++ export PATH_SQL
++ PATH_SHR=/apps/se_nfs
++ export PATH_SHR
++ TIPO=rcp
++ export TIPO
++ PATH_DEMON_LOG=/apps/SE01/logs/demonios
++ export PATH_DEMON_LOG
++ FICH_DEMON_CFG=/apps/SE01/parms/SEParamGlobales.properties
++ export FICH_DEMON_CFG
++ GZ_BIN=/usr/bin
++ export GZ_BIN
++ . /apps/SE01/parms/SE043DC0.cfg
++ PATH_FICH_CORRECTOR=/apps/se_nfs/corrector
++ export PATH_FICH_CORRECTOR
++ FICH_INC=dic_inc
++ export FICH_INC
++ FICH_TOTAL=dic_total
++ export FICH_TOTAL
++ FICH_FINAL=dic_extra
++ export FICH_FINAL
++ date +%Y%m%d
++ FECHA=20211209
++ FICH_LOG=/apps/SE01/logs/fases/SE043DC0.20211209.log
++ pwd
++ PATH_ACT=/apps/users/USMSE01
++ cd /apps/se_nfs/corrector
++ rc=0
++ PASO=SE043DC010
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 08:04:28
+SE043DC010 Inicio 12/09/21 08:04:28
++ date '+%D %T'
++ echo 'SE043DC010 Inicio 12/09/21' 08:04:28
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ -f 'dic_total*' ]
++ [ -f 'dic_inc*' ]
++ rc=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '08:04:28 No hay ningun fichero de entrada que procesar' retorno=2
+SE043DC010 12/09/21 08:04:28 No hay ningun fichero de entrada que procesar retorno=2
++ date '+%D %T'
++ echo 'SE043DC010 12/09/21' '08:04:28 No hay ningun fichero de entrada que procesar' retorno=2
++ 1>> /apps/SE01/logs/fases/SE043DC0.20211209.log
++ [ 2 '!=' 0 ]
++ exit 2
+
+
+
+
+
+
+[INFO] Finaliza Revision de las fases del dia 20211209.
+---------------------------------------------------------------------------------------------------------
+##### FIN REVISION FASES SE - Fecha actual: Fri Dec 10 08:05:03 CET 2021 ###################################################

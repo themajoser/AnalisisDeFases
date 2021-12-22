@@ -1,0 +1,107 @@
+[32m[2020-12-21T12:27:39.764] [INFO] packages\node_modules\node-red\config.js(1:3707)[39m - 
+   ,----------------------------------------------------------------------------.
+   |                                                                            |
+   |    ____             _                          _____ _                     |
+   |   |  _ \  ___ _ __ | |_ __ _ _ __  _ __  ___  |  ___| | _____      _____   |
+   |   | | | |/ _ \ '_ \| __/ _` | '_ \| '_ \/ __| | |_  | |/ _ \ \ /\ / / __|  |
+   |   | |_| |  __/ |_) | || (_| | |_) | |_) \__ \ |  _| | | (_) \ V  V /\__ \  |
+   |   |____/ \___| .__/ \__\__,_| .__/| .__/|___/ |_|   |_|\___/ \_/\_/ |___/  |
+   |              |_|            |_|   |_|                                      |
+   |                                       v2.9.0 (powered by NODE-RED v1.0.3)  |
+   |                                                                            |
+   |         © 2020 Everis | an NTT Data Company. All Rights Reserved.          |
+   |                                                                            |
+   `----------------------------------------------------------------------------'
+
+[32m[2020-12-21T12:27:39.771] [INFO] packages\node_modules\node-red\config.js(1:7618)[39m - Welcome to DEPTAPPS Flows v2.9.0 (powered by NODE-RED v1.0.3)! Global config context initialized
+[32m[2020-12-21T12:27:41.636] [INFO] packages\node_modules\node-red\deptapps.js(1:17879)[39m - Initializating DEPTAPPS cloud context...
+[36m[2020-12-21T12:27:42.205] [DEBUG] packages\node_modules\node-red\deptapps.js(1:28068)[39m - { impersonate: true,
+  userInfo: null,
+  impersonateInfo:
+   { requestedId: '1e8ecd29-b761-4555-b364-97688afb3a8a',
+     requestedFrom: 'deptapps-prod',
+     requestedBy: 'joruilop@everis.com',
+     impersonateMetaInformation:
+      { idDeptApp: 148,
+        idDeptAppVersion: 3609,
+        transversalAccessResources: [Object] } } }
+[32m[2020-12-21T12:27:42.639] [INFO] packages\node_modules\node-red\deptapps.js(1:28268)[39m - Startup Date [Mon Dec 21 2020 12:27:42 GMT+0100 (hora estándar de Europa central)] - TimeZone ID: [undefined]
+[32m[2020-12-21T12:27:42.887] [INFO] packages\node_modules\node-red\deptapps.js(1:28423)[39m - The NPM registry context is: https://npm-registry.deptapps.a2i.everis.cloud'
+[32m[2020-12-21T12:27:42.891] [INFO] packages\node_modules\node-red\deptapps.js(1:28563)[39m - DEPTAPP instance local DB files are in path 'C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\internal-storage-files\db'
+[32m[2020-12-21T12:27:42.902] [INFO] packages\node_modules\node-red\deptapps.js(1:28857)[39m - DEPTAPP local database NeDB is init!!
+[32m[2020-12-21T12:27:42.908] [INFO] packages\node_modules\node-red\deptapps.js(1:28965)[39m - DEPTAPP instance local PYSHICAL files are in path 'C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\internal-storage-files\files'
+[32m[2020-12-21T12:27:42.908] [INFO] packages\node_modules\node-red\deptapps.js(1:29504)[39m - DEPTAPP container starting for MD|ONE impersonate token JWT requested by 'joruilop@everis.com' - DEPTAPP Name: Revisión de fases v0.5.4 - Mode: Headless-Production
+[32m[2020-12-21T12:27:42.910] [INFO] packages\node_modules\node-red\deptapps.js(1:9975)[39m - No init daemon refresh token because the token is permanent!
+[32m[2020-12-21T12:27:42.911] [INFO] packages\node_modules\node-red\deptapps.js(1:29628)[39m - DEPTAPPS cloud context initialization finish...
+[32m[2020-12-21T12:27:42.911] [INFO] packages\node_modules\node-red\red.js(3:7611)[39m - After initialization settings.autoInstallModules=true...
+[32m[2020-12-21T12:27:42.956] [INFO] packages\node_modules\node-red\red.js(3:12973)[39m - After RED.start()...
+[32m[2020-12-21T12:27:43.569] [INFO] @node-red\runtime\lib\index.js(1:4789)[39m - Node.js  version: v10.11.0
+[32m[2020-12-21T12:27:43.569] [INFO] @node-red\runtime\lib\index.js(1:5345)[39m - Windows_NT 10.0.17134 x64 LE
+[32m[2020-12-21T12:27:43.585] [INFO] @node-red\registry\lib\installer.js(1:11043)[39m - Palette editor disabled : npm command not found
+[32m[2020-12-21T12:27:43.586] [INFO] @node-red\registry\lib\loader.js(1:1843)[39m - Loading palette nodes
+[32m[2020-12-21T12:27:45.138] [INFO] @node-red\runtime\lib\index.js(1:7099)[39m - After check missing modules the variable settings.autoInstallModules=true
+[32m[2020-12-21T12:27:45.139] [INFO] @node-red\runtime\lib\index.js(1:7992)[39m - Settings file  : C:\Users\joruilop\.node-red\settings.js
+[32m[2020-12-21T12:27:45.140] [INFO] lib\nodes\context\index.js(1:4575)[39m - Context store  : 'default' [module=memory]
+[32m[2020-12-21T12:27:45.141] [INFO] storage\localfilesystem\projects\index.js(1:18577)[39m - User directory : C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\data
+[33m[2020-12-21T12:27:45.141] [WARN] storage\localfilesystem\projects\index.js(1:19104)[39m - Projects disabled : editorTheme.projects.enabled=false
+[32m[2020-12-21T12:27:45.142] [INFO] storage\localfilesystem\projects\index.js(1:19147)[39m - Flows file     : C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\data\flows_MUR-6V5K9V2.json
+[32m[2020-12-21T12:27:45.164] [INFO] packages\node_modules\node-red\red.js(3:14040)[39m - Server now running at http://127.0.0.1:61873/
+[32m[2020-12-21T12:27:45.190] [INFO] deptapp-148\resources\app\main.js(110:14)[39m - It seems the index html page hasn't loaded yet... It will be tried in 5 seconds...
+[32m[2020-12-21T12:27:45.262] [INFO] lib\nodes\flows\index.js(1:16695)[39m - Starting flows
+[32m[2020-12-21T12:27:45.297] [INFO] lib\nodes\flows\index.js(1:18649)[39m - Started flows
+[91m[2020-12-21T12:28:40.331] [ERROR] nodes\core\storage\10-file.js(1:9423)[39m - [file in:Lectura Info Fases NE] Error: ENOENT: no such file or directory, open 'C:\internal-storage-files\files\conf\info_fases_NE.config'
+[32m[2020-12-21T12:30:19.680] [INFO] packages\node_modules\node-red\config.js(1:3707)[39m - 
+   ,----------------------------------------------------------------------------.
+   |                                                                            |
+   |    ____             _                          _____ _                     |
+   |   |  _ \  ___ _ __ | |_ __ _ _ __  _ __  ___  |  ___| | _____      _____   |
+   |   | | | |/ _ \ '_ \| __/ _` | '_ \| '_ \/ __| | |_  | |/ _ \ \ /\ / / __|  |
+   |   | |_| |  __/ |_) | || (_| | |_) | |_) \__ \ |  _| | | (_) \ V  V /\__ \  |
+   |   |____/ \___| .__/ \__\__,_| .__/| .__/|___/ |_|   |_|\___/ \_/\_/ |___/  |
+   |              |_|            |_|   |_|                                      |
+   |                                       v2.9.0 (powered by NODE-RED v1.0.3)  |
+   |                                                                            |
+   |         © 2020 Everis | an NTT Data Company. All Rights Reserved.          |
+   |                                                                            |
+   `----------------------------------------------------------------------------'
+
+[32m[2020-12-21T12:30:19.684] [INFO] packages\node_modules\node-red\config.js(1:7618)[39m - Welcome to DEPTAPPS Flows v2.9.0 (powered by NODE-RED v1.0.3)! Global config context initialized
+[32m[2020-12-21T12:30:21.044] [INFO] packages\node_modules\node-red\deptapps.js(1:17879)[39m - Initializating DEPTAPPS cloud context...
+[36m[2020-12-21T12:30:21.511] [DEBUG] packages\node_modules\node-red\deptapps.js(1:28068)[39m - { impersonate: true,
+  userInfo: null,
+  impersonateInfo:
+   { requestedId: '1e8ecd29-b761-4555-b364-97688afb3a8a',
+     requestedFrom: 'deptapps-prod',
+     requestedBy: 'joruilop@everis.com',
+     impersonateMetaInformation:
+      { idDeptApp: 148,
+        idDeptAppVersion: 3609,
+        transversalAccessResources: [Object] } } }
+[32m[2020-12-21T12:30:21.923] [INFO] packages\node_modules\node-red\deptapps.js(1:28268)[39m - Startup Date [Mon Dec 21 2020 12:30:21 GMT+0100 (hora estándar de Europa central)] - TimeZone ID: [undefined]
+[32m[2020-12-21T12:30:22.097] [INFO] packages\node_modules\node-red\deptapps.js(1:28423)[39m - The NPM registry context is: https://npm-registry.deptapps.a2i.everis.cloud'
+[32m[2020-12-21T12:30:22.099] [INFO] packages\node_modules\node-red\deptapps.js(1:28563)[39m - DEPTAPP instance local DB files are in path 'C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\internal-storage-files\db'
+[32m[2020-12-21T12:30:22.115] [INFO] packages\node_modules\node-red\deptapps-nedb.js(1:6880)[39m - [deptapps-nedb] Successfully loading database C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\internal-storage-files\db\.internal-system-databases\crypto-context-changelog.deptapps-system-db
+[32m[2020-12-21T12:30:22.119] [INFO] packages\node_modules\node-red\deptapps.js(1:28857)[39m - DEPTAPP local database NeDB is init!!
+[32m[2020-12-21T12:30:22.120] [INFO] packages\node_modules\node-red\deptapps.js(1:28965)[39m - DEPTAPP instance local PYSHICAL files are in path 'C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\internal-storage-files\files'
+[32m[2020-12-21T12:30:22.120] [INFO] packages\node_modules\node-red\deptapps.js(1:29504)[39m - DEPTAPP container starting for MD|ONE impersonate token JWT requested by 'joruilop@everis.com' - DEPTAPP Name: Revisión de fases v0.5.4 - Mode: Headless-Production
+[32m[2020-12-21T12:30:22.122] [INFO] packages\node_modules\node-red\deptapps.js(1:9975)[39m - No init daemon refresh token because the token is permanent!
+[32m[2020-12-21T12:30:22.122] [INFO] packages\node_modules\node-red\deptapps.js(1:29628)[39m - DEPTAPPS cloud context initialization finish...
+[32m[2020-12-21T12:30:22.122] [INFO] packages\node_modules\node-red\red.js(3:7611)[39m - After initialization settings.autoInstallModules=true...
+[32m[2020-12-21T12:30:22.164] [INFO] packages\node_modules\node-red\red.js(3:12973)[39m - After RED.start()...
+[32m[2020-12-21T12:30:22.993] [INFO] @node-red\runtime\lib\index.js(1:4789)[39m - Node.js  version: v10.11.0
+[32m[2020-12-21T12:30:22.993] [INFO] @node-red\runtime\lib\index.js(1:5345)[39m - Windows_NT 10.0.17134 x64 LE
+[32m[2020-12-21T12:30:23.001] [INFO] @node-red\registry\lib\installer.js(1:11043)[39m - Palette editor disabled : npm command not found
+[32m[2020-12-21T12:30:23.001] [INFO] @node-red\registry\lib\loader.js(1:1843)[39m - Loading palette nodes
+[32m[2020-12-21T12:30:24.442] [INFO] @node-red\runtime\lib\index.js(1:7099)[39m - After check missing modules the variable settings.autoInstallModules=true
+[32m[2020-12-21T12:30:24.443] [INFO] @node-red\runtime\lib\index.js(1:7992)[39m - Settings file  : C:\Users\joruilop\.node-red\settings.js
+[32m[2020-12-21T12:30:24.444] [INFO] lib\nodes\context\index.js(1:4575)[39m - Context store  : 'default' [module=memory]
+[32m[2020-12-21T12:30:24.445] [INFO] storage\localfilesystem\projects\index.js(1:18577)[39m - User directory : C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\data
+[33m[2020-12-21T12:30:24.445] [WARN] storage\localfilesystem\projects\index.js(1:19104)[39m - Projects disabled : editorTheme.projects.enabled=false
+[32m[2020-12-21T12:30:24.446] [INFO] storage\localfilesystem\projects\index.js(1:19147)[39m - Flows file     : C:\Users\joruilop\.deptapps-instances\148\deptapps\desktop-instances\deptapp-148\.profile\data\flows_MUR-6V5K9V2.json
+[32m[2020-12-21T12:30:24.471] [INFO] packages\node_modules\node-red\red.js(3:14040)[39m - Server now running at http://127.0.0.1:61950/
+[32m[2020-12-21T12:30:24.495] [INFO] deptapp-148\resources\app\main.js(110:14)[39m - It seems the index html page hasn't loaded yet... It will be tried in 5 seconds...
+[32m[2020-12-21T12:30:24.565] [INFO] lib\nodes\flows\index.js(1:16695)[39m - Starting flows
+[32m[2020-12-21T12:30:24.600] [INFO] lib\nodes\flows\index.js(1:18649)[39m - Started flows
+[91m[2020-12-21T12:30:49.495] [ERROR] nodes\core\storage\10-file.js(1:9423)[39m - [file in:Lectura Info Fases NE] Error: ENOENT: no such file or directory, open 'C:\internal-storage-files\files\conf\info_fases_NE.config'
+[91m[2020-12-21T12:30:56.298] [ERROR] nodes\core\storage\10-file.js(1:9423)[39m - [file in:Lectura Info Fases COLX] Error: ENOENT: no such file or directory, open 'C:\internal-storage-files\files\conf\info_fases_COLX.config'
+[91m[2020-12-21T12:32:49.490] [ERROR] nodes\core\storage\10-file.js(1:9423)[39m - [file in:Lectura Info Fases NE] Error: ENOENT: no such file or directory, open 'C:\internal-storage-files\files\conf\info_fases_NE.config'

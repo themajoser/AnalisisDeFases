@@ -1,0 +1,33 @@
+##### INICIO REVISION FASES EN - Fecha actual: Fri Dec 10 08:05:01 CET 2021 ################################################
+---------------------------------------------------------------------------------------------------------
+[INFO] No hay argumento, se coge por defecto la fecha del dia anterior 20211209.
+[INFO] Comenzando Revision de las fases del dia: 20211209 ...
+
+[INFO] La ruta de log para revision es: /apps/EN01/logs.
+
+[INFO] ===== Fase EN001D00 ==============================================================================
+######################################################
+###  --> Esta fase existe varias ejecuciones <--   ###
+######################################################
+[INFO] Listar logs de la fecha de revision: 20211209:
+
+
+
+
+
+
+[INFO] ===== Fase EN002D00 ==============================================================================
+######################################################
+###   --> Esta fase se ejecuta puntualmente <--    ###
+######################################################
+[INFO] Listar todos los logs disponibles de esta fase:
+ls: cannot access /apps/EN01/logs/EN002D00*: No such file or directory
+
+
+
+
+
+
+[INFO] Finaliza Revision de las fases del dia 20211209.
+---------------------------------------------------------------------------------------------------------
+##### FIN REVISION FASES EN - Fecha actual: Fri Dec 10 08:05:01 CET 2021 ###################################################
